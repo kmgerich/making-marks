@@ -581,10 +581,26 @@ main :first-child {
 }
 
 .comment-list {
+	position: relative;
 	list-style: none;
 	margin: 0;
-	padding: 0;
-	border-left: 2px solid var(--rule);
+	padding: 0 0 0 2px; /* room for the rule, drawn by ::before */
+}
+/* The vertical rule, fading into the background over 15px at each end. */
+.comment-list::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 2px;
+	background: linear-gradient(
+		to bottom,
+		transparent,
+		var(--rule) 15px,
+		var(--rule) calc(100% - 15px),
+		transparent
+	);
 }
 .comment {
 	position: relative;
