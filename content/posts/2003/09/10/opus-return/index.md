@@ -28,8 +28,3 @@ Some of my favorite comics:
 [P.S. Mueller](http://www.psmueller.com/cgi-bin/cartoon-frames.cgi?screen=random)  
 [Zippy the Pinhead](http://www.zippythepinhead.com/)  
 [The K Cronicles and (th)ink](http://www.kchronicles.com/index.html)
-
-## Comments
-
-**Sharon M.** on 2004-01-07 12:03:43
-> I agree that newsprint has an advantage with portability and resolution. But affordability? Hmmm. Regular price of the Washington Post is $88 for 26 weeks, or $176/yr for 7-day-a-week delivery. If you keep your computer for 3 years and buy a cheap no-brand (or build your own), not such a huge difference between $528 for the home-delivered Post and an eMachine.

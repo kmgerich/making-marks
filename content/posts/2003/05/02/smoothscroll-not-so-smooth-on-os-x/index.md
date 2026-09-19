@@ -16,11 +16,3 @@ tags:
   - firefox
 ---
 You might notice that scrolling with the mouse wheel or space bar is a bit more jerky than you are used to in [Mozilla Firebird](http://kmgerich.com/misc.html). This is because of a feature called Smoothscroll which seems to have problems on OS X. To turn it off, type ‘about: config’ in your URL bar, scroll down to ‘general.smoothScroll’, double-click it and set the value to false.
-
-## Comments
-
-**David** on 2003-05-03 21:27:57
-> That helps tremendously. I was using the Smoothscroll extension, it was helping but the scrolling was real slow.
-> 
-> Now I have normal scrolling back!!
-> 

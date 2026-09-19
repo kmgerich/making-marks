@@ -1,0 +1,580 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Mario",
+      "url": null,
+      "date": "2004-02-08T04:25:40",
+      "body": "These theme makes firebird more aqua looking than camino, it's so elegant, ive been using it since the firstnightlies it is a great work... i was wondering if your you are going to develop a mozilla one??\n\nThe only thing thats missing from totally turning me to FB its that there is no close button per tab ala Safari..."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-08T08:41:53",
+      "body": "Thanks for the compliment Mario :) Yes I am going to be making a Mozilla Suite theme after I announce the Thunderbird theme which should be in the next week or two."
+    },
+    {
+      "id": 3,
+      "author": "Bernie",
+      "url": null,
+      "date": "2004-02-08T13:17:45",
+      "body": "Kevin\nThanks again for your Pinstripe themes... As a Mozilla suite fan, I'm waiting (for a long time now !!! :)) your version for 1.6 and next... firebird is nice, but a little bit too much rough on mac for the moment... And the suite app. is almost perfect !!!\nThanks again !"
+    },
+    {
+      "id": 4,
+      "author": "Peter",
+      "url": null,
+      "date": "2004-02-08T15:24:42",
+      "body": "Can't wait for your thunderbird theme"
+    },
+    {
+      "id": 5,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-02-08T17:26:25",
+      "body": "I'm no Mac user, but wouldn't the customize toolbar dialog be better displayed as one of those spiffy 'sheets' instead of a dialog window. That seems to be the UI rule concerning dialog boxes on teh mac."
+    },
+    {
+      "id": 6,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-08T19:35:02",
+      "body": "You're right rgw. Here's the <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=206649\" rel=\"nofollow ugc\">bug report</a> that covers it. This is one of the rough spots which will hopefully be smoothed out by Firebird 1.0"
+    },
+    {
+      "id": 7,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-02-08T20:34:15",
+      "body": "Thanks for the info Kevin! BTW, your theme looks very classy; definitely makes firebird look 'purdy' on the mac."
+    },
+    {
+      "id": 8,
+      "author": "Brad",
+      "url": null,
+      "date": "2004-02-09T00:39:49",
+      "body": "not for Windows :-("
+    },
+    {
+      "id": 9,
+      "author": "leonard",
+      "url": null,
+      "date": "2004-02-09T04:58:59",
+      "body": "Just d/l'd FireFox 0.8 and wanted to compliment you guys on your work.  Pinstripe is amazing.  Way to go guys!"
+    },
+    {
+      "id": 10,
+      "author": "Neil T.",
+      "url": null,
+      "date": "2004-02-09T11:28:00",
+      "body": "Thanks for the link :) . The new theme really looks the part, I'm glad the Mozilla Foundation decided to adopt it."
+    },
+    {
+      "id": 11,
+      "author": "hermeneut",
+      "url": null,
+      "date": "2004-02-09T11:55:36",
+      "body": "Please God let us have this exquisite theme for Windows!!!"
+    },
+    {
+      "id": 12,
+      "author": "Noah Wild",
+      "url": null,
+      "date": "2004-02-09T12:50:05",
+      "body": "Hey,\n\ncongratulations for your theme. I really love it and even switched back from safari to firefox just to be able to use it.\nLooking forward to the Thunderbird-theme, thoug ;-)"
+    },
+    {
+      "id": 13,
+      "author": "Joel",
+      "url": null,
+      "date": "2004-02-09T16:28:10",
+      "body": "The theme is gorgeous. Looking forward to the app. suite version. It's the only reason I've been hanging on to Mozilla 1.4.1."
+    },
+    {
+      "id": 14,
+      "author": "Martin",
+      "url": null,
+      "date": "2004-02-09T18:46:21",
+      "body": "Superb work - really makes FireFox belong on X."
+    },
+    {
+      "id": 15,
+      "author": "Minh Nguyeễn",
+      "url": null,
+      "date": "2004-02-09T20:07:02",
+      "body": "Brad, hermeneut, this theme probably won&rsquo;t ever be made to work on Windows, because Apple vigorously defends the Aqua style, and wants to keep it only for Macs. *sigh*\n\n&nbsp;&ndash; Minh"
+    },
+    {
+      "id": 16,
+      "author": "Minh Nguyễn",
+      "url": null,
+      "date": "2004-02-09T20:08:50",
+      "body": "Heh, I misspelled my last name..."
+    },
+    {
+      "id": 17,
+      "author": "Rodion",
+      "url": null,
+      "date": "2004-02-09T20:35:27",
+      "body": "can you release a version of pinstripe so it can work on windows because it looks lke a really good theme."
+    },
+    {
+      "id": 18,
+      "author": "Pinback",
+      "url": null,
+      "date": "2004-02-09T20:44:51",
+      "body": "Am I the only one that doesn't like the new \"it looks like Safari!\" widgets? I preferred the old colourful Pinstripe 3 ones.\n\nAt least it's not that fugly \"brushed metal\" look (*shudder* ...)"
+    },
+    {
+      "id": 19,
+      "author": "pantz",
+      "url": null,
+      "date": "2004-02-09T22:03:38",
+      "body": "This one is for Mario - the guy who posted first - you can have close buttons for each tab in Fire[bird|fox]. You just have to install the 'Tabbrowser' extension - and it is in there amongst the many other cool options this gives ...\n\neg. you can shuffle the order of tabs, you can recall recently closed tabs, you can change color o f active tab, oh the list is so long my fingers just fell of"
+    },
+    {
+      "id": 20,
+      "author": "Sadalsuud",
+      "url": null,
+      "date": "2004-02-09T23:43:40",
+      "body": "The tabs look great but the buttons are ugly and the favorites bar looks like the appalling Safari ! I hope you'll deliver an alternative with colorful buttons. Nice work nevertheless. Congratulations."
+    },
+    {
+      "id": 21,
+      "author": "Jamp",
+      "url": null,
+      "date": "2004-02-10T00:40:49",
+      "body": "I agree. Please bring back the old default theme. This new one is ugly. How one can design so horrible widgets is a mystery. Keep it for you if you want but the problem is that I can't find how to recover the old default theme who was perfect. Please help."
+    },
+    {
+      "id": 22,
+      "author": "Josh S",
+      "url": null,
+      "date": "2004-02-10T10:39:28",
+      "body": "<i>This new one is ugly.</i>\n\nYou might try a different way to ask someone who is giving up their time to do something to benefit all of us. I don't understand ungrateful people like you."
+    },
+    {
+      "id": 23,
+      "author": "Jamp",
+      "url": null,
+      "date": "2004-02-10T13:47:21",
+      "body": "You're right. But why to be grateful for something I don't like ? I suppose you can't understand that someone don't like this theme but it's not a criticism of your work. Technically the execution is perfect. I just don't like these ugly widgets. Personnaly, I can't understand you like it. Thanks for your efforts nevertheless."
+    },
+    {
+      "id": 24,
+      "author": "Phillybob",
+      "url": null,
+      "date": "2004-02-10T16:08:51",
+      "body": "One word. Yum."
+    },
+    {
+      "id": 25,
+      "author": "Riccardo",
+      "url": null,
+      "date": "2004-02-10T19:42:02",
+      "body": "Great work, this theme is awesome!!\n\nThe only thing I would object to is the scissor icon you chose for \"cut\" button, which is visually unrelated with \"copy\" and \"paste\" ones - please don't blame me for addressing such a trivial point... :-)\n\nSlighty off-topic, my 2 cents on the issue of  \"Close tab\" button location addressed by Mario: although Apple's choice brings the benefit of letting you close backgrounded tabs quickly, I think that from an UI standpoint Mozilla's solution is preferable because enhances spatial consistency."
+    },
+    {
+      "id": 26,
+      "author": "YumYum",
+      "url": null,
+      "date": "2004-02-10T19:43:35",
+      "body": "I've been using firebird 0.8, err -fox, since the january nightlies and like it better than Safari. It's rock solid and fast and renders almost everything you throw at it. And with Firefox-pinstripe a great browser got great looks! I love it. Lean and mean ;-) Thanks for getting all the icons done so well. I'm still amazed by the robustness of firefox and pinstripe. (I like firefox-pinstripe better than the old mozilla-pinstripe 2.0.) Thanks Kevin!!!\n\nStatistics: Mac OS X 10.2.8, Powerbook G3 500 Fw"
+    },
+    {
+      "id": 27,
+      "author": "Jozer99",
+      "url": null,
+      "date": "2004-02-10T20:35:27",
+      "body": "Port this to Windows, you know someone is going to do it anyway, you might as well do it right."
+    },
+    {
+      "id": 28,
+      "author": "Laurence Gonsalves",
+      "url": null,
+      "date": "2004-02-11T00:00:35",
+      "body": "Riccardo: what do you mean by \"enhances spatial consistency\"? I honestly can't figure out what that's supposed to mean. To me, having a single \"close current tab\" button makes about as much sense as having a single \"close current window\" button in the corner of my screen.\n\nOne of the main things preventing me from switching to Firefox is the clunkiness of the tabs compared to Galeon. Every time a new version comes out I give it another chance. I've also tried using \"Tabbrowser extensions\", but Galeon still has significantly better tabbed browsing support, IMHO. Galeon lets me have:\n\n<ul><li> tabs at the bottom (makes mores sense to me for some reason). Tabbrowser extensions lets you turn this on, but the tabs still render like they're supposed to be on the top. :-Q\n\n<li>close buttons on the tabs. Again, Tabbrowser extensions lets you turn this on, but the close buttons it uses are ENORMOUS. The close buttons on my Firefox tabs are about 1/3 the size of an entire tab in Galeon.\n\n<li>closing the last tab closes the window. This seems like the most obvious thing, but I can't get this in Firefox even with Tabbrowser extensions!\n\n<li>can drag tabs off of a window. If I want a tab to be in its own window in Galeon I can just drag it off.\n\n<li>Galeon seems to be a lot smarter about where it opens tabs. It also remembers which tabs I've looked at, and which I haven't, and color codes them.\n\n<li>sensible options without having to install a separate extension that pops up big ugly dialogs and makes my browser unstable (I get a lot more crashes and bizarre rendering artifacts when Tabbrowser extensions is installed)\n</li></li></li></li></li></li></ul>"
+    },
+    {
+      "id": 29,
+      "author": "Thomas",
+      "url": null,
+      "date": "2004-02-11T01:59:49",
+      "body": "Hey, I installed Firefox on a OS X 10.1 machine I had lying around. However, I noticed that the default theme is different from the one show in the screen shots at the top of this page. Unlike the screen shot pics, my Firefox doesn't have that new smoothe 10.3 Panther look to it. I still see the horizonal lines all over the interface. Is this normal? Is the Firefox/Pinstripe theme supposed to look different depending on the OS it's running on?\n\nThanks (appleweek@hotmail.com)"
+    },
+    {
+      "id": 30,
+      "author": "Chris Hester",
+      "url": null,
+      "date": "2004-02-11T07:55:55",
+      "body": "The first screenshot says \"Firebird\" at the top.\n\nWindows users can 'sort of' apply the Pinstripe theme if they skin Windows itself. Use StyleXP - version 2.0 comes with various Mac-style themes!\n\nSee http://www.tgtsoft.com\n\nI have my PC running the OSX Aqua theme - so much nicer!"
+    },
+    {
+      "id": 31,
+      "author": "Riccardo",
+      "url": null,
+      "date": "2004-02-11T12:15:36",
+      "body": "Laurence, I was referring to a \"good rule\" in interface design, which says that buttons and controls should always, as far as possible, keep the very same position on screen. This is intended to help users automate the mental process required to target the active area of the control (\"muscle memory\"), thus letting them gain confidence and efficency when operating the interface. In general, Mozilla close tab button keeps the very same relative position in the browser's windows. Speaking of my personal habits, I also find this very comfortable when I'm on Windows OSes: I'm used to keep all windows maximized to full screen, and in this special case, the close tab button maintain the same absolute position on screen. I istintictively konw that I have to move to the upper left side of the screen to hit the button - and, by the way, I also have not to worry about bringing another tab to the front if I \"mistarget\" the button's active area.\n\nAnyway, I can admit that those could not be such strong points when it comes to different users' behaviors, and when compared to other advantages carried by having close buttons on each tab.\n\nAlso, I'm not sure, really, if \"spatial consistency\" is the right term for this thing - I'm italian and my english is a bit rough, beg your pardon :-)\n\nCheers\n\nPS: sorry for long posting on a collateral issue."
+    },
+    {
+      "id": 32,
+      "author": "Andrew",
+      "url": null,
+      "date": "2004-02-11T19:14:59",
+      "body": "awww...\nI wish this would be ported to windows...\n:( oh well...\nKeep up the good work! (and port this theme to windows!)"
+    },
+    {
+      "id": 33,
+      "author": "Nate",
+      "url": null,
+      "date": "2004-02-11T22:25:23",
+      "body": "PLEASE PLEASE LET'S HAVE A WINDOWS VERSION!"
+    },
+    {
+      "id": 34,
+      "author": "Matt",
+      "url": null,
+      "date": "2004-02-14T18:57:30",
+      "body": "Stop asking for Windows ports.  This isn't as simple as you may imagine.  Yes, most themes work fine on any OS version of Firefox, but Pinstripe isn't like most themes.\n\nPinstripe actually makes use of the GUI libraries on OSX to make it look that way.  There's no way to simply port these libraries to Windows, so Pinstripe can't simply be ported to Windows.  Yes, someone could make a theme that looks nearly identical to Pinstripe, but it's not really reasonable to ask this guy to maintain two themes that look the same just so people on Windows can use this.\n\nIf you really want this look you have a couple options:\n- Write your own theme that looks like this\n- Get one of the theme programs for Windows (not a complete solution, but similar)\n- Get a Mac.  If you like the look so much, why not actually get a Mac and forget about Windows."
+    },
+    {
+      "id": 35,
+      "author": "The Master",
+      "url": null,
+      "date": "2004-02-15T13:38:48",
+      "body": "<a href=\"http://idisk.mac.com/ashley_burton/Public/Firefox/port/classic.jar\" rel=\"nofollow ugc\">http://idisk.mac.com/ashley_burton/Public/Firefox/port/classic.jar</a>\n^^ A port that's been found. About as close are you are going to get. Be warned, it can cause some serious damage if not installed properly: Close FireFox, backup the old classic.jar file in 'Mozilla FireFox/chrome' and replace it with this. Some extensions may cause serious issues with this theme."
+    },
+    {
+      "id": 36,
+      "author": "Dave",
+      "url": null,
+      "date": "2004-02-16T11:01:30",
+      "body": "Just got Firefox (what an improvement from 0.7!) & I do like the new version of Pinstripe very much.  Still, sometimes one wants buttons with pretty colors too!  Any chance you might port the last version of Pinstripe over for Firefox as an alternate for us to use?  Or perhaps color this one in with colors to match the buttons you used in the Bookmark manager?  I think you were going for the Apple plastic button look, which is cool, but as I said, sometimes one wants pretty colors!\n\nThanks for all the work you've put into your themes!"
+    },
+    {
+      "id": 37,
+      "author": "Derek",
+      "url": null,
+      "date": "2004-02-17T16:25:40",
+      "body": "Matt,\n\nWhile I understand that a Win32 port of this theme is not trivial and unlikely to happen for legal reasons, you can't blame people for asking.\n\n> Write your own theme that looks like this\n\nNot everyone is a graphic artist.  Most Windows users don't have the tools or ability to create their own theme.\n\n> Get one of the theme programs for Windows (not a complete solution, but similar)\n\nProbably the best solution.\n\n> Get a Mac. If you like the look so much, why not actually get a Mac and forget about Windows.\n\nBecause I'd have to drop over $2k on a fast Mac and spend another $1k re-buying software.  And even then I'd have to use VPC to run software that doesn't exist for the Mac.  I'll have to hit the lottery before I switch."
+    },
+    {
+      "id": 38,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-17T21:10:06",
+      "body": "I don't endorse this port, but there's a <a href=\"http://forums.mozillazine.org/viewtopic.php?t=41625\" rel=\"nofollow ugc\">MozillaZine thread</a> about it.\n\nYes I made it in a fit of weakness a few months ago. I'm not sure if I have the free time to update it or maintain it. It is only a test at this point."
+    },
+    {
+      "id": 39,
+      "author": "Robert C Rackley",
+      "url": null,
+      "date": "2004-02-19T23:03:59",
+      "body": "One thing that I've been wondering about is why the input boxes and drop down lists don't have the mac style.  The buttons look like windows.  Other than that, this theme is awesome."
+    },
+    {
+      "id": 40,
+      "author": "vintagenoise",
+      "url": null,
+      "date": "2004-03-02T20:12:45",
+      "body": "the theme is absolutely gorgeous. beautifully safari-esque. you need to make it for windows because I love safari but I can only use that at school and the closest thing I cna get at home is using firefox on windows."
+    },
+    {
+      "id": 41,
+      "author": "chimerical",
+      "url": null,
+      "date": "2004-03-06T18:53:16",
+      "body": "This theme is absolutely stunning.  I love it.\n\nRegarding the Windows port...\n(The Windows port [classic.jar above] has some problems with the Privacy and Advanced sections under Options.  The [+] boxes are missing.  And the 'Save All Files to Folder' dropbox under the Downloads section under Options is a bit large on the height side.  And the navigation toolbar has a bit too much space above and below the buttons.  But don't get me wrong.  It's a GREAT port, and I appreciate all the work put into it.)"
+    },
+    {
+      "id": 42,
+      "author": "george",
+      "url": null,
+      "date": "2004-03-25T03:41:17",
+      "body": "i think windows users should use their own themes that they have access too, theres only like THREE themes that work ok on mac (including pinstripe), but yet so many users would rather use the themes that were MAC ONLY than their own..."
+    },
+    {
+      "id": 43,
+      "author": "mike",
+      "url": null,
+      "date": "2004-03-28T07:24:45",
+      "body": "Very nice. The only problem--and it's probably not a theme problem--are the big, ugly, jagged form entry areas and submit buttons. Why isn't Firemonkey (or whatever the name is today) using the same form items that Safari is?"
+    },
+    {
+      "id": 44,
+      "author": "Tony",
+      "url": null,
+      "date": "2004-04-01T20:18:23",
+      "body": "My only problem, and it keeps me using Safari most of the time, is that the drop-down list of bookmarks is so narrow in Firefox that I cannot tell which bookmark is what. Can this be widened to match the text, as in Safari?"
+    },
+    {
+      "id": 45,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-04-01T20:56:55",
+      "body": "Tony, which dropdown list of bookmarks do you mean? Can you email me a screenshot? Thanks"
+    },
+    {
+      "id": 46,
+      "author": "Dallas",
+      "url": null,
+      "date": "2004-04-05T21:22:47",
+      "body": "I agree about the form entry areas and submit buttons.  I would love it if those were aqua-stylee, too."
+    },
+    {
+      "id": 47,
+      "author": "Kristo",
+      "url": null,
+      "date": "2004-05-05T05:08:02",
+      "body": "Excellent job. Clean and much better than the Apple airbrushed look. Gets better all the time."
+    },
+    {
+      "id": 48,
+      "author": "Ippei",
+      "url": null,
+      "date": "2004-05-19T13:04:45",
+      "body": "Thank you for your super excellent theme for Firefox!\nI am using Pinstripe before I knew Phoenix, and I am still using Mozilla 1.4.1 because 1.5 looked so bad without pinstripe that I realised how important UI designs are.\nPlease continue your excellent jobs, and I hope next version will be one for latest Mozilla."
+    },
+    {
+      "id": 49,
+      "author": "UKenG",
+      "url": null,
+      "date": "2004-05-20T16:13:04",
+      "body": "I'd like to use Pinstripe, but it simply dosn't work with TabBrowser Extension - the tabs appear on the bar in peculiar positions and you cannot drag them around.\n\nSince the facilities offered by TBE are the main reason for using FireFox rather than Safari I am unable to use Pinstripe.\n\nAnyone else find it's incompatible with TBE? Any fixes for this clash?"
+    },
+    {
+      "id": 50,
+      "author": "Alex C-G",
+      "url": null,
+      "date": "2004-06-09T01:30:22",
+      "body": "Is there anywhere to download and install this theme for Firefox on other platforms?"
+    },
+    {
+      "id": 51,
+      "author": "Matt",
+      "url": null,
+      "date": "2004-06-13T18:53:41",
+      "body": "I know many people hate brushed metal, but many other of us do like it! So the question is...\nIs there a chance of releasing a Brushed Metal version of the pinstripe theme? Or does it work with metalifier by unsanity?"
+    },
+    {
+      "id": 52,
+      "author": "Paolo",
+      "url": null,
+      "date": "2004-06-16T01:20:16",
+      "body": "I downloaded Firefox .9 (Final) and to my dismay discovered your Pinstripe theme has been replaced with something else... Pls make your theme available for download. The default one bites."
+    },
+    {
+      "id": 53,
+      "author": "Ryan",
+      "url": null,
+      "date": "2004-06-16T05:26:55",
+      "body": "Is there any way to install the original colorful default theme back into FireFox? The pre-0.9 pre-0.8 version? I really liked that theme."
+    },
+    {
+      "id": 54,
+      "author": "jc",
+      "url": null,
+      "date": "2004-06-16T17:50:30",
+      "body": "i too would like to see pinstripe come back... or at least a grey [no colour] version of the default.\nthanks."
+    },
+    {
+      "id": 55,
+      "author": "Random832",
+      "url": null,
+      "date": "2004-06-17T08:17:49",
+      "body": "Any chance of a \"icons only\" windows version? i.e. with all the same icons? just because you can't make a \"complete aqua\" version for legal reasons / amount of work involved in 'slicing images' or whatever, doesn't mean you can't package up these icons in a windows/linux firefox theme"
+    },
+    {
+      "id": 56,
+      "author": "James",
+      "url": null,
+      "date": "2004-06-17T09:44:17",
+      "body": "I liked it, however I switched to the \"smoke\" theme for its cross browser support.  Your excuse that apple legal will come down on you is kinda lame.  Just release it as opensource. :)  ALso if there are any \"mac\" specific areas, just release the instructions for re-creating those items in photoshop.  I really doubt there is any infringment unless you broke their copyright and actually lifted things from apple."
+    },
+    {
+      "id": 57,
+      "author": "coffeegirl",
+      "url": null,
+      "date": "2004-07-14T16:07:56",
+      "body": "Why isn't this theme included with the newest version of Firefox? I downloaded 0.9 today and all it has is the default theme with big, giant, bright buttons. I hate it! I want my old Pinstripe theme back!\n\nAnyone know where I can download this theme?"
+    },
+    {
+      "id": 58,
+      "author": "coffeegirl",
+      "url": null,
+      "date": "2004-07-14T16:16:50",
+      "body": "I went back to the 0.8 version, if anyone wants to follow my lead here's a link to download it:\n\nhttp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/0.8/"
+    },
+    {
+      "id": 59,
+      "author": "d0t1q",
+      "url": null,
+      "date": "2004-07-29T22:39:59",
+      "body": "good shot coffegirl!! :D"
+    },
+    {
+      "id": 60,
+      "author": "coffeegirl",
+      "url": null,
+      "date": "2004-08-24T22:41:47",
+      "body": "My apologies, I didn't intend to take a \"shot\" at anyone. I'm a graphic designer and I take it personally when I read anything remotely critical of my own work. I do not want my comments to be misconstrued in such a way.\n\nTo clarify, one of the reasons I use Firefox (and a Mac platform) is because the unobtrusive interface doesn't compete with the colors in the work I create for the Web. When I'm designing and testing a site, I am able to evaluate my color scheme on a neutral background with the Pinstripe theme.\n\nWhile the icons of the new default theme aren't as screaming as a bright blue Microsoft toolbar, they're still rather large and stylized, which competes with some websites. I hope to stay the 0.8 until more themes are made available, or the creator of this beautiful, minimalistic theme makes the version with small gray buttons available as a download for a later version.\n\nIt has been established that the theme will not be available for Windows, but is it possible that it will be available for the launch of Firefox 1.0?"
+    },
+    {
+      "id": 61,
+      "author": "Alex",
+      "url": null,
+      "date": "2004-09-19T11:50:58",
+      "body": "Awesome skin.\n\nIs there ANY way to get a Windows XP SP2 version of this for FireFox 0.9.3?"
+    },
+    {
+      "id": 62,
+      "author": "peter",
+      "url": null,
+      "date": "2004-09-30T17:45:34",
+      "body": "i to am going back to 0.08 because i cant get the pinstripe theme for 1.0"
+    },
+    {
+      "id": 63,
+      "author": "Alvin",
+      "url": null,
+      "date": "2004-10-11T05:25:21",
+      "body": "Nice theme. I hope it will become the default theme for Linux version of Thunderbird mail client as well."
+    },
+    {
+      "id": 64,
+      "author": "Laurent",
+      "url": null,
+      "date": "2004-11-09T13:59:04",
+      "body": "For some reason, my Firefox 1.0 toolbar shows different icons for previous, next, reload, stop and home. All the other parts seem to be from Pinstripe except those icons in the toolbar.\n\nAnybody knows what could be wrong?"
+    },
+    {
+      "id": 65,
+      "author": "Ady",
+      "url": null,
+      "date": "2004-11-12T10:04:48",
+      "body": "Ce zici bre, merge?"
+    },
+    {
+      "id": 66,
+      "author": "",
+      "url": null,
+      "date": "2004-12-07T00:27:19",
+      "body": "cool!!"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "pixelgraphix",
+      "title": "Der Vogel wird zum Fuchs",
+      "url": null,
+      "date": "2004-02-09T06:27:10",
+      "excerpt": "Die Mozilla Foundation hat die aktuelle Version ihres standalone Browsers 0.8 vorgestellt und ihm einen neuen Namen inkl. Icon verpasst. Das Icon wurde von Jon Hicks erstellt, dessen Weblog ein Favorit und echter Tipp ist. Firefox hat im Vergleich zum..."
+    },
+    {
+      "id": 2,
+      "site": "eXtremities",
+      "title": "Technical Jiggery Pokery: Pinstripe Firefox Gallery",
+      "url": null,
+      "date": "2004-02-09T13:49:48",
+      "excerpt": "Technical Jiggery Pokery: Pinstripe Firefox Gallery"
+    },
+    {
+      "id": 3,
+      "site": "seanwillson.com",
+      "title": "firefox v0.8",
+      "url": null,
+      "date": "2004-02-09T21:39:36",
+      "excerpt": "mozilla ... nope phoenix ... i mean firebird ... dang it, no wait firefox 0.8 was released today. despite their inability to pick and stick with a name they have a great browser. if your into branding i recommend you check out this good writeup. i use ..."
+    },
+    {
+      "id": 4,
+      "site": "Karmakars.com",
+      "title": "Mozilla Firefox",
+      "url": null,
+      "date": "2004-02-09T23:36:57",
+      "excerpt": "Mozilla Firebird (ver 0.7) changed its name to Mozilla FireFox with the release of its new version 0.8 today. Infact I am using FrieFox to write this entry :-) This latest release features a new download manager, bookmarks enhancements, better..."
+    },
+    {
+      "id": 5,
+      "site": "Karmakars.com",
+      "title": "Mozilla Firefox",
+      "url": null,
+      "date": "2004-02-10T03:24:36",
+      "excerpt": "Mozilla FireFox 0.8Mozilla Firebird (ver 0.7) changed its name to Mozilla FireFox with the release of its new version 0.8 today. Infact I am using FireFox to write this entry :-) This latest release features a new download manager, bookmarks..."
+    },
+    {
+      "id": 6,
+      "site": "Blogzilla - a blog about Mozilla",
+      "title": "Firefox Pinstripe",
+      "url": null,
+      "date": "2004-02-11T13:51:45",
+      "excerpt": "The default Pinstripe Theme for Mozilla Firebird on OSX is more breathtaking than a hot pocket. On the horizon is Pinstripe for Thunderbird and it looks very promising as well. Some really great work by Kevin Gerich. As mentioned on the Pinstripe Abou..."
+    },
+    {
+      "id": 7,
+      "site": "Eightlines Comments",
+      "title": "Branding Firefox",
+      "url": null,
+      "date": "2004-02-13T16:27:02",
+      "excerpt": "What happens when you have a forthcoming product release, a bad name, and a deadline? A new identity! The Mozilla Visual Identity Team had a legal issue with the Firebird name, plus a dilemmna with the icon used to designate..."
+    },
+    {
+      "id": 8,
+      "site": "Ross Notes",
+      "title": "Firefox!",
+      "url": null,
+      "date": "2004-02-15T19:11:21",
+      "excerpt": "If you've previously been disappointed in the look and feel of previous Mozilla/Phoenix/Firebird/Thunderbird releases on OS X, stop wasting your time with Ross Notes and start downloading Firefox. Feel free to come back to Ross Notes when your done wit..."
+    },
+    {
+      "id": 9,
+      "site": "PAINED.NET",
+      "title": "Mozilla Firefox: Replacing the default theme",
+      "url": null,
+      "date": "2004-06-06T15:04:56",
+      "excerpt": "The Mozilla Firefox staff decided to replace the default theme with a port of the MacOS X-theme Pinstripe. The previously used Qute theme by Arvid Axelsson is dumped down in favor of the change.\n\n Unfortunately, he enhanced his theme for the upcoming re"
+    },
+    {
+      "id": 10,
+      "site": "PAINED.NET",
+      "title": "Mozilla Firefox: Replacing the default theme",
+      "url": null,
+      "date": "2004-06-06T15:05:06",
+      "excerpt": "The Mozilla Firefox staff decided to replace the default theme with a port of the MacOS X-theme Pinstripe. The previously used Qute theme by Arvid Axelsson is dumped down in favor of the change.\n\n Unfortunately, he enhanced his theme for the upcoming re"
+    },
+    {
+      "id": 11,
+      "site": "Nilesh's Weblog",
+      "title": "The Fox and the open bag",
+      "url": null,
+      "date": "2004-06-07T02:05:38",
+      "excerpt": "The Firefox visual identity team has decided on changing the default theme of Firefox in preparation of the impending 1.0 release. As often in the open source community, this has caused some furor in the mozilla dev community with people taking sides w..."
+    },
+    {
+      "id": 12,
+      "site": "djst's nest",
+      "title": "Firefox gets a \"new\" look",
+      "url": null,
+      "date": "2004-06-07T09:01:35",
+      "excerpt": "So we now have a new default theme for Firefox on Windows, called Winstripe. The problem is that the new theme is heavily inspired by MacOS design and does not blend in on Windows XP. This blog entry is about..."
+    },
+    {
+      "id": 13,
+      "site": "djst's nest",
+      "title": "Firefox gets a \"new\" look",
+      "url": null,
+      "date": "2004-06-07T15:25:36",
+      "excerpt": "So we now have a new default theme for Firefox on Windows, called Winstripe. The problem is that the new theme is heavily inspired by MacOS design and does not blend in on Windows XP. This blog entry is about..."
+    },
+    {
+      "id": 14,
+      "site": "g9g",
+      "title": "The Fox's New Clothes",
+      "url": null,
+      "date": "2004-06-08T00:09:53",
+      "excerpt": "Yesterday, Kevin Gerich posted a screenshot of the new default theme that Firefox 0.9 will be sporting when it’s released. Called Winstripe, it’s essentially a Windows-ification of the Mac OS X theme, Pinstripe. Without a doubt, this a step..."
+    }
+  ]
+}

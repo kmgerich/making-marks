@@ -1,0 +1,428 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Peter Hewitt",
+      "url": null,
+      "date": "2004-06-28T03:32:23",
+      "body": "Although I'm still sticking with Qute I have to say the new version of Pinstripe is much nicer than the first one. I still have my reservations about the refresh icon mind you, it's just looks odd to me.\n\nWith regards to the icon spacing, although it now fits with XP Explorer it's smaller compared to Qute which everyone was used to so that's why it looks too big.\n\nThe bits I still \"hate\" with passion are the General and Privicy icons in prefs. General is just too plain and I think the padlock is just ugly, especially the thing around it. I much prefer the key from qute."
+    },
+    {
+      "id": 2,
+      "author": "Jonathan Dobres",
+      "url": null,
+      "date": "2004-06-28T03:42:50",
+      "body": "A wonderful improvement over 0.1.  Of course, I won't really be able to fully examine the new Winstripe until the official 0.9.1 release comes out (I'm not a big nightly fan), but it looks much better.  The back, forward, and reload buttons in particular look much more at home in the Windows world.\n\nAs long as I'm here, I'd like to mention that I've always hated that yellow stripe that appears in an active tab.  It feels ugly, like it was just smeared on.  There's got to be a more subtle way to give emphasis to an active tab."
+    },
+    {
+      "id": 3,
+      "author": "Jed",
+      "url": null,
+      "date": "2004-06-28T03:44:12",
+      "body": "Excelent work, I was one of the many dissapointed with the 0.9 theme. Your improvments for 0.9.1 have been incredible and it has been great to see you digest all the harsh comments so well and take out the good advice.\n\nExcelent work, and I can't wait to see the other icons in the future as well.\n\nWill you be offering Extra Large pnp's of the finished icons at a later date (like the home one above)?\n\nI would love to use them on my Linux desktop :)\nThanks\n-Jed"
+    },
+    {
+      "id": 4,
+      "author": "Anonymous",
+      "url": null,
+      "date": "2004-06-28T04:57:13",
+      "body": "The handling of the icons seems rather inconsistent. If you press the down the Go or Mail Button, a Toolbar Bookmark or the Throbber, it moves slightly to the lower right (as any other button does on Win98) but for the other buttons the border is just inverted. The Firefox Help still uses the old icons and the are handled like standard buttons."
+    },
+    {
+      "id": 5,
+      "author": "Mook",
+      "url": null,
+      "date": "2004-06-28T05:09:56",
+      "body": "The newer icons are definately better, and now I use the default theme again :)  Thanks for the hard work!\n\nRe: icon spacing: it looks like, in Luna, IE's toolbar buttons are not square; they're a bit more vertically rectangular.  This is more noticible in large icons view, around the home button.  The extra space in Winstripe is more noticible in small icons view.  Of course, you can always put it down as an artistic decision, that's fine too. ;)\n\nJonathan Dobres: that's coming from XP's theme, I think - it's trying to draw the tab bar natively.  Other tabs - such as those in IE's Tools -> Options - should exhibit the same behaviour."
+    },
+    {
+      "id": 6,
+      "author": "John Schneider Thomsen",
+      "url": null,
+      "date": "2004-06-28T07:27:20",
+      "body": "The Reload icon\n\n- What's good?\n\nRound, Colour, Double arrows, Clockwise rotation and Shape of arrows.\n\n- Hopes?\n\nThe arrows will be oriented NS and not EW. This would correspond to upload/send request and download/receive response.\nAll shadows outside the contour lines are removed. This would be optimal for the human eye to quickly identify an icon."
+    },
+    {
+      "id": 7,
+      "author": "Francis",
+      "url": null,
+      "date": "2004-06-28T07:47:48",
+      "body": "I actually prefer the EW orientation of the current reload button. Much better than the old orientation in Winstripe 0.1, imho!\n\nI think the Stop button looks too much like the critical error symbol in Windows (at least in Windows classic). I know that this is also true for many other applications, including IE, but still. I actually prefer the solution from the latest Pinstripe theme (a shiny octagonal shape without the cross), as that icon looks more like a button than a warning flag.\n\nThe new Home button is definitely an improvement; I hope the Printer icon will change to a similar 3D orientation too, to make it better recognizable (note: Qute got that one right)."
+    },
+    {
+      "id": 8,
+      "author": "syrek",
+      "url": null,
+      "date": "2004-06-28T07:52:38",
+      "body": "The first look of pinstripe was just plain ugly, but it's getting better at some points and worse and others.\n\nMy ideas:\n\n1. The home icon is kinda weird in small icon view, I think it get's plain ugly, but that's an opinion. I would prefer here a 2d home button. (p.s. the house has great amount of detail, where the other icons don't)\n\n2. The bookmark icon, I never understood this one until I saw the camino version, that one is 100 times clearer. adding 3D for this icon really made sense.\n\n3. The bookmark folders are to bright, I would prefer them a little darker.\n\nKeep up the good work, personally I think with this upgrade it is becomming a worthy qute replacement :)"
+    },
+    {
+      "id": 9,
+      "author": "Hoc",
+      "url": null,
+      "date": "2004-06-28T10:29:51",
+      "body": "http://www20.brinkster.com/rochette/moztoolbar/\nThose icons are a bit ugly in their pixelation and bad coloring, but they have the right designs.\n\nPlease do not go for an XP look. While it's modern, it's just too kiddy and fisher-price for me, plus Microsoft wants to do a new all blue theme for Longhorn. And you have programs like Adaware, Real, Quicktime, Flash, Windows Media Player, Kazaa, AIM, etc. that are on Windows, either with a proprietary skin or just plain ugly.\n\nNew Back/Forward=Almost Perfect.\n\nI personally think the new Reload is ugly. The arrows seem to blend in. It'd be a good idea if you lose the shadows and used a shade of blue similar to the titlebar rather than this Aqua-reminiscent color. Like http://cheeaun.phoenity.com/weblog/images/artwork/icons/winstripe_reload_icon_modified.png\n\n\nThe ghost outline for Stop is ingenious. Now it looks like an octagon rather than a blocky circle.\n\nThe new Home is even more hideous than before. While when zoomed in it's not so ugly, at regular size it really is. That's strange how the blue changes to green for my eyes when the icons are in real size. One of the oddities of IE is that Home is 3D. Why not 2D? 2D=More recognizeable. If Macs use it, why not windows? http://cheeaun.phoenity.com/weblog/images/artwork/icons/winstripe_home_icon_modified.png\nThat's a good version."
+    },
+    {
+      "id": 10,
+      "author": "Nanac",
+      "url": null,
+      "date": "2004-06-28T10:37:08",
+      "body": "<i>\"Fixed\" the Reload icon to be much more dynamic, and rounder ;) Since very few people like that icon apparently.</i>\n\nI like it!  Sorry for complaining about the last one.  ;p\n\n<i>The arrows will be oriented NS and not EW.  This would correspond to upload/send request and download/receive response.</i>\n\nHonestly, I don't think the average user is going to care about, let alone notice that detail."
+    },
+    {
+      "id": 11,
+      "author": "michaell",
+      "url": null,
+      "date": "2004-06-28T12:58:07",
+      "body": "You say people mistakenly think you're focusing on cross-platform. I would guess that's from Ben's original messages, when he said that the reasons for changing the theme were the licensing issue and to provide a consistent look and feel for the browser across the different platforms. He later clarified it, but lots of people had obviously got the wrong impression by then.\n\nOn the early adoption point, and this isn't just about the theme, I think a lot of people were confused by the big changes. 0.8 was quite stable, and was marketed hard. Then 0.9 was said to be \"the best browser available\", with an \"excellent\" new theme. If it's something for early adopters, then it shouldn't be marketed like that to the world in general. Or, the other way around, if something is marketed hard to the world in general, then you shouldn't release something when you're \"less than thrilled about how it turned out\".\n\nAlthough the harsh words and ranting were directed at the theme, I'm sure a lot of it was because of timing and communication stuff which was nothing to do with what it looked like, and certainly not taking into account that it was a first version which the designers weren't entirely happy with themselves.\n\nAnyway – Winstripe is looking pretty good now, and hopefully things can move forward without any further theme-related drama (although the number of foolish rants will only continue to increase with the number of users...)"
+    },
+    {
+      "id": 12,
+      "author": "mgl",
+      "url": null,
+      "date": "2004-06-28T15:41:39",
+      "body": "Great work!  I hated the Winstripe theme when I first saw screenshots, but quickly grew to like it in practice--clean, bright, and straightforward.  This new version is better in some ways, worse in others.\n\nThe new 3D Home icon seems out of place among the others, which are generally flat-looking (in a nice way).  I vote to keep the flat look, but more along the lines of Lim Chee Aun's Modified Winstripe version.\n\nThe new back and forward arrows are better than the original triangles, but are still (IMO) the weakest elements of the theme.  They look like navigation buttons I used on a website in 1996, and trust me, I have no graphic design skills.\n\nReload?  Enh--it's OK, but as someone else said, it seems to be lacking some clarity.\n\nStop is nice, and I nevet confuse it with the Windows error icon.\n\nLooking forward to see the next iteration.   Thanks!"
+    },
+    {
+      "id": 13,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-06-28T19:23:18",
+      "body": "I retract all of my malice...it looks like Winstripe is heading in the right direction now!"
+    },
+    {
+      "id": 14,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-06-28T20:26:00",
+      "body": "Thanks, rgw ;)"
+    },
+    {
+      "id": 15,
+      "author": "marcoos",
+      "url": null,
+      "date": "2004-06-29T08:05:04",
+      "body": "See bug 246035 (http://bugzilla.mozilla.org/show_bug.cgi?id=246035) for a nasty Winstripe bug in the Linux version of Firefox."
+    },
+    {
+      "id": 16,
+      "author": "M",
+      "url": null,
+      "date": "2004-06-29T09:10:54",
+      "body": "Excellent progress. The new buttons have a much better look and feel than the ones for 0.9."
+    },
+    {
+      "id": 17,
+      "author": "",
+      "url": null,
+      "date": "2004-06-29T11:14:15",
+      "body": "First, I'd like to say thanks for the improvements. The changes definitely are improvements. The new default theme is looking better.\n\nHowever, there are still a few issues that I am concerned about that keep me with Qute.\n\n1. First, some of the button graphics seem off-center. An example of this is the reload button, which seems shifted to the left on the button.\n\n2. I think the small icons are too small relative to the toolbar space. They should take up more space on the bar, or even better, the empty space should be shaved off. They just look disproportionate. I know you commented on this in your entry, but it's noticable, and looks really odd. It seems that other themes, like Qute and Charamel, do a much better job of decreasing empty space and look much better in this regard.\n\nAt this point, I think the button graphics themselves look great, and I'm not sure I prefer them less than any other theme. It's just sizing and centering issues that seem problematic to me. Center the graphics on the buttons, and decrease the amount of empty toolbar space, and you'd have me completely sold.\n\nKeep up the good work."
+    },
+    {
+      "id": 18,
+      "author": "Darkside",
+      "url": null,
+      "date": "2004-06-29T11:40:47",
+      "body": "Marvelous improvement!  They feel much more at home in Windows now.  Eagerly awaiting the Graphite version of Pinstripe/Winstripe for Mac... ;-)\n\nAs michaell said, the \"mistake\" about imposing the same icons cross-platform came largely from Ben's original messages... but I wouldn't minimize the fact that in the 0.9 release, the icons WERE THE SAME ACROSS PLATFORMS.  ;-)\n\nActions speak louder, and all that; regardless of whatever back-peddling (um, \"clarification\") Ben did later, you can't get around the fact that the initial Winstripe was virtually identical on Win and Mac.  As I commented before, slight (and baffling, since they were so slight) differences, but still essentially the same.\n\nI like the direction these new icons are moving.  The basic icon forms are the same, but have enough difference now on Windows to make it (1) consistent across platforms AND (2) at home with the particular OS theme.  Best of both worlds.\n\nCongratulations!"
+    },
+    {
+      "id": 19,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-06-29T12:27:34",
+      "body": "I think one of the things you are seeing with the small icons in Winstripe in contrast to other themes is that our small icons are smaller than their small icons :) They are using 32x32 as the large size and 24x24 as the small size. We are using 24x24 as the large size and 16x16 as the small size.\n\nThose are the normal Windows sizes, and the spacing is the same as Explorer with the Luna theme enabled. As I said in my post if you are Classic the sizes are much smaller, but we can't change that dynamically."
+    },
+    {
+      "id": 20,
+      "author": "mark",
+      "url": null,
+      "date": "2004-06-29T15:42:39",
+      "body": "I have hard time with the add tab button. It reminds me more of a printer then a tab."
+    },
+    {
+      "id": 21,
+      "author": "Greg Wayne",
+      "url": null,
+      "date": "2004-06-29T15:43:05",
+      "body": "I liked the first pinstripe theme and I like this one too.  Good work!!\n\nGreg"
+    },
+    {
+      "id": 22,
+      "author": "johnfive",
+      "url": null,
+      "date": "2004-06-29T16:07:44",
+      "body": "The \"refresh\" icon looks off center when one hovers over it in Windows XP using the \"classic\" Windows widgets, otherwise looking good. Keep up the good work."
+    },
+    {
+      "id": 23,
+      "author": "Stu Fox",
+      "url": null,
+      "date": "2004-06-29T17:33:13",
+      "body": "Definitely an improvement on the previous version, although I'm sticking with Qute.  The print button is still as ugly as sin, and the icons really only look decent when viewed at normal size.  If you view them as small icons (like I do) they still look a bit strange, although better than they used to."
+    },
+    {
+      "id": 24,
+      "author": "variance",
+      "url": null,
+      "date": "2004-06-29T18:56:32",
+      "body": "this restyling is *really* good!\n\nsome more to do IMHO is:\n\n- using small icons are *too* small\n\n- download, history, print, new tab and new window could be done a little better (looking a bit flat)\n\n- back and forward a little rounder and they are perfect\n\nafter all really a good job, i'm liking this theme a lot"
+    },
+    {
+      "id": 25,
+      "author": "leon breedt",
+      "url": null,
+      "date": "2004-06-29T18:58:19",
+      "body": "a vast improvement over the original Winstripe!\n\nvery, very, nice. can't wait for 1.0 :)"
+    },
+    {
+      "id": 26,
+      "author": "sbszine",
+      "url": null,
+      "date": "2004-06-29T20:29:13",
+      "body": "A huge improvement... my faith is restored. I can see myself switching from Qute when Firefox hits 1.0. Nice one."
+    },
+    {
+      "id": 27,
+      "author": "Øivind",
+      "url": null,
+      "date": "2004-06-29T21:02:12",
+      "body": "Congratulations. You made default on my windows xp box (colors seem more subtle and less geared towards that _horrible_ default xp theme now, great!)\n\nI didn't actually think you had it in you after seeing the last winstripe, but rest assured, I have been proven wrong :)\n\nGreat work!"
+    },
+    {
+      "id": 28,
+      "author": "Michel",
+      "url": null,
+      "date": "2004-06-29T21:09:22",
+      "body": "Somehow the first release of Winstripe felt more.. integrated, as in, more subtle. If I have to judge the two themes side by side I would say the new version is better, but if the next release could have a more toned-down colour scheme (just a bit, actually) .. slightly calmer colours and a bit less gradient between shadowed and unshadowed parts, I would feel more at home.\n\nI do not pretend to be artistically competent - even if my taste were good my suggestions might not be - but there you have my 2 cents.\n\nThanks,\n\n- Michel"
+    },
+    {
+      "id": 29,
+      "author": "Joe Schmoe",
+      "url": null,
+      "date": "2004-06-29T23:52:55",
+      "body": "You know WinStripe(0.2) is not bad. I actually like it now. It did take a bit of time for the look to sink in after having become so familiar and comfortable with Qute (just like the Firebird -> firefox change).\n\nOne thing i might perhaps change is to make the tabs just a tad bit shorter. when viewing in Windows classic mode, the tabs look like they could be a bit shorter. In WinXP Blue theme, it looks all right.\n\nI think the change is a good thing. Unifying the look (at least icons anyway) across platforms sounds like a good idea. I liked the pinstripe theme for Firefox Mac.\n\nKeep up the great work you and others are doing with Firefox. It is one of the best open source projects around!"
+    },
+    {
+      "id": 30,
+      "author": "Daniel",
+      "url": null,
+      "date": "2004-06-30T01:33:26",
+      "body": "I don't know about others, but I have a problem where there appears to be a 2 or 3 pixel line to the left of the window coloured as buttonface.\n\nOther than that the theme looks much better now. Can't wait for the rest of the set to follow through."
+    },
+    {
+      "id": 31,
+      "author": "anon",
+      "url": null,
+      "date": "2004-06-30T02:09:23",
+      "body": "Nice! I'm looking forward to trying it out when Debian SID finally gets the 0.9 series."
+    },
+    {
+      "id": 32,
+      "author": "Wayne Woods",
+      "url": null,
+      "date": "2004-06-30T02:46:27",
+      "body": "Let me add my name to the list of initial doubters who have turned around. The latest incarnation of the theme is really, very nice! Nice shading, colourful and attractive, yet simple enough in style to be used as a default theme. I'm also glad to see this theme is becoming default on Mac as well, as it was the old greyish Pinstripe for Mac that gave me my doubts in the first place. Although it was still the original version of Winstripe that was in yesterday's Mac nightly, I assume we'll see the new version there soon? :)"
+    },
+    {
+      "id": 33,
+      "author": "Michael",
+      "url": null,
+      "date": "2004-06-30T05:31:17",
+      "body": "I like the new theme (I hope other icons (e.g. the one of the download manager) will be updated in the next months).\n\nJust one thing : there is no icon for Messages (and Warnings too) in the JavaScript Console... There is an icon only for errors."
+    },
+    {
+      "id": 34,
+      "author": "Mathieu Pellerin",
+      "url": null,
+      "date": "2004-06-30T06:36:12",
+      "body": "Nice improvement..\n\n I like your new toolbar \"download manager\" icon. You removed the luna xp blue window border ... for a reason which would be surely related to time, you forgot to change it in the preference window ...\n\n which brings me to my second point: what you did with this icon is the good way to go with the rest. I mean by that to simply remove all those luna borders on all the icons to break the association with an xp theme that will be obsolete in one year and that most ppl dont use anyway. Its quite easy, theres only two icons to change\n\n - new window icon\n - new separator icon in the b.manager\n\n voila, thanks for your effort"
+    },
+    {
+      "id": 35,
+      "author": "Zeron",
+      "url": null,
+      "date": "2004-06-30T11:27:01",
+      "body": "Nice work!\n\nRegarding toolbar spacing, why not make a substyle that uses \"classic\" spacing, like Chris Cook's Luna theme?"
+    },
+    {
+      "id": 36,
+      "author": "Jugalator",
+      "url": null,
+      "date": "2004-06-30T12:22:35",
+      "body": "Great improvement, it really came unexpected (but welcome) to me as part of a minor 0.9.1 update! :-)\n\nBack/Forward/Stop/Home, heck even Reload, looks great to me now, although I can't comment on the small versions since I don't use those. They look cleaner and \"crisper\" than Qute. Yeah, I find those icons looking better than in Qute now actually.\n\nI still don't quite like the icons particularly for Bookmarks and New Tab, and think others still belong to the pre-0.9.1 Winstripe style, but maybe these weren't changed as much...\n\nDramatic improvements in the main ones though."
+    },
+    {
+      "id": 37,
+      "author": "Umko",
+      "url": null,
+      "date": "2004-06-30T12:47:54",
+      "body": "good to see improvements to winstripe! keep up the good work!\n\ni have some remarks though,\n\n-the samall icons are still too small and have too much padding around them in windows luna imho. they look somehow too small and lost on the wide bar.\n\n-the reload symbol looks as thow both arrows are ointing towards the user and not towards the other arrow's end. it's not circular somehow\n\n-and last. the stop loading icon looks critical. this has been addressed by others already.\nmy idea about it:\ncouldn't it be changed so that a curved arrow (like one of the reload symbol) points (bumps in)to this \"stop\" sign in the background. i haven't seen such an icon in any theme, but i think it's quite straightforward and matches the reload symbol perfectly"
+    },
+    {
+      "id": 38,
+      "author": "nick",
+      "url": null,
+      "date": "2004-06-30T17:49:43",
+      "body": "As the McDonald's commercials say, \"I'm lovin' it\"\n\nGreat job and by far this is one of the best themes for Firefox. And I am definitely glad that it is the  default them.  I am now finding it hard to find another theme to takes it's place, it's that good.  Usually defaults suck, this one, however, just kicks ass."
+    },
+    {
+      "id": 39,
+      "author": "Francis",
+      "url": null,
+      "date": "2004-06-30T22:46:05",
+      "body": "Quote: \"2. I think the small icons are too small relative to the toolbar space. They should take up more space on the bar, or even better, the empty space should be shaved off. They just look disproportionate. I know you commented on this in your entry, but it's noticable, and looks really odd. It seems that other themes, like Qute and Charamel, do a much better job of decreasing empty space and look much better in this regard.\"\n\nYes, I totally agree with this observation. The navigation bar in Qute, using small buttons, was just as big as the navigation bar in this new Winstripe, but its small icons made much better use of the button space. Right now, the small buttons are too small, and there is too much spacing between them.\n\nAnd I can confirm that the reload icon seems to be left-of-center. I don't know whether this is actually true, or just an optical effect, but it sure looks odd."
+    },
+    {
+      "id": 40,
+      "author": "Philip Ashlock",
+      "url": null,
+      "date": "2004-06-30T23:20:19",
+      "body": "I am very impressed by how significant of an improvement you have made after the majority of the feedback said no more than \"it's ugly\"\n\nMy only suggestion at this point is that all of the colors be toned down just a bit, to help alleviate the exessively cartoonish feel. I know that you are trying to go with the default Win XP luna feel which you described as \"cartoonish\" (I certainly agree and always switch to the classic windows theme), but I think you've done gone overboard with the brightness of your colors. If you darkened or toned down the blue of the refresh button to more closely match the color of the blue luna window header and then darkened all other colors to the same degree, I think there would be more harmony. I think just a slight adjustment would make a huge difference.\n\nAdditionaly, I think that the window in the house is unnecessary, it is indestinguishable in smaller pixel sizes and only makes the front of the house look less refined. Simplicity is key. Another issue, that always irritates me when people use the stop sign octogon for the stop icon is that at smaller pixel sizes the icon looks like it's supposed to be a circle, but has some imperfections (much like the window on the house) that are slightly distracting. Maybe try the same icon as a perfect circle and see how you like it, you might surprise yourself.\n\nThanks for you efforts, and keep up the exellent work!"
+    },
+    {
+      "id": 41,
+      "author": "José Jeria",
+      "url": null,
+      "date": "2004-07-01T06:11:08",
+      "body": "I dont know if you guys follow bugzilla, but this bug (http://bugzilla.mozilla.org/show_bug.cgi?id=246186) would be nice to have fixed. Also a background image in the download manager would make it look less naked.\n\nOtherwise than that, great work, getting better!\n\n:-)"
+    },
+    {
+      "id": 42,
+      "author": "André",
+      "url": null,
+      "date": "2004-07-01T12:00:44",
+      "body": "While I like the new version of the default theme, the thick black borders around text boxes (like the dropdown menu under the URL bar) remind me of those black lines around obituaries"
+    },
+    {
+      "id": 43,
+      "author": "love-lee!",
+      "url": null,
+      "date": "2004-07-01T14:58:44",
+      "body": "The following is no rant, cuz I hope to get a reply from it ;)\n\nI downloaded 0.9.1 a few days ago, and tried using Winstripe for a while.  However, I ended up downloading Qute which made web surfing better.\n\nTo people who say, yeah \"just change your them!  Whiner!\" I as an end user want FF to succeed.  I can't write programs, draw graphics.  I'm not even good at filing bugs (or jsut too lazy).  But I do know what I like.  Compare Mac OSX to OS9.  The actual interface isn't really that different (system Preferences is the same, menu bar at the top, close at the left).  BUT they made the look desirable.  I remember working on a friend's Mac from '99 and thinking how primitve everything looks.  That has definitely changed, and now there's a dime a dozen of Win styles emulating Aqua.  Apple knows how damn _desirable_ Aqua is (esp. Panther, it truly polished everything), and it is a part of their marketing.  \"You could do everything you want on a PC that you could on a Mac, but who wants to use something that absolutely loves the colour grey?\"\n\nAnyway, as of right now I'm running Qute.  In the last few versions it had some major changes & I'm disappointed they weren't showcased in FF 0.9, because it seems like Qute is now in its prime.  Eg., look at the new window icon.  It's no longer dreary and dark, it has a nice blue shade.  And a lot of the icons have a shean to them that.  Plus hovering changes which I've noticed WS lacks, I know mostly cause it's just 0.2 ;)\n\nMy thoughts on 0.2 WS revolve around the new icons (home, stop, navigation, refresh) and I don't think improved, they're just different, some would say more cartoonish (I agree here too).  They look too much like Opera's toolbar, and THOSE icons actually look a bit better than WS's, but who wants to use a copy when you could use the real thing?  See Apple vs. yz Dock (when it got too good. ;) Most of the other docks aren't very good)\n\nSpecific problems: [Home icon] The \"window\" actually detracts from the icon.  It looked like an error in the gfx to me until I heard someone say that the dot was window!  Also, it has the same  problem that the old version had- the washed out colours.  It feels like a copy, albeit a washed out one, of XP's home button.  And a lot of people said that the problem was that it was 2d, but to me, the problem was it's colour.  And I think the problem with colours happens throughout Winstripe.\n\nFor another example, the popup icon.  It's a nice, simple, pleasing icon.  But it just needs better colours and less jaggeds, like that new window icon I mentioned in Qute.\n\nQute 0.1 versus Winstripe today is another thing people have mentioned.  Qute0.1 Look at feels very disparate, and the colours really aren't so good, not unlike Winstripe, but all in all most of the icons are the same, because they were good concepts, like Winstripe's!  I don't mean any disrespect in the next sentence, but because of Firefox 1.0 coming in a few months, perhaps Chee Aun, or Arvid (or someone else :)) could be brought in to help with the colours aspect, as they look like they have the experiece with them (and look how long it took to perfect colours...FF 1.0 will be here soon and Qute didn't go from 0.1 to 0.9 in a few months).\n\nLim Chee Aun had some good ideas on this.  http://weblogs.mozillazine.org/djst/archives/005707.html   I'm wondering if you've seen them yet?  He also brought a good specific point that you could use the Go button (which I think is fabulous, perfect, etc. It's the one icon I loved out of the box ;)) as the back & forward icons.  It gives the theme some unity too, and a lot of other themes do it...Qute, Luna.\n\n(BTW I hope you keep the stop icon, anyone remember IE5?  Yup, there's a stop icon there, did people get confused?  Not from what I've heard)\n\nJust some thoughts, & I want to thank you for your work on FF."
+    },
+    {
+      "id": 44,
+      "author": "",
+      "url": null,
+      "date": "2004-07-02T11:54:49",
+      "body": "i like the new winstripe changes keep them coming"
+    },
+    {
+      "id": 45,
+      "author": "laketrout",
+      "url": null,
+      "date": "2004-07-05T00:20:57",
+      "body": "Well I'm in the camp of decreasing the padding around the icons but *only* for the small icons. The large icon can remain with the padding just the way it is.  Also please keep the small icons at 16x16, others have asked that they be increased in size some but that's only because they look so out of place with all the extra padding.\n\nI like to place icons on the bookmarks toolbar and with padding the way it is it increases the height of the toolbar and just doesn't look good.\n\nHere's what the theme looks like with a 3px padding (the large icon padding is unchanged).\n\nhttp://www3.sympatico.ca/d.longe/pub/ffpadding.jpg\n\nEven though this is no Win2k with the clasic look, I've made these changes on XP Luna machines and it looks just as good.\n\nSo keep up the good work, I look forward to seeing the changes to the other icons that didn't get redone in your updated version."
+    },
+    {
+      "id": 46,
+      "author": "infinitera",
+      "url": null,
+      "date": "2004-07-05T13:39:21",
+      "body": "Kind of minor thing, but the home button isn't orange enough.\n\nhttp://cheeaun.phoenity.com/weblog/2004/06/homesick-winstripe.html"
+    },
+    {
+      "id": 47,
+      "author": "David Tenser",
+      "url": null,
+      "date": "2004-07-05T19:43:48",
+      "body": "Beautiful! I feel that you are going in the right direction with this theme. It looks really promising and I look forward to see the other icons in the set getting a uniform design.\n\nAs for theme related bugs, bug 245806 should be fixed to make it easier to hit the tab close button.\n\nAs I said in my blog: Very good work guys!"
+    },
+    {
+      "id": 48,
+      "author": "",
+      "url": null,
+      "date": "2004-07-08T23:33:38",
+      "body": "i like the home button like ot is"
+    },
+    {
+      "id": 49,
+      "author": "",
+      "url": null,
+      "date": "2004-07-09T14:20:04",
+      "body": "I have no specific problem with the Winstripe theme, but I do not understand the sentiment that Firefox should have the same theme across all platforms.  I find it to be disorienting when one program has an interface that doesn't quite fit.  Windows, Linux and Macintosh have very different interfaces.  The default theme in the Windows, Macintosh, and Linux binaries should reflect that difference, not ignore it.  The goal of Firefox should be to make it fit with the OS so well that the average user won't see it as standing out as different.  The default theme in Firefox .8 on the Mac did just that.  Until the .8 Pinstripe is made available, or until I or someone else has the time to make an original Mac Pinstripe inspired theme, I'm sticking with Firefox .8."
+    },
+    {
+      "id": 50,
+      "author": "",
+      "url": null,
+      "date": "2004-07-09T14:36:26",
+      "body": "One small annoyance (always bugged me about qute too) for me has always been the height of the tabs\nI think you should open up a windows control panel and copy the height of the tabs (and the font size, since it would be necessary)\n\nIf it's not too small for a control panel it shouldn't be too small for the page tabs\n\nalso, if people think the spacing is too much, than it should just be cut perfectly in half (as a compromise between less and more)\nas mentioned, the padding on the large icons is good, but too much on the small ones"
+    },
+    {
+      "id": 51,
+      "author": "alik",
+      "url": null,
+      "date": "2004-07-09T17:14:29",
+      "body": "Excellent work, thanks. Keep improving."
+    },
+    {
+      "id": 52,
+      "author": "qwr",
+      "url": null,
+      "date": "2004-07-11T14:20:38",
+      "body": "I am using Qute now for just one reason: the \"new tab\" button does not look like a printer..."
+    },
+    {
+      "id": 53,
+      "author": "hen",
+      "url": null,
+      "date": "2004-07-11T21:22:11",
+      "body": "Please consolidate the reload with the stop button (so only one is displayed at any given time).\n\nThis will save screen real estate"
+    },
+    {
+      "id": 54,
+      "author": "Brian Mertens",
+      "url": null,
+      "date": "2004-07-13T14:02:02",
+      "body": "Wish: I'd love a \"Print Preview\" button!"
+    },
+    {
+      "id": 55,
+      "author": "m",
+      "url": null,
+      "date": "2004-07-14T14:27:24",
+      "body": "much, much better than the first winstripe - well done!  it's probably just me, but the reload icon's colour reminds me of Internet Explorer's icon for some reason.  Perhaps, change the shade a little?  If I was looking at the webpage, sometimes i wonder why there's an internet explorer icon on my toolbar!"
+    },
+    {
+      "id": 56,
+      "author": "Harry",
+      "url": null,
+      "date": "2004-07-14T14:47:17",
+      "body": "I think 0.9.2 is almost perfect in regards to the winstripe theme.  All of the icons are intuitive and very stylish.  It has a decidedly modern look while keeping with tradition.  Great work and keep the improvements comming.  I do think the current theme is a great improvement over the last though, especially in regards to the the reload, back, and forward buttons."
+    },
+    {
+      "id": 57,
+      "author": "Pierre",
+      "url": null,
+      "date": "2004-07-15T04:31:58",
+      "body": "This new version is certainly better but I prefered the previous design of the Back/Forward arrows. I think that a simple triangle with its little shadow looks very modern. The new buttons are good but I find the shape too classical.\n(The new house is nicer)"
+    },
+    {
+      "id": 58,
+      "author": "Glenn",
+      "url": null,
+      "date": "2004-07-16T23:25:42",
+      "body": "Looks a little like IE... Maybe a little too much."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Steve Sizemore's Weblog",
+      "title": "Firefox 0.9.1 Candidates",
+      "url": null,
+      "date": "2004-06-28T07:18:02",
+      "excerpt": "Ben Goodger writes, \"Candidates Here - version number still reads \"0.9\" but these are the 0.9 builds. Please test EM for stopping bugs. This will probably go out Monday. I'd announce this on mz's forums but they're down.\" Firefox 0.9.1..."
+    },
+    {
+      "id": 2,
+      "site": "Steve Sizemore's Weblog",
+      "title": "Firefox 0.9.1 Candidates",
+      "url": null,
+      "date": "2005-02-16T15:44:25",
+      "excerpt": "Ben Goodger writes, \"Candidates Here - version number still reads \"0.9\" but these are the 0.9 builds. Please test EM for stopping bugs. This will probably go out Monday. I'd announce this on mz's forums but they're down.\" Firefox 0.9.1..."
+    }
+  ]
+}

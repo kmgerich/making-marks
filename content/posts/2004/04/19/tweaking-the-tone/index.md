@@ -20,13 +20,3 @@ A look at the history of a BBC News article provided by my [RSS aggregator](http
 ![bbcheads.png (image no longer available)](/media/placeholder-missing.png)
 
 Update: Josh pointed out that the headline changed \*again\*. Now it reads “US chides Spain for Iraq pull-out”. Up next: “US gently cautions Spain not to track mud across its nice clean floor”.
-
-## Comments
-
-**Josh** on 2004-04-19 15:13:34
-> It's changed again!
-> 
-> "US chides Spain for Iraq pull-out"
-
-**richie** on 2004-04-24 23:16:53
-> this is almost as funny as when a news story on the beeb site got the meanings of "horizontal" and "vertical" hopelessly mixed up - wish i'd screen grabbed that one :)

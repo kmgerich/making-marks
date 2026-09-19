@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Fabian",
+      "url": null,
+      "date": "2005-01-23T22:11:37",
+      "body": "Off topic, but just out of curiousity, is the general look of the Windows Winstripe theme for Firefox going to stay as it is for a long, long while or will we see changes to come soon? What version number would we consider Winstripe to be on, anyway?"
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-23T22:16:48",
+      "body": "I'd say that Winstripe is pretty solid. It isn't going to change radically at all, maybe get a little more polished. There are certainly some icons in Winstripe that need some lovin'. But as much as we like to tinker, the look will stay pretty much the same."
+    },
+    {
+      "id": 3,
+      "author": "Philippe",
+      "url": null,
+      "date": "2005-01-23T22:17:12",
+      "body": "I had been working with Hiro to make those widgets nice on the latest nightlies. My package is <a href=\"http://emps.l-c-n.com/articles/77/firefox-widgets-yet-again\" rel=\"nofollow ugc\">here</a>, and is the base for Hiro's package. With my styling, I don't see any problems in the URL bar.\n\nI'll check the difference with your latest one, see if I can come up with something."
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-23T22:21:26",
+      "body": "Thanks Philippe!"
+    },
+    {
+      "id": 5,
+      "author": "Philippe",
+      "url": null,
+      "date": "2005-01-23T22:48:22",
+      "body": "After a quick test..\nThat focus ring problem is not limited to the URL bar. Open the DOM inspector, and it is there as well, any fields in the right pane. All those are input elements as well, and the URL bar, according to the DOM inspector is a composite thing made of input elements.\n\nWith my widgets, I don't see the problem, because I load everything from the userContent.css. (Being a nightlies user, I don't want to be too dependent on possible changes in forms.css).\n\nOn HTML pages, your widgets look good, except that radio buttons are positioned above the base line. I set them lower, using text-align:text-bottom. Also, the select element appears a bit smaller than a submit button, when put side by side. See\n<a href=\"http://dev.l-c-n.com/forms/forms2.php\" rel=\"nofollow ugc\">my test file</a>. Some people complained about that. I'm about to change my own package for this."
+    },
+    {
+      "id": 6,
+      "author": "Neil",
+      "url": null,
+      "date": "2005-01-23T22:54:32",
+      "body": "I just commented out the rule for input:focus from the section\n\nbutton:focus,\nselect:focus,\ntextarea:focus,\n*:-moz-any-link:focus {\n  -moz-outline: 2px solid -moz-mac-focusring;\n  -moz-outline-radius: 1px;\n  -moz-outline-offset: -1px;\n}\n\nwhich seems to have worked. As someone above posted, the URL bar is an input type, too, which is why it gets the border.\n\nSeems to be working fine for me without all inputs being styled... thanks for this, Kevin!"
+    },
+    {
+      "id": 7,
+      "author": "Philippe",
+      "url": null,
+      "date": "2005-01-23T23:12:15",
+      "body": "I see Neil beats me to that URL bar problem :-/\n\nThe URL bar use an input without type attribute, then\ninput[type=\"text\"]:focus\nshould avoid the problem, instead of input:focus\n(need some testing)."
+    },
+    {
+      "id": 8,
+      "author": "Simon G",
+      "url": null,
+      "date": "2005-01-23T23:16:06",
+      "body": "A small issue - disabled fields. The earlier pretty widgets I couldn't use on my intranet, as disabled fields are used on many of our web apps. Previously, disabled fields were not shown as such. I haven't tested with the latest - but has this been sorted?"
+    },
+    {
+      "id": 9,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-24T07:07:44",
+      "body": "OK, I've updated the <a href=\"/archive/firefox-widgets3.zip\" rel=\"nofollow ugc\">firefox-widgets3.zip</a> file with a a fix for the focus rings and disabled text boxes."
+    },
+    {
+      "id": 10,
+      "author": "Philippe",
+      "url": null,
+      "date": "2005-01-24T08:52:55",
+      "body": "Kevin,\nWhy do you use -moz-opacity instead of opacity (without the -moz prefix) ?\nopacity is perfectly supported by FF since I think 0.8.\nJust curious...:-)"
+    },
+    {
+      "id": 11,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-24T09:38:31",
+      "body": "Habit, Philippe. You're right, I should get in the habit of using opacity :)"
+    },
+    {
+      "id": 12,
+      "author": "TwisterMc",
+      "url": null,
+      "date": "2005-01-24T19:34:31",
+      "body": "What?  No blue selected radio boxes yet?  Or blue checked boxes?"
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-24T20:11:18",
+      "body": "Nope. No blue, sorry. :) I'm not trying to copy Aqua pixel for pixel, just do something that looks like it blends in. I can't swap in images with a color based on the OS theme you have selected. I'd rather leave the color out than be wrong 1/2 the time."
+    },
+    {
+      "id": 14,
+      "author": "amake",
+      "url": null,
+      "date": "2005-01-24T21:46:30",
+      "body": "Note that I updated Firefoxy to use these widgets as well as the old ones, depending on the version of Firefox."
+    },
+    {
+      "id": 15,
+      "author": "Hiro",
+      "url": null,
+      "date": "2005-01-26T09:09:49",
+      "body": "TwisterMc,\nIf you want blue selected radio buttons and checked boxes, try my package.\n\nhttp://homepage.mac.com/travellers/software/Firefox/aquafirefox_en.html"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "BeatnikPad: Journal",
+      "title": "G5-optimized Firefox 1.0.1 released",
+      "url": null,
+      "date": "2005-02-27T11:20:29",
+      "excerpt": "Alrighty then. I just built a Firefox 1.0.1 release version with optimizations for the G5..."
+    }
+  ]
+}

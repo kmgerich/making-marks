@@ -1,0 +1,110 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Alex",
+      "url": null,
+      "date": "2004-02-13T12:32:44",
+      "body": "I don't think it does - yet. Brent has been talking about some cool ideas along those lines for NNW though."
+    },
+    {
+      "id": 2,
+      "author": "Lois",
+      "url": null,
+      "date": "2004-02-14T17:09:07",
+      "body": "Hi Kevin,  Have you given QuikView a try?  Cross-platform, cross-browser friendly and makes for a great bookmark server too.  http://quikonnex.com/channel/quikview/home4success"
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-17T10:07:44",
+      "body": "I've been playing with <a href=\"http://www.decafbad.com/twiki/bin/view/Main/AmphetaDesk\" rel=\"nofollow ugc\">Amphetadesk</a>, which is nice when you combine it with <a href=\"http://www.decafbad.com/twiki/bin/view/Main/AmphetaOutlines\" rel=\"nofollow ugc\">AmphetaOutlines</a>. AphetaOutlines records your clicks and moves the frequently read stuff to the top. Very nice. Still, I'm not sure if I can get used to reading news this way. I wonder if there is an XUL version of AmphetaOutlines. Hmm :)"
+    },
+    {
+      "id": 4,
+      "author": "Kevin Driver",
+      "url": null,
+      "date": "2004-02-17T15:32:06",
+      "body": "Kevin,\n\nI use the RSS Reader extension for Mozilla Firefox, and I love it.  It's very handy, and it's nice to have the posts rendered in a Gecko engine instead of  by a generic rss reader."
+    },
+    {
+      "id": 5,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-18T12:42:56",
+      "body": "The <a href=\"http://fls.moo.jp/moz/rssreader.html\" rel=\"nofollow ugc\">RSS Reader Panel</a> is a very cool addition to Firefox. But it downloads newsfeeds one at a time as I click on them. AmphetaDesk and NetNewsWire download all your subscribed feeds at once which makes skimming much easier."
+    },
+    {
+      "id": 6,
+      "author": "GSF",
+      "url": null,
+      "date": "2004-02-21T17:32:28",
+      "body": "Take a look at <a href=\"http://www.bradsoft.com/feeddemon/index.asp\" rel=\"nofollow ugc\">FeedDemon</a>"
+    },
+    {
+      "id": 7,
+      "author": "David Smith",
+      "url": null,
+      "date": "2004-02-22T18:12:21",
+      "body": "Omniweb 5 beta has RSS support. Not sure how good it is though."
+    },
+    {
+      "id": 8,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-22T21:44:30",
+      "body": "Yeah, I was looking at Omniweb's RSS support the other day. They integrate it into the Bookmarks Manager. It's a nice try, but the functionality is pretty bare bones.\n\nand GSF, FeedDemon is for Windows. I'm on a Mac :)"
+    },
+    {
+      "id": 9,
+      "author": "adam",
+      "url": null,
+      "date": "2004-02-23T08:39:20",
+      "body": "Try <a href=\"http://www.bloglines.com\" rel=\"nofollow ugc\">Bloglines</a>  It's web-based so you can read from where ever you are."
+    },
+    {
+      "id": 10,
+      "author": "Dave",
+      "url": null,
+      "date": "2004-03-01T18:37:43",
+      "body": "I've read good things about <a href=\"http://ranchero.com/netnewswire/\" rel=\"nofollow ugc\">NetNewsWire</a>. It's a rss reader for OS X. The full version costs $39.95, but there's a lite version that's freeware and has most of the functionality."
+    },
+    {
+      "id": 11,
+      "author": "",
+      "url": null,
+      "date": "2004-03-05T05:44:43",
+      "body": "The <a href=\"http://ranchero.com/downloads/NetNewsWireLite1.0.8.dmg.gz\" rel=\"nofollow ugc\"> lite version of NetNewsWire is buried behind a lot a scrolling on their page.  Otherwise, it is the least annoying one so far.  It even aggregrates! </a>"
+    },
+    {
+      "id": 12,
+      "author": "",
+      "url": null,
+      "date": "2004-03-05T05:46:18",
+      "body": "sorry! exhausted today."
+    },
+    {
+      "id": 13,
+      "author": "Vyse",
+      "url": null,
+      "date": "2004-03-18T03:23:13",
+      "body": "Have you tried <a href=\"http://www.thinkmac.co.uk/newsmac/\" rel=\"nofollow ugc\">NewsMac</a> yet?"
+    },
+    {
+      "id": 14,
+      "author": "pb",
+      "url": null,
+      "date": "2004-04-20T23:27:09",
+      "body": "I'm unfortunately not aware of any Mac readers that appraoch FeedDemon.\n\nNNW is OK but unrefined and expensive. The free version doesn't have the three side-by-side panels. Channels are displayed in a tree which is clunky.\n\nShrook's synching is cool but the client is terrible. No dates. 4 panels instead of the better 3. Distracting stars. Headlines-only in summary panel.\n\nNewsMac is polished but has way too much feed organization to the detriment of feed reading.\n\nWeb-based services are horribly inefficent.\n\nIt would be terrific if someone would \"port\" FeedDemon to MacOS."
+    },
+    {
+      "id": 15,
+      "author": "Mark Derricutt",
+      "url": null,
+      "date": "2004-04-25T02:02:43",
+      "body": "You could try <a href=\"http://www.cincomsmalltalk.com/BottomFeeder/\" rel=\"nofollow ugc\">BottomFeeder</a>, cross platform Smalltalk based RSS reader.  Has a nice bundle for OS/X."
+    }
+  ],
+  "trackbacks": []
+}

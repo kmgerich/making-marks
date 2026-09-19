@@ -1,0 +1,117 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Spewey",
+      "url": null,
+      "date": "2003-08-07T02:04:04",
+      "body": "Thanks for gettin' back in the game.\n\n'bout time."
+    },
+    {
+      "id": 2,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-08-07T16:28:29",
+      "body": "Thanks for the build!\n\nI'm having some weird problems, though - I can't install the pinstripe theme with this build (nnothing happens when I install it, or after I've restarted), and this build fo for some reason is missing the font preferences.\n\nFor example, the font in this textarea is defaulting to some non-screen font (Jenson, I think) which is making it impossible to type! sigh..."
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-08-07T19:04:27",
+      "body": "Thanks for trying it out Neil. Actually there aren't any versions of Pinstripe that will work on Firebird. I'm working on it and will have a new version in 2-3 weeks. Sorry for the delay - hopefully the wait will be worth it."
+    },
+    {
+      "id": 4,
+      "author": "Len",
+      "url": null,
+      "date": "2003-08-08T00:24:33",
+      "body": "Continuing the Pinstripe thread...  it's broken in Mozilla 1.5b nightlies now.  Will it also be 2-3 weeks before a new Mozilla version of Pinstripe?  I wish it were included by default in the Mac builds..."
+    },
+    {
+      "id": 5,
+      "author": "Hangnail",
+      "url": null,
+      "date": "2003-08-08T19:05:43",
+      "body": "Thanks for the build.  Was starting to give up since I haven't seen a nightly since the 15th of July ..."
+    },
+    {
+      "id": 6,
+      "author": "Bryan",
+      "url": null,
+      "date": "2003-08-11T23:58:09",
+      "body": "Impressively quick.  Great job."
+    },
+    {
+      "id": 7,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-08-12T12:01:17",
+      "body": "Confirming that pinstripe doesn't seem to work on the latest Mozilla nightlies anymore. :("
+    },
+    {
+      "id": 8,
+      "author": "Emily",
+      "url": null,
+      "date": "2003-08-12T13:25:41",
+      "body": "Thanks very much for this build; this is the first version of Firebird that is actually usable.:-)"
+    },
+    {
+      "id": 9,
+      "author": "Jim",
+      "url": null,
+      "date": "2003-08-12T17:58:21",
+      "body": "Thanks for the build. It is wonderful having the bookmarks open as they should and not ALWAYS in a new window. This build also seems snappier. I have thoroughly enjoyed using the Pinstripe theme on previous builds of Firebird. I look forward to the update."
+    },
+    {
+      "id": 10,
+      "author": "Bill McGonigle",
+      "url": null,
+      "date": "2003-08-18T14:19:12",
+      "body": "Nice - working command-clicks!  Phew, now I can run Firebird for real.\n\nOh, and not having an 'M' icon on my Dock for the first time in years is blessed.\n\nSo does anybody know why there are no regular mac nightlies?"
+    },
+    {
+      "id": 11,
+      "author": "Jim",
+      "url": null,
+      "date": "2003-08-19T10:03:59",
+      "body": "When Mozilla.Org was being moved from AOL they somehow lost their Mac that was used for compiling nightly builds. Apparently they have not found it yet. There are a few people who are working on starting some unofficial nightlies. I have started trying to compile my own build. Kevin has been most helpful in getting me started."
+    },
+    {
+      "id": 12,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-08-20T01:38:56",
+      "body": "Actually, Mike Pinkerton (one of the main Camino developers) has inherited the cube that used to handle builds for Camino and Phoenix, but only Camino builds have been reinstated.\n\nI'm not quite sure what the status of Phoenix nightlies are, but I believe they're coming soon."
+    },
+    {
+      "id": 13,
+      "author": "Leland",
+      "url": null,
+      "date": "2003-09-30T17:15:49",
+      "body": "Wondering if you're planning on posting future builds, or if I'm going to have to rely on Mozilla.org for updates. I'm only concerned, because the updates there are few and far between."
+    },
+    {
+      "id": 14,
+      "author": "JD",
+      "url": null,
+      "date": "2003-09-30T19:11:43",
+      "body": "You can get nightlies at:\nhttp://smartasfuck.com/mozilla/\n\n(Pardon the URL, its not mine)\n\nThey are very solid so far, and he seems to have it down so it really does build nightly."
+    },
+    {
+      "id": 15,
+      "author": "Harry",
+      "url": null,
+      "date": "2003-12-07T18:49:01",
+      "body": "Downloaded Firebird and installed on my laptop. Works great and looks awesome! Keep up the good work. :-)"
+    },
+    {
+      "id": 16,
+      "author": "Florida Mortgage",
+      "url": null,
+      "date": "2004-11-05T22:45:08",
+      "body": "http://www.bestlowmortgagerates.com\nhttp://mortgage-calculator.bestlowmortgagerates.com\n<a href=\"http://mortgage-calculator.bestlowmortgagerates.com\" rel=\"nofollow ugc\">Mortgage Calculator</a>\n<a href=\"http://www.bestlowmortgagerates.com\" rel=\"nofollow ugc\">Florida Mortgage</a>"
+    }
+  ],
+  "trackbacks": []
+}

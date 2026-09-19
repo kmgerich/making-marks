@@ -1,0 +1,75 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Shylock",
+      "url": null,
+      "date": "2003-07-02T05:19:24",
+      "body": "Unfortunately, Mozilla 1.4 & Camino do not run on Panther."
+    },
+    {
+      "id": 2,
+      "author": "McKs",
+      "url": null,
+      "date": "2003-07-04T06:51:13",
+      "body": "I found that Camino RELEASE version 0.7 works in Panther, it's the nightlies that break.\nI haven't tried installing an older build of mozilla, but that might work too."
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-07-04T09:10:20",
+      "body": "I've been told that Mozilla 1.2 works on Panther, but not 1.4."
+    },
+    {
+      "id": 4,
+      "author": "Ace",
+      "url": null,
+      "date": "2003-07-07T02:30:38",
+      "body": "This is unrelated to the post but Pinstripe themes work with Netscape 7.1; but maybe you know that already. :)"
+    },
+    {
+      "id": 5,
+      "author": "Ace",
+      "url": null,
+      "date": "2003-07-07T02:33:15",
+      "body": "This is unrelated to the post but Pinstripe theme works with Netscape 7.1; but maybe you already know that. :)"
+    },
+    {
+      "id": 6,
+      "author": "Jason",
+      "url": null,
+      "date": "2003-07-07T13:19:35",
+      "body": "Ace is correct. The Pinstripe theme now works with no need to edit your files by hand in Mozilla 1.4 (which Netscape 7.1 is based on.) Hooray!"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-07-09T17:04:29",
+      "body": "Oh yeah! Thanks for the heads up guys - I'm sorry Pinstripe didn't work on Netscape 6-7 earlier, but I never could find the free time to sit down with it."
+    },
+    {
+      "id": 8,
+      "author": "",
+      "url": null,
+      "date": "2003-07-11T01:57:32",
+      "body": "Newest nightly of mozilla works on panther, but tabs dont seem to work.  Odd..."
+    },
+    {
+      "id": 9,
+      "author": "Colina",
+      "url": null,
+      "date": "2003-11-27T18:46:18",
+      "body": "Pinestripe doesn't work in my Netscape 7.1. Well it does, except for the composer feature where the icons are mixed up."
+    },
+    {
+      "id": 10,
+      "author": "Sosurim",
+      "url": null,
+      "date": "2003-11-28T04:30:20",
+      "body": "To keep this thread off topic: Colina, I think I know what you experienced. All you have to do is open the Netscape preferences and change the icons in the composer toolbar. You can then change it back to what you had before. Once you've done this, you can enjoy Pinstripe like everyone else. Great stuff!"
+    }
+  ],
+  "trackbacks": []
+}

@@ -1,0 +1,196 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "neilIo",
+      "url": null,
+      "date": "2004-12-09T01:04:06",
+      "body": "I think you and Stephen had done an incredible job. I don't use Thunderbird, as I'm still waiting for OS X Address Book integration, but every once in a while I launch it and marvel and how fine looking it's become."
+    },
+    {
+      "id": 2,
+      "author": "JK",
+      "url": null,
+      "date": "2004-12-09T01:06:46",
+      "body": "I just switched to Tbird on the Mac. I must say, the GUI is very impressive. I think it may be the most attractive app I have. I feel less pressure to close it when I'm not reading or writing mail (and because TOP often reports that Tbird is sleeping with 0%) -- that's saying a lot: the design makes it FEEL lighter, less stiff, less processor and RAM heavy. A real case of design making a big psychological difference. I can't thank you enough. Contributions like these make me feel good about ... it all.\n\nJK"
+    },
+    {
+      "id": 3,
+      "author": "carlos",
+      "url": null,
+      "date": "2004-12-09T01:51:18",
+      "body": "Amazing job on the UI, I downloaded Thunderbird for the first time when the 1.0 release was announced and was immediately floored."
+    },
+    {
+      "id": 4,
+      "author": "Anthony",
+      "url": null,
+      "date": "2004-12-09T02:23:03",
+      "body": "Yeah, guys, you did a beautiful job. I use TB for Mac everyday and the look and feel is amazing. I used XP previously.\n\nI can't believe how much effort and time went in - you guys are brilliant at graphic design - I wish I had 1/4 of that talent so I wouldn't have to \"borrow\" most of the artwork on my web-pages :-)\n\nSend me a rate card - I am very interested in getting 6 icons for a new site I am designing...\n\nThank You!"
+    },
+    {
+      "id": 5,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-12-09T04:50:19",
+      "body": "Just superb work! The UI is more OS X than many cocoa apps out there. What you've done with an XUL app is incredible.\n\nLike neilIo I'm waiting for Address Book integration (and maybe an easier way to import from Apple Mail than fiddling with mbox's) but I'll be there when it happens.\n\nReally interesting reading on the progression of the icons too - glad you spent the time assembling them all. It can't have been a quick task!"
+    },
+    {
+      "id": 6,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-12-09T04:53:11",
+      "body": "Actually, while I'm still lurking, I do have one request. The wee icon to show whether you're online just makes me think of the old Netscape days. Any chance Stephen could come up with a new icon for that?"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-12-09T08:06:15",
+      "body": "Jon, you mean the bulb icon in the lower left corner of each window? I just recently put that in right before 1.0 was released.\n\n<a href=\"http://kmgerich.com/archive/images/thunderbird/offline_status.png\" rel=\"nofollow ugc\">screenshot</a>"
+    },
+    {
+      "id": 8,
+      "author": "J Cordes",
+      "url": null,
+      "date": "2004-12-09T09:50:33",
+      "body": "This looks greta!  Excellent work!  Since it's inevitable that somebody will say this eventually here, I might as well go ahead and say it myself:  I can't wait for an official Winstripe theme for Thunderbird for Windows!"
+    },
+    {
+      "id": 9,
+      "author": "",
+      "url": null,
+      "date": "2004-12-09T11:05:43",
+      "body": "I would guess that\n\nthe \"Do Not\" (circle slash) icon is the junk mail icon (Do not open this), and\n\nthe recycle bin is the delete icon (trash).\n\nWould I be right?\n\n(It looks like I could be wrong, as the sequence of icons next to circle-slash starts with an eraser, which seems more like delete/trash)."
+    },
+    {
+      "id": 10,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-12-09T11:35:16",
+      "body": "The circle slash icon is for delete. I'm not sure it represents the \"delete\" action as clearly as possible, but Mac OS X users are familiar with the image from other Mac apps.\n\nThe recycle bin is for \"Junk\". You might think it means \"trash\" if you're coming from a Windows world. We use a trashcan icon for \"trash\". Trash and Junk are similar concepts, so I can see how it might be a bit confusing."
+    },
+    {
+      "id": 11,
+      "author": "Joshua Heyer",
+      "url": null,
+      "date": "2004-12-09T15:08:33",
+      "body": "An amazing improvement! The old icon set and the new are like night and day! Great work!\n\nI second Hicks and neilIO on that I'm waiting for integration with Address Book and transfering emails from Mail to TB isn't an easy or smooth process. Also the composing window doesn't seem as easy and flexible as Mails does for managing font use, colors, and quote management. And I get the feeling some things are harder to find in TB than in Mail. Anway, the big things are the Address Book and transfering the emails to TB.\n\nI'm also waiting to see if Apple will \"raise the bar\" with Mail in OS X 10.4 Tiger."
+    },
+    {
+      "id": 12,
+      "author": "Jonathan Horak",
+      "url": null,
+      "date": "2004-12-09T16:54:52",
+      "body": "I'm a recent Mac convert &#8212; made the \"switch\" just this Summer from Windows. Having been a Mozilla advocate before the move, it was inspiring to see the UI of Thunderbird for OS X progress from release to release (0.7, 0.8, 0.9 and now 1.0). Great work Kevin, Stephen; it's highly appreciated!"
+    },
+    {
+      "id": 13,
+      "author": "jeff",
+      "url": null,
+      "date": "2004-12-09T17:09:28",
+      "body": "Tremendous job on the icons, and the UI polish in general. Nice work!\n\n~jeff"
+    },
+    {
+      "id": 14,
+      "author": "HC Andersson",
+      "url": null,
+      "date": "2004-12-09T18:15:03",
+      "body": "Great icons! I wish that you guys could work out a Firefox as nice as this! As Mail seams to come nicely packed with MacOS X Tiger these 2 great looking applications will have a good fight. And it's better to have 2 good looking e-mail apps on Mac than none, right?\n\nMy bet is that Thunderbird wins in the end!\nPS: When is Mozilla Store going to launch Thunderbird polo shirts?"
+    },
+    {
+      "id": 15,
+      "author": "Oscar",
+      "url": null,
+      "date": "2004-12-09T23:34:01",
+      "body": "Very nice. Any chance you'd want to go to work on <a href=\"http://www.abiword.com/screenshots/abi-macosx.jpg\" rel=\"nofollow ugc\">AbiWord</a>? They could sure use the help."
+    },
+    {
+      "id": 16,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-12-10T01:35:44",
+      "body": "I think Abiword is going to need more than icons, they are going to need a full Cocoa GUI programmer/designer."
+    },
+    {
+      "id": 17,
+      "author": "Chris Gervais",
+      "url": null,
+      "date": "2004-12-10T09:50:22",
+      "body": "Excellent work documenting your thought and decision-making process. Understanding how you arrived at your final designs really connects the users to the care you put into the design. I don't user Thunderbird, but after reading this, you can bet I'm going to download it and try it out."
+    },
+    {
+      "id": 18,
+      "author": "Matt Carey",
+      "url": null,
+      "date": "2004-12-10T13:59:55",
+      "body": "VERY nice work! :)\n\nAgain, bring me Address Book integration and I am there!"
+    },
+    {
+      "id": 19,
+      "author": "Fabian",
+      "url": null,
+      "date": "2004-12-11T06:32:51",
+      "body": "If only we had this kind of quality work for Windows Thunderbird right now..."
+    },
+    {
+      "id": 20,
+      "author": "KAMiKAZOW",
+      "url": null,
+      "date": "2004-12-11T07:28:15",
+      "body": "Firefox got some new icons in past Pinstripe releases. Eg. Back, Foreward, and Stop.\nThunderbird still has the old icons for Previous, Next, and Stop.\nAre these icons going to be synced with Firefox?"
+    },
+    {
+      "id": 21,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-12-11T08:03:56",
+      "body": "Kevin - yep thats the one! I hadn't tried the final 1.0 release until now. Hooray, I'm well chuffed!"
+    },
+    {
+      "id": 22,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-12-11T11:05:46",
+      "body": "KAMiKAZOW, yeah we didn't get around to syncing those icons up to the Firefox theme. I'll get it done for version 1.1 :)"
+    },
+    {
+      "id": 23,
+      "author": "KAMiKAZOW",
+      "url": null,
+      "date": "2004-12-11T20:40:47",
+      "body": "Good to read. :)"
+    },
+    {
+      "id": 24,
+      "author": "Steve",
+      "url": null,
+      "date": "2004-12-14T18:19:56",
+      "body": "The icons look great.  I would love to see a complimentary icon set for my desktop.  At the very least maybe a full size version of the folder used in the themes.  Great work!"
+    },
+    {
+      "id": 25,
+      "author": "Kevin D",
+      "url": null,
+      "date": "2004-12-18T03:46:22",
+      "body": "I agree with the \"clown colors\" being a bad thing, but right now thunderbird pinstripe strikes me as very \"grey\" - even firefox on the mac has more color than that."
+    },
+    {
+      "id": 26,
+      "author": "David",
+      "url": null,
+      "date": "2004-12-28T06:34:52",
+      "body": "I've said it in previous posts but I'll say it again -- excellent work on the Thunderbird theme, guys!\n\nI too would love to see support for Address Book. (I know that's not your job, Kevin. :)) It would make life easier on those of us who have (or plan to get) Bluetooth phones and want to sync them without maintaining two address books."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Veerle's blog",
+      "title": "Thunderbird's Extreme Mac-over",
+      "url": null,
+      "date": "2004-12-09T07:01:22",
+      "excerpt": "If you've ever tried to create good-looking icons then you probably know that some icons can be a real pain, especially  getting the message(purpose) across can be difficult. My"
+    }
+  ]
+}

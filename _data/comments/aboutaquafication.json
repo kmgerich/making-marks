@@ -1,0 +1,164 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Mitch",
+      "url": null,
+      "date": "2004-11-08T12:31:20",
+      "body": "hopefully they will take care of this one before 1.1 - it is by far the most annoying functionality bug left (now that Cmd-M was fixed):\n\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=151249\n\nthere are no 1.1 branches yet, so i can't nominate this one for that - asa already said it was too late for 1.0"
+    },
+    {
+      "id": 2,
+      "author": "TwisterMc",
+      "url": null,
+      "date": "2004-11-08T12:39:40",
+      "body": "Sad but I see that it was a well thought out plan.  Any chance of getting aqua check boxes or buttons to work in 1.0?  Or is that 1.1.  Either way it's a great browser and I see some great bugs in that list.  Some that get me every day!!  Keep up the good work."
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-11-08T12:54:11",
+      "body": "You know, I don't think I've seen a Bugzilla report actually asking for Aqua form widgets. Someone should probably do that :)"
+    },
+    {
+      "id": 4,
+      "author": "Siz",
+      "url": null,
+      "date": "2004-11-08T13:06:38",
+      "body": "The reason behind it seems sound... but I don't have faith in m.o to focus on the mac specific bugs for 1.1 a long laundry list for linux and xp issues will most likely cloud the issue."
+    },
+    {
+      "id": 5,
+      "author": "José Jeria",
+      "url": null,
+      "date": "2004-11-08T13:38:15",
+      "body": "About aqua form widgets, a Firefox bug was filed, but duped to this one:\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=175279"
+    },
+    {
+      "id": 6,
+      "author": "Nooon",
+      "url": null,
+      "date": "2004-11-08T13:45:36",
+      "body": "disappointing.. :("
+    },
+    {
+      "id": 7,
+      "author": "MonsterTruck",
+      "url": null,
+      "date": "2004-11-08T13:48:06",
+      "body": "That's because Mac isn't really important anymore as Windows (or even Linux, which b.t.w. has more users than Apple could ever dream of).\n\nFirefox on Mac and Camino are working in each other's way, and personally I think one of the two should be discontinued in order to focus on one superior product. But I guess that's worth at least a thread or two."
+    },
+    {
+      "id": 8,
+      "author": "michaell",
+      "url": null,
+      "date": "2004-11-08T16:39:31",
+      "body": "MonsterTruck: Your idea of focusing on one Mac product to make it superior depends on the assumption that if one of the browsers was discontinued the people that have been working on that would work on the other product. I would guess that assumption is mostly wrong.\n\nResources like visual design, marketing, and QA might benefit from being more focused, but I would imagine that if they discontinue a product (actually the Foundation can't do that as such, they can only stop supporting it - they don't own the code), a lot of the development resource (i.e. coding time) will simply disappear."
+    },
+    {
+      "id": 9,
+      "author": "Stephane",
+      "url": null,
+      "date": "2004-11-08T21:14:50",
+      "body": "Disappointing to hear about it, It's still in my mind at second place behind Safari mainly because of it's Un-Mac like interface.\n\nOff subject but I find this comment funny \"Linux, which b.t.w. has more users than Apple could ever dream of\". Apple use to have way more user than Linux has right now, funny how people forget. Linux has 2%  of computer users and Mac has 1.8%... wow, big difference !"
+    },
+    {
+      "id": 10,
+      "author": "jh",
+      "url": null,
+      "date": "2004-11-08T22:40:31",
+      "body": "Bummer...\n\nI really like firefox. Started using it when I was on WIN then began using it on MAC. The form widgets are what keep me from using it daily. I use it for development purpose right now and that's it, so in the meantime Safari is my default browser.\n\nAnd I must note that the start up time of Firefox is very slow compared to Safari."
+    },
+    {
+      "id": 11,
+      "author": "Dale",
+      "url": null,
+      "date": "2004-11-09T03:56:55",
+      "body": ">\"the satisfaction rating of Mac Firefox to be very close to Safari\"\n\nWith respect, I think the method of obtaining these ratings needs to be examined. While I've read many 'Firefox is the best browser on the Mac' comments, I've also read many comments that it's still not near as good as Safari, and that Firefox is better on Windows than on the Mac.\n\nThis is why Safari is better than Firefox:\n* Firefox is slower to start (it's slow on Windows too)\n* Firefox loads pages slower than Safari\n* Firefox doesn't behave like a Mac application eg Add Bookmark window can't be closed with Cmd+W. The non-standard (but useful) Find window/strip can't be closed with Cmd+W - this closes the window or tab. Instead you have to press the Escape key (this means cancel, not close!) to be closed. So Firefox is inconsistent with Apple HIG and within its self - compare how Sidebar is closed (not the Esc key as you'd expect) and how the Add Bookmarks window is closed. Also, why aren't some windows a sheet? eg the Print dialog box?\n* Safari's keyboard shortcuts for navigating tabs are better placed on the keyboard (Cmd+Left/Right arrow) - they do not require you to move your hands.\n* Firefox doesn't include keyboard shortcuts in its menus.\n* Firefox chokes significantly more than Safari when opening many tabs at once.\n* Bookmark Toolbar folders can't be opened in tabs with a single click like Safari's can.\n* Firefox's UI is slower than Safari's. eg click the Preference categories like General, Privacy, etc."
+    },
+    {
+      "id": 12,
+      "author": "Gary",
+      "url": null,
+      "date": "2004-11-09T08:22:16",
+      "body": "Well there's a problem to start with: \"We looked at feedback and satisfaction data from version tracker...\" There is good reason why many have dubbed versiontracker - perversiontracker. The feedback often seems to be either insulting or merely trawling for reactionary statements about the ills of particular developers or products.\n\nI ditched Safari as my default browser a long time ago for what i consider very logical reasons: stability, extensibility, ease of use, but also the ability to block advertising was a major triumph. I disagree with much of Dale's (see above) post. Command-W closes my windows fine; startup time, especially when you're talking about 5 seconds, (and is there a reason to close your browser at all anyway?) is largely irrelevant; the escape key is not necessarily logical to close your bookmarks sidebar etc. etc.\n\nI think most of the problems Dale (and many mac users) are highlighting are actually based in the ui processes of routine. We become aclimatised to certain functionality performing in certain ways, in the way that i find it ridiculously illogical and frustrating to do something as simple as open and find files on a windows box."
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-11-09T09:09:39",
+      "body": "I can't say how heavily they relied on Versiontracker comments to form their opinion. You don't have to dig very far into the various Mac forums to find out that users (not just enthusiasts) think Mac Firefox's weakness the slightly alien feel of the menus, HTML widgets, etc.\n\nOn the other hand, we've made good progress on Mac-specific bugs. Remember when Phoenix didn't even have a Window menu? Now we have a lot of Mac-specific enhancements for Firefox and I look forward to seeing more as development goes on."
+    },
+    {
+      "id": 14,
+      "author": "Darrel",
+      "url": null,
+      "date": "2004-11-09T13:36:01",
+      "body": "Do we really NEED an aquafied version?"
+    },
+    {
+      "id": 15,
+      "author": "David",
+      "url": null,
+      "date": "2004-11-09T16:17:55",
+      "body": "Darrel said: \"Do we really NEED an aquafied version?\"\n\nDo we *need* it? No. But it's a big deal for some users and the more reasons they have to use it the better!"
+    },
+    {
+      "id": 16,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-11-09T17:00:19",
+      "body": "We don't *need* an Aquafication release per se, but if Firefox expects to attract normal human users as well as power users, it has to follow the OS conventions that users expect. Also note that Firefox 1.1 will contain GNOME as well as Mac integration features."
+    },
+    {
+      "id": 17,
+      "author": "Siz",
+      "url": null,
+      "date": "2004-11-09T22:31:30",
+      "body": "Kevin, thats the problem Firefox 1.1 will contain GNOME intergration... Brendan has spoke more than once how he thinks GNOME is key to the development of the m.o platform his comments also make it seem as if spending time developing key parts of the m.o platform for OS X is a waste of time. I fully expect the GNOME intergration and Longhorn intergration to get major attention and push the Aquafication to the back burner. I'm willing to bet the order of importance will be Longhorn first, GNOME second and Aquafication might get some attention.\n\nIt is a sad state of affairs..."
+    },
+    {
+      "id": 18,
+      "author": "James",
+      "url": null,
+      "date": "2004-11-10T01:35:47",
+      "body": "Dale: Have you tried the <a href=\"http://forums.mozillazine.org/viewtopic.php?t=149532\" rel=\"nofollow ugc\">G4</a> or <a href=\"http://forums.mozillazine.org/viewtopic.php?t=156735\" rel=\"nofollow ugc\">G5</a> optimised builds? Apparently they dramatically increase overall speed."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "4 Banalitaten",
+      "title": "Per tutti ma non per Mac",
+      "url": null,
+      "date": "2004-11-09T07:33:14",
+      "excerpt": "Finalmente Firefox diventa adulto e raggiunge la versione 1.0."
+    },
+    {
+      "id": 2,
+      "site": "Skyzyx.com - Sidebar",
+      "title": "about:Aquafication",
+      "url": "http://kmgerich.com/archive/000076.html",
+      "date": "2004-11-10T12:04:55",
+      "excerpt": "A brief insight on the Mac Aquification release of Firefox...."
+    },
+    {
+      "id": 3,
+      "site": "Alan Francis",
+      "title": "Mac Version of FireFox",
+      "url": null,
+      "date": "2004-12-01T18:53:54",
+      "excerpt": "http://kmgerich.com/archive/000076.html..."
+    },
+    {
+      "id": 4,
+      "site": "PD",
+      "title": "Firefox for the Mac",
+      "url": null,
+      "date": "2004-12-13T22:27:34",
+      "excerpt": "So there is method to the madness - from the story:Firefox 1.0 was going to be released on Windows and Linux first. After the Windows version was out the door, we (meaning Ben and the few Mac hackers who work"
+    }
+  ]
+}

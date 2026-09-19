@@ -1,0 +1,103 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Robert",
+      "url": null,
+      "date": "2006-07-11T07:28:21",
+      "body": "Nice... but both links points to the same file, rename the pointed file to pinstripe* instead winstripe* to download the other until it is fixed."
+    },
+    {
+      "id": 2,
+      "author": "marcoos",
+      "url": null,
+      "date": "2006-07-11T07:33:37",
+      "body": "Both links lead to Winstripe..."
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-07-11T07:58:55",
+      "body": "I fixed the links. Sorry about that. Thanks for letting me know."
+    },
+    {
+      "id": 4,
+      "author": "Lim Chee Aun",
+      "url": null,
+      "date": "2006-07-11T09:28:04",
+      "body": "Wow, this is great news. Thanks!"
+    },
+    {
+      "id": 5,
+      "author": "Sohil",
+      "url": null,
+      "date": "2006-07-11T10:00:30",
+      "body": "Is this the right place to ask for a small peek into Bon Echo's Theme ? ;)"
+    },
+    {
+      "id": 6,
+      "author": "Life As It Comes » Blog Archive » (Win|Pin)stripe Icons Released",
+      "url": null,
+      "date": "2006-07-11T11:23:40",
+      "body": "[...] Kevin Gerich and Stephen Horlander announce the release of the Winstripe and Pinstripe artwork from their work for Mozilla. [...]"
+    },
+    {
+      "id": 7,
+      "author": "David Naylor",
+      "url": null,
+      "date": "2006-07-11T13:10:41",
+      "body": "Sohil: No real change for Bon Echo compared to 1.5."
+    },
+    {
+      "id": 8,
+      "author": "Will Rogers",
+      "url": null,
+      "date": "2006-07-11T13:36:53",
+      "body": "I was also curious about this post, since there is still a \"visual refresh\" planned before the Firefox 2.0 release.  I guess this means the refresh won't take the form of theme changes?"
+    },
+    {
+      "id": 9,
+      "author": "Dao",
+      "url": null,
+      "date": "2006-07-11T14:08:09",
+      "body": "David Naylor, I guess you mean Bon Echo Beta 1. It's not final and the visual refresh is yet to come."
+    },
+    {
+      "id": 10,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-07-12T11:17:51",
+      "body": "The visual refresh is off topic to this discussion, but the details are <a href=\"http://wiki.mozilla.org/FX2_Visual_Update/Default_Theme_Update\" rel=\"nofollow ugc\">here</a>"
+    },
+    {
+      "id": 11,
+      "author": "lukem",
+      "url": null,
+      "date": "2006-07-12T11:47:59",
+      "body": "Finally! Let's hope this heralds a policy of releasing this sort of thing earlier! It'll make it a lot easier to make browser extensions that fit in visually with the rest of the browser."
+    },
+    {
+      "id": 12,
+      "author": "Smokey Ardisson",
+      "url": null,
+      "date": "2006-07-13T01:11:26",
+      "body": "Thanks for doing this (or making it happen, or whatever excatly...).  Getting some appropriately-licensed Aqua/Aqua-like iconography out there will be a big help for smaller open-source projects (without budgets or resident designers) trying to better fit in visually on Mac OS X."
+    },
+    {
+      "id": 13,
+      "author": "Firefox 1.x Classic themes available : pretty widgets",
+      "url": null,
+      "date": "2006-08-05T13:10:49",
+      "body": "[...] and Photoshop files used to make these themes here. Bookmark article on:  digg  del.icio.us  Ma.gnolia  Filedunder: [...]"
+    },
+    {
+      "id": 14,
+      "author": "Jens Meiert",
+      "url": null,
+      "date": "2006-09-05T15:45:16",
+      "body": "Nice work. Firefox' (default) GUI will stay/get more appealing than IE's, while interestingly and at almost the same time, IE 7 becomes much more horrible to use (yeah, that clutter story...)."
+    }
+  ],
+  "trackbacks": []
+}

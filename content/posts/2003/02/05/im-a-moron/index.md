@@ -24,26 +24,3 @@ The Redhat desktop came up and I tried to play a wav file. Silence. I tried brin
 So a Google search lead me to a few discussions that suggested the drivers from the [ALSA Project](http://www.alsa-project.org/). Ah! This is the Linux I remember. Configure. Make. Make install. After about 15 minutes I had the ALSA drivers installed, but still no sound. But there were no error messages in /var/log/messages and the volume app worked.
 
 After 20 minutes of combing message boards, checking my modules.conf file, and more dithering, I looked at the back of the machine and noticed that I hadn’t plugged the speakers into the sound card. Oops!
-
-## Comments
-
-**That Woman** on 2003-02-07 19:46:54
-> Hahahahahahaha!!!
-> 
-> Yup. You're a moron.
-> 
-> TW
-
-**pbush** on 2003-02-09 15:06:58
-> That was funny!
-
-**Nemoi** on 2003-03-01 22:28:07
-> Hey we all do the same kind of thing, this one time I set the C flags on my athalon to be an AMD t-bird, I had to re-compile it all. Horrible. I've also reformatted the wrong hard drive, I'll never do that again.
-
-**zip codes** on 2003-03-15 20:02:50
-> nice article, keep up the good work. <a href="http://www.filthyspam.com" rel="nofollow ugc">lookup zip code</a>
-> 
-> [Edited: Wow, spam in the comments. Who would have guessed? - Kevin]
-
-**Adam** on 2004-03-22 20:05:41
-> my bolognie has a first name, it's H.O.M.E.R. .... dunno what that had to do with anything, but the story's fittingly fantastic!

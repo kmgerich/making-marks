@@ -563,6 +563,123 @@ main :first-child {
 	margin-bottom: 2rem;
 }
 
+/* Comments. The vertical rule is the structure, the tick marks the entry,
+   and the date leads because this is a closed archive thread, not a live
+   conversation. */
+.comments {
+	margin-top: 3rem;
+	padding-top: 2rem;
+	border-top: 1px solid var(--rule);
+}
+.comments-title {
+	font-size: 1.7rem;
+	margin: 0 0 1.5rem;
+}
+.comments-count {
+	color: var(--graphite);
+	font-weight: 400;
+}
+
+.comment-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border-left: 2px solid var(--rule);
+}
+.comment {
+	position: relative;
+	padding: 0.9rem 0 0.9rem 1.5rem;
+}
+.comment::before {
+	content: "";
+	position: absolute;
+	left: -2px;
+	top: 1.65rem;
+	width: 13px;
+	height: 2px;
+	background: var(--rule);
+}
+.comment-mine::before {
+	background: var(--red);
+	width: 13px;
+}
+.comment-mine .comment-date {
+	color: var(--red);
+	font-weight: bold;
+}
+.comment:target {
+	background: var(--faint);
+}
+
+.comment-head {
+	display: flex;
+	gap: 0.85rem;
+	align-items: baseline;
+	margin: 0 0 0.2rem;
+}
+.comment-date {
+	flex: none;
+	font-family: var(--font-family-monospace);
+	font-size: 0.8125rem;
+	color: var(--graphite);
+	font-variant-numeric: tabular-nums;
+}
+.comment-author {
+	font-size: 0.9375rem;
+	font-weight: 600;
+}
+.comment-mine .comment-author {
+	color: var(--red);
+}
+
+.comment-body {
+	font-size: 1.0625rem;
+	line-height: 1.5;
+	max-width: 62ch;
+}
+.comment-body p {
+	margin: 0 0 0.75em;
+}
+.comment-body p:last-child {
+	margin-bottom: 0;
+}
+/* A commenter quoting something must not look like a pull quote in the post.
+   The red bar keeps meaning "Kevin chose to quote this". */
+.comment-body blockquote {
+	margin: 0 0 0.75em;
+	padding-left: 0.9rem;
+	border-left: 2px solid var(--rule);
+	color: var(--graphite);
+	font-style: normal;
+}
+.comment-body blockquote p {
+	font-size: inherit;
+}
+.comment-body pre {
+	font-size: 0.8125rem;
+}
+
+.trackbacks {
+	margin-top: 2.5rem;
+}
+.trackbacks h3 {
+	font-size: 1rem;
+	margin-bottom: 0.75rem;
+}
+.trackback-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-size: 0.9375rem;
+	color: var(--graphite);
+}
+.trackback-list li {
+	padding: 0.35rem 0;
+}
+.trackback-list a {
+	font-weight: 500;
+}
+
 /* Art piece page */
 .art-piece-eyebrow {
 	font-size: 0.9375rem;

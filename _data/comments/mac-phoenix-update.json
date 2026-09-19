@@ -1,0 +1,294 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "ldb",
+      "url": null,
+      "date": "2003-04-03T16:58:29",
+      "body": "Finally!\n\nTabbed Browsing, no pop-ups, AND \"Block images from server\" on OS X.  Thank you.\n\nYou have to wonder what is up with Camino's project leaders when they will not implement simple feature requests like block images.\n\nIt works fine on 10.1.5.\n\nldb"
+    },
+    {
+      "id": 2,
+      "author": "hangnail",
+      "url": null,
+      "date": "2003-04-03T17:14:49",
+      "body": "Yes! Thanks so much for doing this.  Phoenix is so much more responsive than camino and offers more featuers without the bloat of the full mozilla package."
+    },
+    {
+      "id": 3,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-04-05T11:24:06",
+      "body": "Hm. I've downloaded it, but I can't get it to launch - it appeears in the dock for a split second but stops launching abruptly. I thought this might be because I might have had an old Phoenix profiles folder, but I don't.\n\nAny thoughts?"
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-05T11:33:09",
+      "body": "Neil, it works for me. What version of OS X are you using? Unfortunately I have no other Mac to test here. Does your Console (in /Applications/Utilities) have any useful imformation? It uses ~/Library/Phoenix to store preferences."
+    },
+    {
+      "id": 5,
+      "author": "ethan",
+      "url": null,
+      "date": "2003-04-05T13:00:17",
+      "body": "I also have the problem of Phoenix not starting up.  The console says nothing at all.  I'm running 10.2.4.  I do have previous installations of Mozilla/Chimera.\n\nFeel free to ask me more specifics.\n\nejw"
+    },
+    {
+      "id": 6,
+      "author": "josef",
+      "url": null,
+      "date": "2003-04-05T13:16:50",
+      "body": "same for me here, phoenix not starting - 10.2.4, nothing in the logs, have mozilla/chimera both installed on my system, deleted my old Library/Phoenix folder. any hints?\nthanks for porting!\njosef"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-05T13:21:18",
+      "body": "Okay. I didn't get the packaging right. Give me a bit to put up a new file."
+    },
+    {
+      "id": 8,
+      "author": "Paul",
+      "url": null,
+      "date": "2003-04-05T14:00:12",
+      "body": "Where's the download link?"
+    },
+    {
+      "id": 9,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-05T14:05:59",
+      "body": "I took it off since the app crashes when you start it up. I'm working on it."
+    },
+    {
+      "id": 10,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-05T14:44:11",
+      "body": "Ok, try it now!"
+    },
+    {
+      "id": 11,
+      "author": "George",
+      "url": null,
+      "date": "2003-04-05T15:01:34",
+      "body": "works great for me! finally, my favorite browser on my favorite operating system.  Kevin--fantastic work!"
+    },
+    {
+      "id": 12,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-04-05T16:11:46",
+      "body": "That works! Now, the magic question: any plans to port your Pinstripe theme over to Phoenix? It's easily the best theme available..."
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-05T16:45:52",
+      "body": "Well seeing that Phoenix is going to *replace* Mozilla in later versions, yes I'm going to make Pinstripe work on it. Although Phoenix has a lot more possible toolbar icons, plus small and large versions. So I may try to create a new icon set rather than use the Pinstripe icons. So far my efforts at creating a new icon set have not been very sucessful. We'll see."
+    },
+    {
+      "id": 14,
+      "author": "Hangnail",
+      "url": null,
+      "date": "2003-04-05T21:37:22",
+      "body": "Bookmarks don't seem to work ... can't change or add any.  Other than that it works great.  Those who are having problems might try deleting the phoenix folder in the library to start clean.  Worked for me."
+    },
+    {
+      "id": 15,
+      "author": "josef",
+      "url": null,
+      "date": "2003-04-06T07:43:11",
+      "body": "kevin, thanks for the effort - switched to os x recently and was missing phoenix a lot. tried them all, safari, chimera, mozilla, but finally: best browser has arrived!\nTHANKS for the quick replacement of the package yesterday as well...\n\nfantastic...\njosef"
+    },
+    {
+      "id": 16,
+      "author": "Josh Whitver",
+      "url": null,
+      "date": "2003-04-06T10:11:18",
+      "body": "It'd be nice if you could fix your webserver so that it doesn't try to serve .gz files as text.  It ought to be a pretty simple thing to fix. :)"
+    },
+    {
+      "id": 17,
+      "author": "Axel S",
+      "url": null,
+      "date": "2003-04-06T10:58:15",
+      "body": "Cool, Tabbed Browsing Extensions\" finally work. Wich other Extensions / Themes are known to work with it?\n\"Preferences Toolbar\" works fine too (as it did on the previous Version).\n\nNew Bookmarks can't be saved here too, but that seems to be the same on the \"normal\" Phoenix, so nice Job Kevin, and Thanks\n\nAXS"
+    },
+    {
+      "id": 18,
+      "author": "Richie",
+      "url": null,
+      "date": "2003-04-06T17:45:46",
+      "body": "Thank you for your hard work in making this nice update. I'm beginning to use Phoenix more than Camino or Safari. :)"
+    },
+    {
+      "id": 19,
+      "author": "maveric",
+      "url": null,
+      "date": "2003-04-07T06:03:28",
+      "body": "nice job, but importing and exporting bookmarks still seems to be broken. bad if you have a large number of bookmarks in mozilla. Good there are other ways to get them into phoenix but the worst is that the new one still cannot be saved.\nIs this a known bug.\nAll in all as said phoenix on the mac is as pretty and fast as it is under Windows XP, the OS from which I switched to OS X.\nCamino is nice too but a lot of features are missing."
+    },
+    {
+      "id": 20,
+      "author": "Avery",
+      "url": null,
+      "date": "2003-04-07T12:25:23",
+      "body": "I love Phoenix. Although I still prefer Camino with its native no XUL interface. Still Phoenix is the future of Mozilla and a hell of a browser. I was glad to hear Mozilla.org is moving to it and I think all us OSX users owe Kevin alot. Thanks man!"
+    },
+    {
+      "id": 21,
+      "author": "Neil Jenkins",
+      "url": null,
+      "date": "2003-04-07T12:27:24",
+      "body": "The bookmark bugs are all known Phoenix bugs. Kevin: If you could then I would suggest building the 20/3/2003 build and putting that on your Phoenix page as well, as that has none of the bookmark bugs and is very stable overall."
+    },
+    {
+      "id": 22,
+      "author": "Jim Strickland",
+      "url": null,
+      "date": "2003-04-07T14:11:31",
+      "body": "Unlike Axel, I can't get Preferences Toolbar to work completely with this version of Phoenix. It installs fine and shows up as it should. However, I am unable to do any customization. I most note however, that the creator of Preferences Toolbar states on his own site that after the .5 release of this particular extension would no longer support Phoenix. I do hope he changes his mind, or the functionality within Preferences Toolbar is added into Phoenix.\n\nOtherwise, this seems to be a very nice version of Phoenix."
+    },
+    {
+      "id": 23,
+      "author": "maveric",
+      "url": null,
+      "date": "2003-04-07T17:36:03",
+      "body": "Thanks for the answer Neil. Let's hope bugfixing is done fast on that.\nBut after an intensive use today and a little trick to import my bookmarks I still have on question open. Is it possible, just like in camino, to open a new page in a tab in the background if you hold down a key and clicking on a link? In Camino you simply hold down the meta (apple) key and click on a link and then if you have selected this behaviour a new tab instead of a new windows opens either in the background or frontmost.\nI mean too rember that something like this works on windows phoenix but I could be totally wrong."
+    },
+    {
+      "id": 24,
+      "author": "adaxl",
+      "url": null,
+      "date": "2003-04-08T02:19:47",
+      "body": "I love this one, but I wonder what the official status is? On Versiontracker.com, it showed up as \"Phoenix 1.4a\" and the Product Info link went to http://www.mozilla.org/projects/phoenix/, not kmerich.com. Is this an \"official\" Phoenix build? Will it get a place om Mozilla.org? I had the impression that kmgerich.com was briefly slashdotted."
+    },
+    {
+      "id": 25,
+      "author": "Axels S",
+      "url": null,
+      "date": "2003-04-08T03:34:51",
+      "body": "@ Jim Strickland:\nOops, sorry, I forgot about the Configuring, because I always use my old preferences ;)\nSince the 0.5 release PX has gotten a new Preferences dialog, and not all extensions have been updatet for it. To get the old Preferences Dialog use\n\nchrome://communicator/content/pref/pref.xul\n\nin the Adressbar, then goto \"Advanced\" > \"Preferences Toolbar\" and you can change whatever you like"
+    },
+    {
+      "id": 26,
+      "author": "Greg",
+      "url": null,
+      "date": "2003-04-08T08:10:17",
+      "body": "Love the Phoenix build.  Just a quick question, how do I open a link in a new tab without control-clicking the link and selecting 'open in new tab' from the context menu?"
+    },
+    {
+      "id": 27,
+      "author": "",
+      "url": null,
+      "date": "2003-04-08T08:22:41",
+      "body": "@Greg:\nYou can do this by installing \"Tabbed Browsing Extension\"\n\nhttp://texturizer.net/phoenix/extensions.html#Tabbed%20Browsing%20Extensions\nhttp://white.sakura.ne.jp/~piro/xul/_tabextensions.html.en\n\nWith this you can change almost everything about Tabbed Browsing Behavior"
+    },
+    {
+      "id": 28,
+      "author": "Axel S",
+      "url": null,
+      "date": "2003-04-08T08:24:23",
+      "body": "Forgot to Post my Name ;)"
+    },
+    {
+      "id": 29,
+      "author": "Jim Strickland",
+      "url": null,
+      "date": "2003-04-08T09:29:58",
+      "body": "@Axel:\nI have also discovered that if you close all windows in the latest Phoenix you can access the \"Preferences\" menu item just as in older releases of Phoenix and Mozilla. The Preferences Toolbar settings can then be adjusted. Thanks for your tip."
+    },
+    {
+      "id": 30,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-08T10:53:02",
+      "body": "You should be able to Command-click to get a new window or new tab. This is a bug which should be fixed when the Phoenix developers get around to looking at Mac key commands."
+    },
+    {
+      "id": 31,
+      "author": "Patrick",
+      "url": null,
+      "date": "2003-04-11T06:37:37",
+      "body": "Hi,\nGreat browser even at this early stage. I can't get the prefs to stick though and bookmarks disappear after each relaunch. Any advice?"
+    },
+    {
+      "id": 32,
+      "author": "Caesar",
+      "url": null,
+      "date": "2003-04-11T16:25:17",
+      "body": "Very nice build, I'm impressed! Just have one question about the tabbed browsing. Is there any way to switch tabs with a keyboard shortcut? I tried Tabbed Browsing Extension, but I don't see an option for that in there. Any suggestions?"
+    },
+    {
+      "id": 33,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-11T19:37:53",
+      "body": "Caesar, I'm not sure off the top of my head. One thing to keep in mind about the Phoenix build is it has been built to fit in on Windows. The key bindings are off. There's the lack of the \"Window\" menu which Mac users expect. The menubar changes to the \"Communicator\" version when all Phoenix windows are closed. There are other issues but I expect that they will be solved as the Mozilla developers turn their attention to an official Mac Phoenix build."
+    },
+    {
+      "id": 34,
+      "author": "",
+      "url": null,
+      "date": "2003-04-17T19:50:14",
+      "body": "Hi - Top job. The problem I seem to be having is installing extensions - I get an error complaining that the Chrome registry can't be updated. Where are the application (not profile) specific files stored?"
+    },
+    {
+      "id": 35,
+      "author": "David",
+      "url": null,
+      "date": "2003-04-18T02:48:03",
+      "body": "How do I download it, I have tried Mozilla, Camino, Safari and IE. Every single one of them will download about 556k and then stop. I have tried with multible builds of Mozilla and Camino.\n\nIs there anyway to get this via FTP?"
+    },
+    {
+      "id": 36,
+      "author": "Shawn",
+      "url": null,
+      "date": "2003-04-20T00:36:51",
+      "body": "Your build is great. Keep up the work to bring Phoenix/Firebird to OS X"
+    },
+    {
+      "id": 37,
+      "author": "David",
+      "url": null,
+      "date": "2003-04-25T13:52:17",
+      "body": "I had a friend download it last night and then put it up on his ftp server so I finally got it.\n\nFor bookmarks I found the best workaround is to copy my Mozilla bookmarks in. If I want to edit them I just swap them with mozilla's and edit them and put them back."
+    },
+    {
+      "id": 38,
+      "author": "Nkuvu",
+      "url": null,
+      "date": "2003-04-27T02:34:34",
+      "body": "Ahh, finally.\n\nI've been spending the evening playing with Phoenix, and I'm finally getting it configured the way I want.  One BIG thing that was bugging me was the lack of tab control.  So browsing through the messages posted led me to the texturizer.net site, where I was able to download some nifty extensions to tweak to my heart's content.\n\nSo I'd like to suggest that a link to that site be located somewhere on the download page, for people like me who don't read anything before they download.  Shame on me.  ;)\n\nOne last thing though -- what's up with the menu items in the Phoenix menu?  Shouldn't the preferences be there (to conform to every other OS X app on the planet)?  And how about that \"About Phoenix\" entry?\n\nBut don't get me wrong -- this rocks."
+    },
+    {
+      "id": 39,
+      "author": "Nkuvu",
+      "url": null,
+      "date": "2003-04-27T03:23:43",
+      "body": "Er.  What's that?  I have egg on my face?  Hmm.\n\nLooky there, a \"Phoenix Help\" button.  Wonder where this goes... hmm.  Texturizer.net.\n\nOK, never mind me, I'll be over here in the corner with a pointy hat on..."
+    },
+    {
+      "id": 40,
+      "author": "",
+      "url": null,
+      "date": "2004-12-01T23:41:16",
+      "body": "You may find it interesting to check the sites in the field of... Thanks!!!"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Riscky Babble",
+      "title": "minotaur & phoenix",
+      "url": null,
+      "date": "2003-04-08T22:48:24",
+      "excerpt": "Last week Mozilla update the Development Roadmap and shocked the world when we all learned that the wicked witch of the west, the XPFE-based Mozilla suite will be EOL after the 1.4 release in favor of the stand alone apps..."
+    }
+  ]
+}

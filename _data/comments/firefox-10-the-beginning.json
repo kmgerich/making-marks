@@ -1,0 +1,126 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "giz404",
+      "url": null,
+      "date": "2004-11-09T16:39:25",
+      "body": "Your work on Firefox and Thunderbird was awesome... I remember when firefox 0.9 went out, how violent were the reactions against your icons... And when i look to my brand new 1.0 firefox, with its neat Winstripe icons, i can't stop telling me \"What a great job these guys have done!\"\n\nI just have one more wish... GnomeStripe ! A gnome coloured winstripe theme would be nice .. ( i can't stand the \"home\" gnome icon)"
+    },
+    {
+      "id": 2,
+      "author": "Samuel Sidler",
+      "url": null,
+      "date": "2004-11-09T18:29:18",
+      "body": "An Nvu theme is desperately needed. More so than a Thunderbird theme (though, I must admit, when Thunderbird reaches 1.0, it should match Firefox). Nvu has really progressed and doesn't show any signs of slowing down. Great work on the Firefox theme, now let's transfer it's concepts over like the Sunbird group is doing."
+    },
+    {
+      "id": 3,
+      "author": "Andrew",
+      "url": null,
+      "date": "2004-11-09T20:00:21",
+      "body": "they could have at least put in the ablitity to login to an ftp.."
+    },
+    {
+      "id": 4,
+      "author": "Daniel J. Wilson",
+      "url": null,
+      "date": "2004-11-09T20:53:43",
+      "body": "How about a Sunbird theme?"
+    },
+    {
+      "id": 5,
+      "author": "Samuel Sidler",
+      "url": null,
+      "date": "2004-11-09T22:04:39",
+      "body": "Andrew: See http://fireftp.mozdev.org/. It's better than what a browser would normally have, I think.\n\nDaniel: Actually, Sunbird's icons have come along great and match, overall, with the Winstripe theme. Maybe some revision is necessary, but the icons have a fairly Winstripe-y feel.\n\nhttp://www.mozilla.org/projects/calendar/sunbird_screenshot.html"
+    },
+    {
+      "id": 6,
+      "author": "nx",
+      "url": null,
+      "date": "2004-11-10T03:57:53",
+      "body": "While I don't use Thunderbird myself I think that it would be a big mistake not to ship TB 1.0 with a theme similar to FX... But a matching theme for Nvu would be great, too (as that is actually a piece of software I use *g*)\n\nAnd again: great work with the FX theme!"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-11-10T06:59:34",
+      "body": "Thunderbird will ship with Qute. We would have liked to have a companion Winstripe theme for Thunderbird 1.0, but there isn't time.\n\nWe're not going to replace Qute with something rushed. We know how that turned out last time :)"
+    },
+    {
+      "id": 8,
+      "author": "Simon Paquet",
+      "url": null,
+      "date": "2004-11-10T07:07:30",
+      "body": "Since the Sunbird default theme is derived from Winstripe, it would be great, if you and Steven could look over it and try to refine it where necessary.\n\nIn addition, we currently do not use the Pinstripe theme for Sunbird (mostly due to lack of mac testers), so some help there would be greatly appreciated."
+    },
+    {
+      "id": 9,
+      "author": "nx",
+      "url": null,
+      "date": "2004-11-10T09:35:30",
+      "body": ">> Thunderbird will ship with Qute.\nI know that, that's why I posted in the first place =)\n\n>> We're not going to replace Qute with something\n>> rushed. We know how that turned out last time :)\nWell, the whole \"Firefox is at 1.0 so Thunderbird has to be 1.0 too\" thing feels wrong. Firefox had a long pre-1.0 phase and it certainly needed it. Thunderbird could use another 6 month for bugfixes, too and that would also bring the time to finish Winstripe/TB in time... oh well"
+    },
+    {
+      "id": 10,
+      "author": "TwisterMc",
+      "url": null,
+      "date": "2004-11-10T11:00:49",
+      "body": "What about a Calendar extension theme?  You know the Sunbird project that installs as an extension instead of an application.  That's in desperate need of some icons."
+    },
+    {
+      "id": 11,
+      "author": "Timothy Lim",
+      "url": null,
+      "date": "2004-11-10T23:38:36",
+      "body": "\"Thunderbird will ship with Qute. We would have liked to have a companion Winstripe theme for Thunderbird 1.0, but there isn't time.\n\nWe're not going to replace Qute with something rushed. We know how that turned out last time :)\"\n\ni'm fine with that, so long as you're eventually going to make a winstrip for thunderbird! :)"
+    },
+    {
+      "id": 12,
+      "author": "Simon Paquet",
+      "url": null,
+      "date": "2004-11-12T11:15:24",
+      "body": "Me wrote:\n\n>In addition, we currently do not use the Pinstripe theme for Sunbird (mostly due to lack of mac testers),\n>so some help there would be greatly appreciated.\n\nChanges introducing the Pinstripe theme for Sunbird were just checked in. Yay! Still any help on refining this would still be appreciated."
+    },
+    {
+      "id": 13,
+      "author": "Fabian",
+      "url": null,
+      "date": "2004-11-12T18:43:52",
+      "body": "Sad to hear that Thunderbird 1.0 will not have a new theme but we've all been expecting that anyway.\n\nI'm looking very much forward to what you guys have for Thunderbird 1.X because frankly the Qute theme is horrendous and makes the client look old fashioned and boring. The best piece of advice I can give you coming from an end user is to make Thunderbird look absolutely modern and vibrant. Email clients have a tendency to look boring and windows 98-ish and whatnot (eg, Pegasus Mail, Mulberry, Eudora, Outlook Ex) so this shouldn't be too difficult. A major revision of the default theme will have people flocking for it once people realize how functional, free and stylish it is."
+    },
+    {
+      "id": 14,
+      "author": "Anthony",
+      "url": null,
+      "date": "2004-11-13T05:00:05",
+      "body": "I would love to see a version of Pinstripe for Firefox for Mac OS X with the original square grey buttons, I really liked them! And I miss them!\nDo you have a version of that theme available for users to download at all?"
+    },
+    {
+      "id": 15,
+      "author": "",
+      "url": null,
+      "date": "2004-11-14T18:57:40",
+      "body": "Isn't there already efforts by carson and scratch to port winstripe to thunderbird. Do you think it's ready?"
+    },
+    {
+      "id": 16,
+      "author": "Ashley Portman",
+      "url": null,
+      "date": "2004-12-17T07:21:12",
+      "body": "Sunbird theme - best!\n\n<a href=\"http://blogg.8bit.co.uk/\" rel=\"nofollow ugc\">-ashley</a>"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Raffan sähköpäiväkirja",
+      "title": "The Firefox affaire (or \"how to dump the Mozilla suite\")",
+      "url": null,
+      "date": "2004-11-11T06:31:33",
+      "excerpt": "As a Mozilla enthusiast, I have to criticise a bit the Firefox affaire. Let's start in this way. I have always used Mozilla. As a Netscape fan, it wasn't a problem for me to switch to Mozilla. Since the latest..."
+    }
+  ]
+}

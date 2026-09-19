@@ -1,0 +1,47 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jeff",
+      "url": null,
+      "date": "2003-06-04T17:40:24",
+      "body": "This really sucks. I don't see how their reasoning justifies the removal."
+    },
+    {
+      "id": 2,
+      "author": "Sabaco",
+      "url": null,
+      "date": "2003-06-10T10:33:01",
+      "body": "I was also disappointed with this, so I've gone and registered my vote.  As it is, only 3 bugs have ever had more than 300 votes, including this one.  Seems like that should indicate to mozilla that we want the feature.  Hopefully it will go back in soon."
+    },
+    {
+      "id": 3,
+      "author": "Greg Kolanek",
+      "url": null,
+      "date": "2003-06-13T03:20:05",
+      "body": "Note that Christian Biesinger packaged the removed code as an XPI installer () you can use to restore MNG/JNG funtionality to builds newer than June 4."
+    },
+    {
+      "id": 4,
+      "author": "Greg Kolanek",
+      "url": null,
+      "date": "2003-06-13T03:21:53",
+      "body": "Forgot the URL; get the XPI <a href=\"http://stud4.tuwien.ac.at/~e0225227/\" rel=\"nofollow ugc\">here</a>."
+    },
+    {
+      "id": 5,
+      "author": "Greg Kolanek",
+      "url": null,
+      "date": "2003-06-15T19:01:50",
+      "body": "Kevin, you should add a note advising people to only vote, and not add comments to, that bug."
+    },
+    {
+      "id": 6,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-06-16T09:45:10",
+      "body": "Good point Greg"
+    }
+  ],
+  "trackbacks": []
+}

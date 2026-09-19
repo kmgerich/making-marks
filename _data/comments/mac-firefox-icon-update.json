@@ -1,0 +1,399 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Steve",
+      "url": null,
+      "date": "2004-08-09T14:34:43",
+      "body": "Kevin and Stephen, you guys do excellent work!\n\nAs a long time Firefox and Thunderbird user I deeply appreciate all the hours you two have put in making my two favorite apps look better and better.\n\nThanks and keep up the good work, can't wait to see winstripe on TB."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-09T15:38:00",
+      "body": "Kevin,\n\nI was wondering if there will be new icons for the options pane (when I say \"new\" I mean, different than the ones that are present with 20040809 and earlier).  If I had to guess, I'd say there would be, since the toolbar downloads icon is quite different than the options pane download icon, but I was just wondering if you would mind commenting on that.\n\nThanks so much for volunteering your time and effort to help Firefox change the face of the web!"
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-09T15:47:16",
+      "body": "I guess I should clarify that I was referring to the 20040809 Windows build.\n\nThanks!"
+    },
+    {
+      "id": 4,
+      "author": "Kevin (the other one)",
+      "url": null,
+      "date": "2004-08-09T16:05:49",
+      "body": "Oh, you mean the download icon on the Windows theme. Yeah, I think that's on Stephen's to do list somewhere :)\n\nI believe the reason why we changed the download icon on Windows is to get a bit more variety and depth into the icon set to blend into Windows XP. I'm not sure if the shape will come over to the Mac theme anytime soon."
+    },
+    {
+      "id": 5,
+      "author": "Blu",
+      "url": null,
+      "date": "2004-08-09T16:06:03",
+      "body": "Why not Windows? Windows doesn't even really have a theme. This one looks better than Windows because of the coloring(ours looks \"dirty and grainy\") where tha Mac looks shiny and smooth. Especially the Home button as compared to our ugly one."
+    },
+    {
+      "id": 6,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-09T16:25:07",
+      "body": "I can't see how the Windows theme looks \"dirty and grainy\". Care to elaborate? The Windows theme uses colors from the Windows XP color palette.\n\nThe highlighting on the Mac icons are consistent with the Mac ..as you say, smooth and shiny. It really would not be appropriate on Windows. I'm sure it would look good :) But it would move farther away from the Windows style than we want to be."
+    },
+    {
+      "id": 7,
+      "author": "Matthew Welty",
+      "url": null,
+      "date": "2004-08-09T17:01:12",
+      "body": "Will we see these new icons in tomorrow's nightly build? I got 20040809 and I don't see these.  Sorry if I'm missing something obvious, I'm new to the Firefox game."
+    },
+    {
+      "id": 8,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-09T17:07:14",
+      "body": "I made the checkin on 08/09/2004 10:11am PST, so they should be in the next nightly builds. Probably tomorrow."
+    },
+    {
+      "id": 9,
+      "author": "Matthew Welty",
+      "url": null,
+      "date": "2004-08-09T17:23:34",
+      "body": "Awesome.  I also look forward to the bookmark gradient.  That is a real sweet piece of work."
+    },
+    {
+      "id": 10,
+      "author": "Tony",
+      "url": null,
+      "date": "2004-08-09T18:34:35",
+      "body": "*cough*SPOTLIGHT*cough*... it looks like the bookmarks bar from Mail.app 2.x - I LIKES IT!"
+    },
+    {
+      "id": 11,
+      "author": "dzd",
+      "url": null,
+      "date": "2004-08-09T19:00:47",
+      "body": "Will this be made available for people who don't use Fx nightlies? Or has the theme specification changed again?"
+    },
+    {
+      "id": 12,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-08-09T19:32:01",
+      "body": "Question:\n\nAre you planning on updating preview.png once the aforementioned final round of changes is made?  It's currently out of sync with reality."
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-09T20:32:46",
+      "body": "Tony, yeah the background on the bookmarks toolbar is inspired by Tiger :) It isn't in the nightlies yet but it will be in the next few days.\n\nJeff, thanks for reminding me about the preview image! I'll put it on the list!"
+    },
+    {
+      "id": 14,
+      "author": "Cody L.",
+      "url": null,
+      "date": "2004-08-09T21:51:29",
+      "body": "Looks pretty darn snazzy, keep up the good work.  I love the new look on the bookmarks toolbar though.  I like the old stop icon/arrows more though, since it had a really mac feel to it, but I'll get used to the new ones."
+    },
+    {
+      "id": 15,
+      "author": "Luke Shingles",
+      "url": null,
+      "date": "2004-08-10T02:56:58",
+      "body": "Wow, that looks amazing. I wish I had a Mac :(."
+    },
+    {
+      "id": 16,
+      "author": "SPeedY_B",
+      "url": null,
+      "date": "2004-08-10T05:24:46",
+      "body": "Very nice, can't wait to use it :)"
+    },
+    {
+      "id": 17,
+      "author": "Francis",
+      "url": null,
+      "date": "2004-08-10T11:50:53",
+      "body": "The one striking difference between the Mac icons and the Windows icons is the proportion white-space versus icon-space. The Mac version looks much more balanced than the Windows version, because it does not waste valuable toolbar-estate with far too much white-space.\n\nSee for instance the mini drop-down-list-arrows (the black triangles) besides the forward/back buttons: in the Mac version these little black triangles are actually visually connected to the big green buttons, whereas the Windows version exhibits a very big (and ugly!) gap between the green buttons and the black triangles.\n\nI think Winstripe will become much more acceptable once its proportions have been brought in line with the Pinstripe theme."
+    },
+    {
+      "id": 18,
+      "author": "JP",
+      "url": null,
+      "date": "2004-08-10T15:54:23",
+      "body": "Aww man, does this mean Winstripe users are stuck with the 3D house?  The 2D house looks so much better and is way more readable."
+    },
+    {
+      "id": 19,
+      "author": "Blu",
+      "url": null,
+      "date": "2004-08-10T16:01:09",
+      "body": "\"I can't see how the Windows theme looks \"dirty and grainy\". Care to elaborate? The Windows theme uses colors from the Windows XP color palette.\"\n\nI can see it has XP colors, but the \"fading\" looks a bit grainy. And Reload has those shadows which make it look less visible and a dirty mess. It's not the same on Mac since Mac's \"fading\" is smooth.\n\n\"The highlighting on the Mac icons are consistent with the Mac ..as you say, smooth and shiny. It really would not be appropriate on Windows. I'm sure it would look good :) But it would move farther away from the Windows style than we want to be.\"\n\nI thought Mac was supposed to be smooth shiny and glossy(like glass or something covered with plastic wrap). I don't think there really is no Windows style, except for Microsoft's products."
+    },
+    {
+      "id": 20,
+      "author": "Rob C",
+      "url": null,
+      "date": "2004-08-10T16:34:16",
+      "body": "Could you please modify the back/forward arrows to be the same proportions as the Windows version?\n\nThey look a tad elongated.  Apart from that, very nice :)"
+    },
+    {
+      "id": 21,
+      "author": "Robert Curtis",
+      "url": null,
+      "date": "2004-08-10T17:04:03",
+      "body": "Also, how about some updated status bar icons?  Livemark and the lock icons look a bit shoddy in comparison."
+    },
+    {
+      "id": 22,
+      "author": "hysegood",
+      "url": null,
+      "date": "2004-08-10T17:04:12",
+      "body": "The 3D house rocks! Don't you listen to them 3D house!"
+    },
+    {
+      "id": 23,
+      "author": "JP",
+      "url": null,
+      "date": "2004-08-10T17:16:33",
+      "body": "Okay, let's debate this intelligently.  I think the 2D house shape is much more iconic and instantly readable as a house than the 3D one, which .\n\nThere's also that annoying weird blue pixel right above the door of Mr. 3D House... I see in higher res versions of the icon that it's a window, but it becomes a 2x2 pixel bright blue DOT at normal Firefox bar size, and it doesn't make the icon look very snappy.\n\n3D House is too much like the IE6 house, and 2D House is a distinctive positive difference that people will notice very soon after installing Firefox."
+    },
+    {
+      "id": 24,
+      "author": "JP",
+      "url": null,
+      "date": "2004-08-10T17:18:28",
+      "body": "Err, crap message got mangled...\n\n\"much more iconic and instantly readable as a house than the 3D one, which a person with poor vision might confuse for some other 3D blockish shape.\"\n\nAll the other icons would read even as B&W silhouettes, but 3D House just looks like a random polygon."
+    },
+    {
+      "id": 25,
+      "author": "Mmisab",
+      "url": null,
+      "date": "2004-08-10T18:00:54",
+      "body": "3D House sucks 2D's house."
+    },
+    {
+      "id": 26,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-10T19:48:43",
+      "body": "Very nice. I think that a 2D house would be more consistent with the Mac version, but then again maybe IE6 has a 3D home icon. These two artistic geniuses have said before that fitting in with an OS appearance takes precedence over cross platform consistency and IE6 is the app people would most likely switch to Firefox from. I don't have any PCs here to check what IE6 icons look like so I don't know for sure. Keep up the good work guys; you are most definitely headed in the right direction (and even followed through with the suggestions I emailed you)."
+    },
+    {
+      "id": 27,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-10T21:01:47",
+      "body": "Blu, there are Microsoft XP guidelines you can <a href=\"http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwxp/html/winxpicons.asp?frame=true&hidetoc=true\" rel=\"nofollow ugc\"> see here</a>. Maybe you think the icons look better because they are bigger. The screenshot above shows 32x32 icons which is default on Mac. Windows uses 24x24 icons as the default so we can't squeeze as much detail in.\n\nThe 3D house is only for the Windows version. The <a href=\"http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html\" rel=\"nofollow ugc\">Apple Icon Guidelines</a> say that toolbar icons should be a straight on perspective with a shadow underneath. The Windows guidelines encourage you to use perspective to get that Fun 'n Bouncy XP feel."
+    },
+    {
+      "id": 28,
+      "author": "gmech",
+      "url": null,
+      "date": "2004-08-11T00:32:20",
+      "body": "Great job! 2D house looks much better than the 3D one.\n\nThe reason why I think the house icon in Mac looks far better than the 3D Windows version, is that it goes along nicely (ie more balanced) with the rest of the 2D icons.\n\nAlso the Windows house icon looks washed-out. Yellow roof doesn't look very dynamic as say, a red one.\n\nKeep up the good work guys!"
+    },
+    {
+      "id": 29,
+      "author": "JP",
+      "url": null,
+      "date": "2004-08-11T09:22:41",
+      "body": "Windows XP icon guidelines say:\n\n\"Not all objects work well at 16 × 16 at an angle. The following objects are usually shown in a straight-on manner:\n\n    * Document icons\n    * Icons that are symbols (such as warning or information icons)\n    * Icons that are single objects (such as the magnifying glass)\"\n\nYou could argue the house falls on either side of this distinction.  It's a single object rather than the \"CD + box\" or \"Paper document + clock\" compound objects that exhibit the 3/4 view.  And it is so simple as to almost be considered a symbol - draw a nondescript 5-sided shape with squared bottom and a peaked roof and most people will tell you \"that's a house\".  That's pretty darn iconic.\n\nI understand the desire to conform to the target OS's interface specifications, but two points:\n\nA) Microsoft themselves do not always adhere rigidly to that document, and there are plenty of very successful applications (MS and otherwise) that don't take great pains to integrate themselves with the overall look of the OS.  They work because they are internally consistent and while the user is working in the program they are having a pleasant experience.  Quite personally when I see vestiges of the XP interface that affects my experience *negatively*, but I'm curmudgeony like that.\n\nB) Interface guidelines are formal specifications but you have to acknowledge that their visual (ie not functional) aspects can be and are influenced by FASHION.  Apple has plenty of good UI design habits but they didn't choose the shiny glass / clear plastic aesthetic because it was somehow better for usability or functionality, they chose it because it was a hot, trendy meme that would appeal to their trend-following consumers.  The Windows XP interface is an even later-to-the-bandwagon riff on that clear-plastic-y aesthetic, and as such it's anything but written in stone.  It's fashion, and by breaking ranks with it you can make a unique, positive fashion statement.\n\nFirefox has the opportunity to steal a lot of market share from the web browser status quo, and thus has a chance to set trends rather than follow them.  It has a chance to distinguish itself, rather than the usual OSS design mentality (such as there is one) which is to copy what MS/Apple are doing and blend in.  Which there are faint whiffs of in the current design of Winstripe.\n\nMan, all this hand-wringing over a little house.\n\nKeep up the great work on the themes!"
+    },
+    {
+      "id": 30,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-11T10:13:48",
+      "body": "Good post JP :)\n\nBoth Apple and Microsoft violate their guidelines on occasion. Apple's (paraphrased) \"Only use metal windows when the program simulates a physical device\" guideline is not exactly followed by Apple themselves. But I think that's fine. They are guidelines and not absolute rules.\n\nI take your point that the default theme could be a little more bold stylistically. The Mozilla theme API allows all sorts of neat visual possibilities. But Firefox has to appeal to *all* web surfers, not just power users. Firefox has compelling features to get people to switch away from the dominant browser. It also requires a simple, friendly interface that will feel comfortable to new users as well as experts. The way to develop that comfort level is to follow best practices of icon design in general and be consistent with each operating system's experience.\n\nSo regarding the \"OSS design mentality\", when you're developing an application that is a guest on an OS, you should use that OS as your design guide. A certain sameness is inevitable. We've tried to put forth some unique personality and brand within that context and I think we have been mostly successful so far.\n\nIf you want an example of an inventive and well-designed theme that steps out of OS conventions, have a look at <a href=\"http://members.shaw.ca/lucx/\" rel=\"nofollow ugc\">Charamel</a>."
+    },
+    {
+      "id": 31,
+      "author": "will",
+      "url": null,
+      "date": "2004-08-13T02:45:12",
+      "body": "Love the new icons and personal bookmark bar gradient, every update pinstripe gets better and better.  I hope you update the mouse rollover look in the personal bookmark bar too, it could definitely use an updated look!"
+    },
+    {
+      "id": 32,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-13T07:22:48",
+      "body": "Hmm what would you suggest for the bookmark rollover, Will? I did change it so it has a blue/purpleish color when you click the buttons."
+    },
+    {
+      "id": 33,
+      "author": "Allen",
+      "url": null,
+      "date": "2004-08-13T10:33:25",
+      "body": "I really like the way this theme is going - keep up the good work!\n\nWhat I was wondering is whether it would be possible to have a slight change made to the bookmark groups on the bookmarks toolbar.\n\nIf you take a look at <a href=\"http://www.number3.plus.com/bookmarks.jpg\" rel=\"nofollow ugc\">this image</a>, comparing Safari and Firefox, the Firefox bookmarks seem a little too tight together. There is a little screen real estate lost with the Safari implementation - but it only works out at about 3 vertical pixels per bookmark. And for that loss, you get a big usability improvement: it makes it easier to locate the bookmark you want, thanks to the bigger text and improved vertical spacing, and there's a bigger target area for the mouse.\n\nI know 'power users' say they like dense interfaces, with lots of functionality, but studies prove this is a false economy. The smaller the target, and the more things to look at per unit area of the display, the longer it takes to perform simple tasks.\n\nI know it's a petty thing, bookmark spacing, but I really think we can ace the whole interface if we're looking at things in this kind of detail."
+    },
+    {
+      "id": 34,
+      "author": "will",
+      "url": null,
+      "date": "2004-08-13T13:52:43",
+      "body": "Well, you could copy the rollover effect in Mail in Tiger; the text turns white and the rollover color is slightly lighter than what pinestripe is right now.  Then, clicking the bookmark makes the oval slightly darker and the text is still white.  Inverting the text color to white (instead of black) would be a bit more \"OS X like\" (think lists) and more visually appealing IMHO. :)  Good luck, can't wait to see the new theme!"
+    },
+    {
+      "id": 35,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-13T14:28:04",
+      "body": "Great comparison Allen. I hadn't looked at the menus in a while. I added some vertical padding and it does work better. I had meant to get back to the menus eventually. Thanks for reminding me."
+    },
+    {
+      "id": 36,
+      "author": "Wayne Woods",
+      "url": null,
+      "date": "2004-08-14T02:48:06",
+      "body": "Looking great on OS X :)\n\nIf you're planning to keep the 2d house icon, it might be worth experimenting with making it yellower. I suggest that simply to maintain the basic/primary colour theme, which I think works so well on Windows."
+    },
+    {
+      "id": 37,
+      "author": "Allen",
+      "url": null,
+      "date": "2004-08-15T06:50:49",
+      "body": "The reason the house is the colour it is on OS-X is because it near-enough matches the Apple \"home\" icon used in Finder.\n\nI know there's a constant trade-off between cross-platform consistency and OS consistency, but I think it really makes sense for most things to be driven by the OS. After all, before Safari, IE was the biggest browser on the Mac (I think!) and the biggest browser on Windows - but there was absolutely no cross-platform consistency except for the \"e\" logo.\n\nI think it essentially comes down to this question: what is the most important thing when a user sits down at their computer to use Firefox for the first time: A) that it integrates itself into the look of the OS, creating a consistent UI and a transparent browsing experience - or -  B) that they instantly recognise the programme to be Firefox because they've used it on another OS, thus allowing them to browse without hesitation.\n\nI'm a big advocate of solid, consistent UI, so I strongly believe that A) is the right option. Firefox should be a good citizen. Look at a program like RealPlayer for an example of one that feels uncomfortable due to its similar look across OSes. The problem with option B) above is that you are assuming any given user is to use Firefox across multiple OSes. Generally speaking, this will not be the case. Most users, sadly, will just use Windows.\n\nAs it is, the move to Firefox on another OS would hardly be jarring - most icons are very similar (back, forward, stop, reload being the most used anyway). My parents - who are the best test subjects on earth for this kind of thing - had absolutely no trouble transferring between Firefox on Windows and the Mac.\n\nAnother reason I'm conscious of this issue is that if we were going for absolute cross-platform consistency, we all know that Windows would be the system around which the theme would be primarily based, and all other OSes would come a poor second. Or we'd end up with some non-native theme like Mozilla Modern.\n\nI think Kevin and Stephen are getting it spot-on."
+    },
+    {
+      "id": 38,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-15T14:16:16",
+      "body": "Very well put Allen. To further what you said a bit, at my mom's (most of the time) I use OS X, but at my dad's they have XP. I could use Seamonkey on both and have an almost identical (the biggest difference being the location of the menu bar) interface with Modern, but I use Firefox instead. I just don't find it very pleasing on either platform (not to mention I don't need all it's features). All that's needed is some more work on Winstripe (I'm sure it will mature greatly over time), and I assume that is already being done."
+    },
+    {
+      "id": 39,
+      "author": "Wayne Woods",
+      "url": null,
+      "date": "2004-08-15T21:30:30",
+      "body": "Actually, if you read my post more carefully you'll note that I didn't suggest the colour for cross-platform consistency :) I suggested it because associating each icon with a different basic/primary colour (or icon-set, with respect to the forward/back arrows), works really well (which just happens to be evidenced on Windows). If I was preaching cross-platform consistency then I would have pushed for the 3-d house.\n\nFor all I know the house might look sucky when made yellower. I just said it would be worth experimenting with."
+    },
+    {
+      "id": 40,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-08-15T23:09:33",
+      "body": "The new icons are in.\n\nOne problem with the live bookmark icon, Kevin: Firefox also parses Atom feeds.  For example, my blog on Wordpress has an Atom feed, which is accessible via the status bar button, just the RSS feed (but is called Atom in the menu)."
+    },
+    {
+      "id": 41,
+      "author": "Neil",
+      "url": null,
+      "date": "2004-08-16T00:23:22",
+      "body": "Hm. I'm not seeing any \"gradient\" on the bookmarks bar - can someone take a screenshot and post it somewhere?\n\nOh, and Kevin, would it be possible to create an actual folder icon for bookmarks, instead of using the same globe icon for both folders and individual bookmarks?\n\nGreat work!"
+    },
+    {
+      "id": 42,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-16T07:51:50",
+      "body": "Jeff, one can argue that because RSS is so widespread that it is almost a generic term for news feeds. Apple is doing the same thing with <a href=\"http://www.apple.com/macosx/tiger/safari.html\" rel=\"nofollow ugc\">Safari RSS</a>. Using the orange rectangle which people might already be familiar with makes sense too, rather than coming up with a new image which might not have as much meaning.\n\nNeil, the bookmark bar should look like the partial screenshot I posted above. But you have to download the latest 0.9 nightly build to see it. Also I just checked in the fix for the bookmark menu folder icon :) Thanks for the heads up."
+    },
+    {
+      "id": 43,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-08-16T17:12:26",
+      "body": "So now in addition to Atom not being RSS and RSS not being RSS, RSS <strong>is</strong> RSS and RSS <strong>is</strong> Atom.  Hilarious.  Should I laugh or hit my head against a wall?"
+    },
+    {
+      "id": 44,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-08-16T19:51:53",
+      "body": "We could just go with the generic XML, but \"XML\" could mean anything. At least RSS has some meaning associated with it. Or we could make up a simple of some kind to represent news feeds. It isn't really an easy problem."
+    },
+    {
+      "id": 45,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-17T22:27:45",
+      "body": "After rereading my last post I saw something that could cause it to be misread and thought I should clarify. When I said \"I just don't find it very pleasing on either platform (not to mention I don't need all it's features).\" I was referring to Seamonkey, not Firefox.\n\nI am really, really liking Livemark; I use it for news and blogs such as this one. Plus, I used it as an excuse to really streamline my bookmarks and that's always good. I wonder if Livemark were a Safari feature, would it be called \"Smart Bookmarks?\""
+    },
+    {
+      "id": 46,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-08-18T00:30:39",
+      "body": "Well Tiger Safari has RSS feeds, and as of now they are just called RSS :)"
+    },
+    {
+      "id": 47,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-18T00:40:48",
+      "body": "True, but are they in bookmark form? I like having them integrated with my bookmarks the way they are now; I stole Kevin's \"Feeds\" folder idea because it's really useful. Plus, Tiger Safari has that RSS search box cluttering up the UI. It really should have a search more like Firefox or Camino."
+    },
+    {
+      "id": 48,
+      "author": "rodii",
+      "url": null,
+      "date": "2004-08-20T14:17:09",
+      "body": "Are there any plans to revive the old 0.8 Pinstripe theme? As an OS X user, I loved that, and while Winstripe is well done for what it is, the XP style feels icky to me."
+    },
+    {
+      "id": 49,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-20T16:58:37",
+      "body": "Yes, look deep within the *comments* of some of the other posts about the new Pinstripe on the Mac for \"0.8/0.9 hybrid\" or something to that effect."
+    },
+    {
+      "id": 50,
+      "author": "Neil",
+      "url": null,
+      "date": "2004-08-23T00:02:59",
+      "body": "Just a heads-up that the folder icon still isn't appearing in the latest nightlies - I still see the globe for everything."
+    },
+    {
+      "id": 51,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-23T07:04:13",
+      "body": "Neil, are you using a Trunk build? That might not have the latest fixes in it. Try the <a href=\"http://ftp34.newaol.com/pub/mozilla.org/firefox/nightly/latest-0.9/Firefox-mac.dmg.gz\" rel=\"nofollow ugc\">latest branch build</a>."
+    },
+    {
+      "id": 52,
+      "author": "bonaldi",
+      "url": null,
+      "date": "2004-08-24T20:47:51",
+      "body": "Still waiting for the promised graphite theme. Still installing that 08/09 hybrid with every new version. Sigh."
+    },
+    {
+      "id": 53,
+      "author": "rodii",
+      "url": null,
+      "date": "2004-08-25T22:52:12",
+      "body": "macskeeball--thanks...I couldn't find any such comments. But I appreciate the grounds for optimism anyway."
+    },
+    {
+      "id": 54,
+      "author": "rodii",
+      "url": null,
+      "date": "2004-08-25T22:53:49",
+      "body": "D'oh! Found it."
+    },
+    {
+      "id": 55,
+      "author": "Michael Romero",
+      "url": null,
+      "date": "2004-09-30T11:21:15",
+      "body": "I think this is excellent. I think one of the most important things to making Firefox a well accepted and used broswer across all platforms is to have it look and feel the same across all platforms, since end users like to feel comfortable with something they know. My only question is: were the faint stipples that make up a major part of the Aqua UI phased out for this theme? I can't tell from the picture, but I think that is one of the more important visual features on a Mac platform, since it makes the program seem more Mac-like."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "SPeedY_B - Coffee Addict",
+      "title": "Updates!",
+      "url": null,
+      "date": "2004-08-10T05:32:01",
+      "excerpt": "side from the 10.3.5 update, Apple have seeded a wee small Tiger update, which takes Mac OS X 10.4 from build 8A162 to build 8A171.\n\nAnd the Mac OS X FireFox icons have been updated to Revision 0.2, which can be seen on Kevin Gerich's web log. It als..."
+    }
+  ]
+}

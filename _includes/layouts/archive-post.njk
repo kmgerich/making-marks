@@ -26,6 +26,46 @@ layout: layouts/base.njk
 	<div class="essay-content">
 		{{ content | safe }}
 	</div>
+
+	{#- Comments live in _data/comments/<slug>.json. They sit beside .essay-content, not inside it, so the post's blockquote styling never reaches them. #}
+	{%- set thread = comments[page.fileSlug] %}
+	{%- if thread and (thread.comments.length or thread.trackbacks.length) %}
+	{%- set postYear = page.date | readableDate("yyyy") %}
+	<section class="comments" id="comments">
+		{%- if thread.comments.length %}
+		<h2 class="comments-title">Comments <span class="comments-count">{{ thread.comments.length }}</span></h2>
+
+		<ol class="comment-list">
+		{%- for c in thread.comments %}
+			{%- if not c.hidden %}
+			<li class="comment{% if c.author == "Kevin" %} comment-mine{% endif %}" id="comment-{{ c.id }}">
+				<p class="comment-head">
+					<time class="comment-date" datetime="{{ c.date }}">{{ c.date | readableDate("LLL d" if c.date.slice(0, 4) == postYear else "LLL d, yyyy") }}</time>
+					<span class="comment-author">
+						{%- if c.url %}<a href="{{ c.url }}" rel="nofollow ugc">{{ c.author or "Anonymous" }}</a>{% else %}{{ c.author or "Anonymous" }}{% endif -%}
+					</span>
+				</p>
+				<div class="comment-body">{{ c.body | markdown | safe }}</div>
+			</li>
+			{%- endif %}
+		{%- endfor %}
+		</ol>
+		{%- endif %}
+
+		{%- if thread.trackbacks.length %}
+		<section class="trackbacks">
+			<h3>Linked from</h3>
+			<ul class="trackback-list">
+			{%- for t in thread.trackbacks %}
+				{%- if not t.hidden %}
+				<li>{% if t.url %}<a href="{{ t.url }}" rel="nofollow ugc">{{ t.site }}</a>{% else %}{{ t.site }}{% endif %} <time datetime="{{ t.date }}">{{ t.date | readableDate("LLL d, yyyy") }}</time></li>
+				{%- endif %}
+			{%- endfor %}
+			</ul>
+		</section>
+		{%- endif %}
+	</section>
+	{%- endif %}
 </article>
 
 {%- if collections.archive %}

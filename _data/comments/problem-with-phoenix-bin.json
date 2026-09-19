@@ -1,0 +1,54 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "pbush",
+      "url": null,
+      "date": "2003-02-09T15:06:06",
+      "body": "You must have figured it out because I'm using your build of Phoenix to enter this message.\n\nNice job!!!"
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-02-09T20:19:27",
+      "body": "Actually no. The build of Phoenix uses the Mozilla binary renamed to 'phoenix-bin'. Why this works I have no idea!"
+    },
+    {
+      "id": 3,
+      "author": "Numbski",
+      "url": null,
+      "date": "2003-02-11T14:49:42",
+      "body": "Considered updating?  Apparently new Mozilla source is out today...there are a few small glitches, if I knew C at all I'd try to help, but I am but a poor PERL coding soul. :P"
+    },
+    {
+      "id": 4,
+      "author": "Andrew",
+      "url": null,
+      "date": "2003-03-11T19:50:17",
+      "body": "I am currious how you got it to build at all.  And if it built ok, how did it run?  wouldnt you need Xwindows or to create a Cocoa wrapper or something?  I am by anymeans an accomplished C++ developer, just a hobyist.  I know you did it, cause it does work!\n\nThoughts?"
+    },
+    {
+      "id": 5,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-12T07:56:10",
+      "body": "Phoenix is based on Mozilla which is a Carbon front end with a Unix back end. The <a href=\"http://www.mozilla.org/build/mac.html\" rel=\"nofollow ugc\">build instructions are here</a>. You have to pull the source and build Mozilla regularly. Then update your .mozconfig file with as in <a href=\"http://www.sitemason.com/page/eCIDQc\" rel=\"nofollow ugc\">this page</a> (without the last xft line). That'll build Phoenix. But the phoenix-bin will be corrupt somehow. You can use the phoenix-bin from my build or use a mozilla-bin file and rename it to phoenix-bin."
+    },
+    {
+      "id": 6,
+      "author": "Ben",
+      "url": null,
+      "date": "2003-03-28T16:40:59",
+      "body": "Could it have to do with the optimization line (second to last)?\n\ni686 typically has to do with optimization for Pentium 2, 3, or 4 (I'm not sure where the boundry between i586 and i686 is). Optimizing something for a PC won't help it to run on a Mac."
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-29T09:53:57",
+      "body": "Ah, well I didn't use the i686 line either. This is the .mozconfig I used.\n\n export MOZ_PHOENIX=1\nmk_add_options MOZ_PHOENIX=1\nac_add_options --disable-tests\nac_add_options --enable-crypto\nac_add_options --disable-mailnews\nac_add_options --disable-jsd\nac_add_options --disable-composer\nac_add_options --enable-plaintext-editor-only\nac_add_options --disable-mathml\nac_add_options --disable-debug\nac_add_options --enable-optimize=-O2\nac_add_options --enable-strip\nac_add_options --enable-extensions=cookie,xmlextras,typeaheadfind,wallet\n\nI've made a build recently and phoenix-bin still crashes unless I replace it with an earlier version."
+    }
+  ],
+  "trackbacks": []
+}

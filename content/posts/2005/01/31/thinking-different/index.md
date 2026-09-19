@@ -28,30 +28,3 @@ The machine itself feels good, if a little heavy. The keyboard is nice and chunk
 My distro of choice is [Ubuntu Linux](http://www.ubuntulinux.org/). The install went very smoothly and most of my hardware was detected right away. After finding some missing software (mplayer, thinkpad utils, Mozilla development tools, etc.), and FTPing my Firefox and Thunderbird profiles from the Powerbook, I’m off and running. My only problem is that my system seems to freak out when it wakes from sleep, but I consider that a minor annoyance. In my previous encounters with Linux, it seems that I’d have to compile a new kernel if I wanted to do \*anything\* slightly non-standard, like have scanner drivers that work.
 
 I’ll have a report about the Ubuntu user experience shortly 🙂
-
-## Comments
-
-**Ben Goodger** on 2005-01-31 17:39:52
-> Good lord. Let me know when you go screaming back to OS X :-P
-
-**Neil T.** on 2005-01-31 18:25:48
-> Ubuntu is pretty good, but I wish they'd get some newer stable builds of Firefox and Thunderbird out for it. Personally I still find I'm spending 99% of my time in Windows right now. But I am hoping to get a Mac Mini later this year :)
-
-**Kevin** on 2005-01-31 22:17:07
-> You can get Firefox 1.0 and Thunderbird 1.0 from <a href="http://ubuntu-bp.sourceforge.net/" rel="nofollow ugc">Warty Backports</a>
-
-**Kevin** on 2005-01-31 22:20:27
-> I dual boot as well. There are one or two things I use Windows for, including testing Winstripe. But I tried the latest beta version of VMware workstation yesterday and XP seems to perform better in the VM than on the separate partition.
-
-**minghong** on 2005-02-01 02:01:34
-> Hi! Just FYI, you <a href="http://kmgerich.com/archive/000085.html" rel="nofollow ugc">double posted</a>. And when did the anchor element gained a new attribute "hrref"? :-P
-
-**Kevin** on 2005-02-01 08:05:48
-> thanks minghong :) fixed
-
-**Robert Accettura** on 2005-02-01 23:22:30
-> Enjoy that.
-> 
-> I had to get a Thinkpad A31 for school.... and I soooo miss my mac :-(
-> 
-> I can't wait to make this my spare and have a nice shiny sexy Mac running OS X.

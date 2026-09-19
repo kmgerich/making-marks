@@ -1,0 +1,332 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "GURT",
+      "url": null,
+      "date": "2004-08-30T20:53:36",
+      "body": "those are hot.\njust for Mac or will that work with Windows builds as well?\n\nmmm sugar."
+    },
+    {
+      "id": 2,
+      "author": "Ryan S",
+      "url": null,
+      "date": "2004-08-30T21:02:23",
+      "body": "Great work! One less reason for Mac people to use Safari over Firefox."
+    },
+    {
+      "id": 3,
+      "author": "Ben",
+      "url": null,
+      "date": "2004-08-30T21:36:41",
+      "body": "Dude. Figure out how to do this as a patch to the existing Mozilla code for Mac-only and do all the widgets, and we'll slurp this up."
+    },
+    {
+      "id": 4,
+      "author": "Asaf Romano",
+      "url": null,
+      "date": "2004-08-30T21:47:32",
+      "body": "Kevin, why not use the new images for buttons from\nhttp://hicksdesign.co.uk/journal/551/native-looking-firefox-os-x-widgets"
+    },
+    {
+      "id": 5,
+      "author": "Luke Shingles",
+      "url": null,
+      "date": "2004-08-31T03:24:34",
+      "body": "I need to stop visiting this blog, it's making me want to buy a Mac."
+    },
+    {
+      "id": 6,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-31T07:07:57",
+      "body": "GURT, I'm not sure if this will work with Windows or Linux. Windows uses -moz-appearance to style the HTML form widgets based on the OS theme.\n\nAsaf, Jon's buttons using the image backgrounds look great but they don't scale. They also don't change colors when you change the theme. I want to create styles that don't necessarily copy the Mac buttons pixel-by-pixel, but are a little nicer than the primitive widgets that we have now."
+    },
+    {
+      "id": 7,
+      "author": "Stephen Duncan Jr",
+      "url": null,
+      "date": "2004-08-31T08:34:30",
+      "body": "It does affect Windows.  But it doesn't work quite right (I assume, since I can't see what effect it actually has on a Mac).\n\nInput and text areas dissapear when selected, there's no hover effeect on buttons, etc."
+    },
+    {
+      "id": 8,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-08-31T08:47:39",
+      "body": "Nice one Kevin, they remind me slightly of Opera's own widgets. Nice style!\n\nAsaf- Kevin's right. The ones I came up are seriously limited."
+    },
+    {
+      "id": 9,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-31T09:16:00",
+      "body": "Stephen, oh that's right. The focus rings have a style called -moz-mac-focusring which is probably not available on Windows :) For the button backgrounds, I use an image from the Pinstripe theme that doesn't exist in Winstripe."
+    },
+    {
+      "id": 10,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-31T10:49:12",
+      "body": "Can everyone please take a few minutes to test these styles on various web sites, especially those that apply CSS to form widgets? I'd like to make these styles not stomp on web page CSS too much. for that reason I'll probably lose the gradient background image on buttons."
+    },
+    {
+      "id": 11,
+      "author": "Chris Moritz",
+      "url": null,
+      "date": "2004-08-31T11:05:01",
+      "body": "Looks great.  The day draws near where I might actually consider ditching Camino for Firefox.  Can't wait!"
+    },
+    {
+      "id": 12,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-08-31T11:23:24",
+      "body": "Fields look strange if they have a background color set. You can see the white part of the shadow."
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-31T12:06:27",
+      "body": "Example URLs? :)"
+    },
+    {
+      "id": 14,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-08-31T12:45:51",
+      "body": "Mozilla.org the search field."
+    },
+    {
+      "id": 15,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-08-31T12:57:13",
+      "body": "Even better :)\n\nhttp://www.fred.net/dhark/demos/css/css_form_val_exp.html"
+    },
+    {
+      "id": 16,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-08-31T14:01:51",
+      "body": "Ow, my eyes! :) OK, two problems: First, I'm using -moz-border-*-colors to get the sunken Mac OS X text field look. It seems that web page CSS border colors do not override my -moz-border-*-colors rules.\n\nSeeing that Safari doesn't allow CSS in form fields at all, this might be acceptable. I could explicitly set a white background but I don't want to override any more styles than I have to."
+    },
+    {
+      "id": 17,
+      "author": "Josh Hughes",
+      "url": null,
+      "date": "2004-08-31T14:03:21",
+      "body": "Another heavily styled form:\nhttp://www.picment.com/articles/css/funwithforms/step5.html\n\nRegardless, I really like the style. Thanks for putting it together :)\n\nJosh"
+    },
+    {
+      "id": 18,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-08-31T17:18:16",
+      "body": "This is beautiful!"
+    },
+    {
+      "id": 19,
+      "author": "Joel",
+      "url": null,
+      "date": "2004-08-31T19:26:06",
+      "body": "http://wwwa.accuweather.com/adcbin/public/radar_menu.asp?partner=accuweather\n\nThe drop down radar menus are unreadable unless you are highlighting or mousing over an option. They sure look nice though ;-)"
+    },
+    {
+      "id": 20,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-09-01T01:12:42",
+      "body": "Joel, I fixed that issue by adding the following (the Lucida Grande part isn't required)...\n\n\"input, button, select, texarea {\n\tfont-family: \"lucida grande\" !important;\n\tcolor: black !important;\n\n}\"\n\nKevin, if you'd like I can slim down that CSS for you (minus my changes unless you want them). I think the same effects can be produced with less code and it makes sense to make Firefox as fast as possible. Just send me an email if you're interested and I'll be more than happy to help."
+    },
+    {
+      "id": 21,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-09-01T03:03:30",
+      "body": "After a little browsing, I've come to the conclusion that it would actually be better to use the following code instead of what I posted above...\n\n\"input, button, select, texarea {color: black !important; background: white !important;}\"\n\nDo not specify a font because it will make some form elements larger than intended."
+    },
+    {
+      "id": 22,
+      "author": "Ethan",
+      "url": null,
+      "date": "2004-09-01T09:15:02",
+      "body": "Lovely work, Kevin &mdash; thanks so much.\n\nNow, if we only had proper tabindex support for these sexy form fields...  ;)"
+    },
+    {
+      "id": 23,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-09-01T09:58:55",
+      "body": "Macskeeball, feel free to share any changes :) I've made a lot of changes myself and will post them soon."
+    },
+    {
+      "id": 24,
+      "author": "Rob Mientjes",
+      "url": null,
+      "date": "2004-09-01T11:00:07",
+      "body": "The Windows users are drooling ATM, so I'm looking for a way to mimic these in FF/Win. I'll keep you updated."
+    },
+    {
+      "id": 25,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-09-01T11:55:49",
+      "body": "To Ethan and anyone else who wants to tab to all fields in Mozilla or Firefox:\n\n1. type about:config in the url bar\n2. in the Filter field, type tabfocus\n3. double-click on the accessibility.tabfocus preference and change the integer value to 7.\n\nYou might have to restart the browser."
+    },
+    {
+      "id": 26,
+      "author": "Ethan",
+      "url": null,
+      "date": "2004-09-01T12:18:05",
+      "body": "Kevin, you're a rockstar &mdash; I'd been missing this functionality since moving to the Mac.  I've updated my user.js file with the accessibility.tabfocus value, and things are working wonderfully.\n\nIs there a reason this feature is disabled by default on the Mac?"
+    },
+    {
+      "id": 27,
+      "author": "Michele Campeotto",
+      "url": null,
+      "date": "2004-09-01T12:40:56",
+      "body": "Kevin, it works and looks wonderfully in Linux too, but It seems to have a problem with selects, I have to either click them thrice or keep the mouse clicked for about half a second (this is FF 0.9.3).\n\nThis is weird, I'll have a try on my Mac when I get home.\n\n\nmic"
+    },
+    {
+      "id": 28,
+      "author": "Riscky Abacus",
+      "url": null,
+      "date": "2004-09-01T17:59:10",
+      "body": "Check out compusa site... button text is missing!"
+    },
+    {
+      "id": 29,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-09-01T22:59:24",
+      "body": "Ok, Kevin. I've optimized the code, made it a little more consistent, added the enhancement I posted above, and corrected typos made by both you and me: http://macskeeball.no-ip.com/forums/tjp/userContent.css"
+    },
+    {
+      "id": 30,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-09-02T10:45:57",
+      "body": "I also noticed a weird problem with selectable lists that are scrollable and not dropdowns.\n\nSuch as: http://bonsai.mozilla.org/cvsqueryform.cgi"
+    },
+    {
+      "id": 31,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-09-02T16:50:10",
+      "body": "I see no such problem with my version, Stephen."
+    },
+    {
+      "id": 32,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-09-02T17:23:59",
+      "body": "Hmmm, well I tried both version and still get this:\n\nhttp://www.noved.org/~stephen/public_files/select_with_size.png"
+    },
+    {
+      "id": 33,
+      "author": "Asaf Romano",
+      "url": null,
+      "date": "2004-09-02T18:17:11",
+      "body": "Hi Kevin,\n\nWith the first version (I didn't check anything else... not yet) I see an issue on mozdev's search button.\n\nYou can see an example here: http://bidiui.mozdev.org (see the search button in the top right corner).\n\nBTW: I think the borders should not apply image buttons, but I'm not sure if we can _always_ handle this (since you can't use css selectors \"on\" css values :-/)\n\nMano."
+    },
+    {
+      "id": 34,
+      "author": "Macskeeball",
+      "url": null,
+      "date": "2004-09-02T21:06:00",
+      "body": "What version of Firefox are you using, Stephen? I'm using the September 12th nightly and don't see that."
+    },
+    {
+      "id": 35,
+      "author": "David",
+      "url": null,
+      "date": "2004-09-10T01:35:56",
+      "body": "Very nice. I hope this gets officially added to the Mac version of Firefox. :)"
+    },
+    {
+      "id": 36,
+      "author": "Jinketsu",
+      "url": null,
+      "date": "2004-09-10T14:17:35",
+      "body": "Wow, much better.\n\nThese remind me of the buttons in the Milk theme. I haven't encountered many problems. Some list menus seem to have scroll bars though.\n\nI hope these get used for the Mac version as well."
+    },
+    {
+      "id": 37,
+      "author": "sea bass",
+      "url": null,
+      "date": "2004-09-13T17:35:29",
+      "body": "Is it just me or do these buttons not have a 'down' state? Using Asa's Firefox 1.0RC-RC (or 0.10rc if you must) ;)"
+    },
+    {
+      "id": 38,
+      "author": "frank",
+      "url": null,
+      "date": "2004-09-14T18:24:43",
+      "body": "Here's a site that kind of trips up on this mod:\n\nhttp://www.pointroll.com/ShowCase/ShowCase.asp\n\nIf background colors will be forced to be white/light gray, then the foreground color should be forced, as well, to prevent any white text on light gray fields like in the above example."
+    },
+    {
+      "id": 39,
+      "author": "Hendrik",
+      "url": null,
+      "date": "2004-09-24T16:04:43",
+      "body": "This is really great!"
+    },
+    {
+      "id": 40,
+      "author": "Jennifer",
+      "url": null,
+      "date": "2004-10-04T15:16:20",
+      "body": "I am seeing a border added to links that I click on on Livejournal (like \"comment to this post\" links and such). The border appears shortly after I click and stays there until the page changes to the new URL. This is annoying and highly visible against the dark grey background of the style I set. Is there a way to remove this?\n\nAlso, wtf is with the comment above this one?"
+    },
+    {
+      "id": 41,
+      "author": "Jennifer",
+      "url": null,
+      "date": "2004-10-04T15:17:21",
+      "body": "... my comment is now referring to something that is not loading anymore ... and I forgot my build info anyway.\n\nMozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.3) Gecko/20041003 Firefox/0.10"
+    },
+    {
+      "id": 42,
+      "author": "Antony",
+      "url": null,
+      "date": "2004-11-27T05:46:57",
+      "body": "Check out for mortgage company\n<a>Flmortgage</a>for Florida mortgage information and personalized mortgage rate quotes from a network of qualified Florida mortgage brokers and lenders."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "elblogg",
+      "title": "Hot widgets",
+      "url": null,
+      "date": "2004-09-14T12:31:03",
+      "excerpt": "Kevin Gerich have posted a custom stylesheet for content in Mozilla firefox (known as chrome/userContent.css. It looks really neat, its made for MacOSX (those spoiled mac-users) but works on Linux too. I have not tested it on Windows. There is..."
+    },
+    {
+      "id": 2,
+      "site": "Smallpiece",
+      "title": "Piccolo mod per Firefox",
+      "url": null,
+      "date": "2004-09-15T14:38:01",
+      "excerpt": "&Egrave; appena uscita la public preview di Firefox 1.0 che nella versione per mac porta con s&eacute; un piccolo lifting all'interfaccia, molto piacevole e sobria.\n\nContemporaneamente a quest'uscita, Kevin Gerich (autore dell'interfaccia di Firef..."
+    },
+    {
+      "id": 3,
+      "site": "micampe.it",
+      "title": "Un lifting per Firefox",
+      "url": null,
+      "date": "2004-09-22T11:37:32",
+      "excerpt": "Saranno anche nati per il Mac, ma questi controlli stanno molto bene anche su Linux e ora il mio Epiphany e il mio Firefox sono molto più piacevoli da usare."
+    },
+    {
+      "id": 4,
+      "site": "risckyBabble",
+      "title": "Old Fragments",
+      "url": null,
+      "date": "2004-12-01T22:31:38",
+      "excerpt": "A shell script to edit text files as root in the GUI(via)\"I've Gained Strength\" (via)Making Visited Links RadicalReduce compile time with distccDesktop Managerrentzsch.com: mach_injectFunny Microsoft Q Articles From The Knowledge BaseMedia Matters for Ame"
+    }
+  ]
+}

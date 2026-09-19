@@ -1,0 +1,127 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Aronnax",
+      "url": null,
+      "date": "2005-01-05T15:15:35",
+      "body": "Great work!\n\nKeep up the good work"
+    },
+    {
+      "id": 2,
+      "author": "neil",
+      "url": null,
+      "date": "2005-01-05T15:16:55",
+      "body": "Is this in the nightly code? I'll spin a new copy of my <a href=\"http://www.beatnikpad.com/firefoxG5\" rel=\"nofollow ugc\">G5-optimized builds</a> if it is...\n\nLooks great, by the way!"
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-05T15:20:49",
+      "body": "Nope, it's on an experimental branch right now. The window is a little crashy and not ready for consumption. It'll be put on the trunk when it's ready .. I can't guess at the timeframe, but hopefully it won't be long."
+    },
+    {
+      "id": 4,
+      "author": "Warren TenBrook",
+      "url": null,
+      "date": "2005-01-05T16:53:50",
+      "body": "Since you're the FF skin chieftain, I won't even bother asking if the design has been checked for Aqua HIG compliance, of course it has ; )\n\nOTOH, the checkboxes and their associated buttons in the second shot seem a little distant and disconnected from one another, perhaps because the checkboxes are justified left and boxes justified right; instead the HIG recommends \"center equalization.\"\n\nhttp://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/XHIGLayout/chapter_11_section_2.html"
+    },
+    {
+      "id": 5,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-05T17:20:49",
+      "body": "Good call Warren. The screenshot is definitely of work in progress. I noticed the button spacing. I'm not sure how I accomplish center equalization with CSS, but I'm working on it. Thanks for the link!"
+    },
+    {
+      "id": 6,
+      "author": "José Jeria",
+      "url": null,
+      "date": "2005-01-05T21:03:37",
+      "body": "Looks nice!\n\nI guess that the issues mentioned in:\nhttp://kmgerich.com/archive/000075.html\n\nwill be adressed for 1.1? :-)"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-05T21:44:38",
+      "body": "I sure hope so José :) I plan to devote some time to Winstripe RSN"
+    },
+    {
+      "id": 8,
+      "author": "dave",
+      "url": null,
+      "date": "2005-01-06T09:32:46",
+      "body": "Another minor bug-ette, shouldn't some of those buttons have ellipsis (...) after them? e.g. Allowed Sites & Exceptions"
+    },
+    {
+      "id": 9,
+      "author": "Ryan Rafferty",
+      "url": null,
+      "date": "2005-01-10T11:14:14",
+      "body": "The new preference window is looking great!"
+    },
+    {
+      "id": 10,
+      "author": "Michael Kurze",
+      "url": null,
+      "date": "2005-01-23T06:01:51",
+      "body": "The Screenshots look very promising indeed! I looked at <a href=\"http://weblogs.mozillazine.org/ben/archives/007377.html\" rel=\"nofollow ugc\">Bens preview</a> of the full preferences (for ms windows).\nThere are some search/clear-boxes. For Pinstripe, it would be very cool if these were rounded off at the edges and had the small 'clear'-widget that only appears after text has been entered (like in iTunes).\n\n\"Slides open\" also sounds great, though i consider \"fades in\" not aqua-ish (well, let's see what Tiger will do about this...).\nOn that matter, I very much agree with Warren on center-equalization. I you have trouble with this one, perhaps <a href=\"http://www.aplus.co.yu/css/forms/?css=1\" rel=\"nofollow ugc\">these tricks</a> also apply to XUL-Form-Widgets?\n\nPlease carry on good work. Firefox is just great on OSX since there's Pinstripe."
+    },
+    {
+      "id": 11,
+      "author": "Fabian",
+      "url": null,
+      "date": "2005-01-23T19:36:17",
+      "body": "Just out of curiousity, is the general look of the Winstripe theme for Firefox going to stay as it is for a long, long while or will we see changes to come soon? What version number would we consider Winstripe to be on, anyway?"
+    },
+    {
+      "id": 12,
+      "author": "Marco",
+      "url": null,
+      "date": "2005-01-24T07:37:16",
+      "body": "Looks nice ... much more HIGy. I would also make sure that all of the buttons are the same width, which will probably move the font-size box down below the \"default font\" box ... unless you shorten the size control."
+    },
+    {
+      "id": 13,
+      "author": "Joseph",
+      "url": null,
+      "date": "2005-01-24T08:42:41",
+      "body": "ye Gods and little fishes...bet Mr G is unloading bricks at a rate of knots! However, he's not the only one being left behind. Firefox is not only best when using Windows XP, it's also the best browser when using any breed of Linux too. Brilliance stands out!"
+    },
+    {
+      "id": 14,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-24T10:11:46",
+      "body": "Actually the content fading ddoes happen in the \"System Preferences\" app, just not in other Mac apps. It would be a nice touch if it doesn't degrade performance too much.\n\nSorry about the spam. It seems to be filling up as soon as I clear it out. I'm using mt-blacklist."
+    },
+    {
+      "id": 15,
+      "author": "macguy",
+      "url": null,
+      "date": "2005-01-29T15:57:02",
+      "body": "hey just wondered if that underlining is going to stay? IMHO it looks awful and reminds me of windows, which is not good ;)"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "einfach-persönlich Sideblog",
+      "title": "Firefox Preferences Rejiggery",
+      "url": null,
+      "date": "2005-01-06T03:36:28",
+      "excerpt": "http://kmgerich.com/archive/000083.html..."
+    },
+    {
+      "id": 2,
+      "site": "Karmakars.com",
+      "title": "Firefox 1.1 in March 2005",
+      "url": null,
+      "date": "2005-01-10T05:08:30",
+      "excerpt": "It is not going to be a major upgrade as there is a lot of features Firefox already has while the market still plays ‘catch-up’ but there certainly are some nice little mods that will come by in the update..."
+    }
+  ]
+}

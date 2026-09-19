@@ -1,0 +1,306 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Ian.C. Davidson",
+      "url": null,
+      "date": "2004-03-31T09:45:03",
+      "body": "Outstanding work! Congratz to Stephen and Kevin for this.  Thunderbird is now my primary email client on Mac OS X."
+    },
+    {
+      "id": 2,
+      "author": "Donny",
+      "url": null,
+      "date": "2004-03-31T09:46:58",
+      "body": "It's just beautiful."
+    },
+    {
+      "id": 3,
+      "author": "Anon",
+      "url": null,
+      "date": "2004-03-31T12:51:08",
+      "body": "I recently switched from Mail.  The new theme is excellent.  Thanks for all your great work on this theme and Thunderbird's!  I look forward to seeing the new pinstripe in action on the Mozilla suite as well."
+    },
+    {
+      "id": 4,
+      "author": "Anon",
+      "url": null,
+      "date": "2004-03-31T12:52:30",
+      "body": "Err... in the previous message I meant \"Thanks for all your great work on this theme and Firebird's!\"  I need to read more carefully before posting.  :D"
+    },
+    {
+      "id": 5,
+      "author": "Theodore Lee",
+      "url": null,
+      "date": "2004-03-31T13:49:04",
+      "body": "The new theme is perfect! The one remaining piece to be updated is the application icon. It blows. It especially pales next to Firefox's new logo. Hopefully, something is in the works.\n\nCan't wait for the new pinstripe theme for the Moz suite. Keep up the great work!"
+    },
+    {
+      "id": 6,
+      "author": "Jinketsu",
+      "url": null,
+      "date": "2004-03-31T14:39:26",
+      "body": "Simply beautiful. Thank you Stephen & Kevin.\n\nThe app icons is gonna kick @$$!!"
+    },
+    {
+      "id": 7,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-31T15:57:27",
+      "body": "I think this message isn't junk! ;-)\nGoing to take TB for a spin now!\nJudging by the screenshot: Great work guys!"
+    },
+    {
+      "id": 8,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-31T16:06:37",
+      "body": "After playing with the new interface: I am blown away. Feels like a whole new app. As a contributing editor for Dutch website MacOSX.nl I will be (p)reviewing TB as a real OS X app at last."
+    },
+    {
+      "id": 9,
+      "author": "dru",
+      "url": null,
+      "date": "2004-03-31T20:13:16",
+      "body": "Fabulous work on bringing Pinstripe to the Mozilla apps. This is really showing OS advocates how to make their app attractive to MacOS X users."
+    },
+    {
+      "id": 10,
+      "author": "Cody",
+      "url": null,
+      "date": "2004-03-31T20:40:12",
+      "body": "w00t, I'm downloading right now"
+    },
+    {
+      "id": 11,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-03-31T20:45:59",
+      "body": "Seriously, this is a beautiful theme for Tb that (as others have said) makes it practically a new app. I, too, agree that the TB icon needs to be changed, but this theme is terrific. Great work."
+    },
+    {
+      "id": 12,
+      "author": "Michael Czepiel",
+      "url": null,
+      "date": "2004-04-01T03:48:25",
+      "body": "I know this probably isn't the proper channel but seeing as you've finally mad Thunderbird presentable I figured a lot of people ay end up being in here switching from mail.app.\n\nHow is everybody importing their mail.app mailboxes into TB? If anybody has any insight I'd love to hear it google has failed me and it's late.\n\nOh and yeah, now we need a equally spiffy icon to match such a clean interface."
+    },
+    {
+      "id": 13,
+      "author": "DiK",
+      "url": null,
+      "date": "2004-04-01T07:08:11",
+      "body": "Now don't quote me on this...\n\nGo to your mail.app Library folder usually located at:\n\nUsers/*your username*/Library/Mail/*your default account*/\n\nMake a copy of the inbox.mbox (perhaps to the desktop) - then control click on the copied inbox.mbox and \"show package contents\".\n\nLocate the file called \"mbox\" and change its name to \"inbox\".\n\nRun Thunderbird, and set an account up (the same as account in your mail.app) - close Thuderbird and navigate to the default users mailbox (normally at):\n\nUsers/*your username*/Library/Thunderbird/Profiles/Default/6bq4ll2o.slt/mail/*your mail account*/\n\nAnd over-write the inbox file with the file you've just changed in the Inbox.mbox - this worked for me, although I can't confirm any attachments.\n\nI guess you could do this for all your accounts/drafts/outboxes.\n\nPS. If you fark your machine - I take no responsability, but I hipe it helps. I'm now going to convince my director we should all be running TB.\n\nThanks Kevin for such an outstanding piece of UI design (and sorry for turning your blog into OSXHINTS)."
+    },
+    {
+      "id": 14,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-04-01T08:34:35",
+      "body": "Jon Hicks is working on a Thunderbird appplication icon. From what I've seen of the rough sketches, it's going to be even better than his Firefox icon :)"
+    },
+    {
+      "id": 15,
+      "author": "Greg K Nicholson",
+      "url": null,
+      "date": "2004-04-01T11:15:20",
+      "body": "Pinstripe for Seamonkey? Does this mean there'll also be a Qute for Seamonkey for Windows? If Seamonkey can look good on OS X it should probably look at least decent on Windows."
+    },
+    {
+      "id": 16,
+      "author": "Frederik",
+      "url": null,
+      "date": "2004-04-01T12:11:16",
+      "body": "Beautiful! If only the program was as good as your artwork..."
+    },
+    {
+      "id": 17,
+      "author": "Jeff Wilkinson",
+      "url": null,
+      "date": "2004-04-01T12:47:35",
+      "body": "beautiful!  will this be available only on Mac/OS-X TB or on all versions?"
+    },
+    {
+      "id": 18,
+      "author": "Simon Gilligan",
+      "url": null,
+      "date": "2004-04-01T18:34:15",
+      "body": "Yes - outstanding. My OS X experience has been completed ..."
+    },
+    {
+      "id": 19,
+      "author": "James S",
+      "url": null,
+      "date": "2004-04-01T18:59:03",
+      "body": "This is fantastic, beautiful.  My default mail reader now.  Some minor quirks, like the buttons on the offline sheet, but it's all good.\n\nThanks!  This is fantastic."
+    },
+    {
+      "id": 20,
+      "author": "Neil Parks",
+      "url": null,
+      "date": "2004-04-02T00:19:18",
+      "body": "Looks nice.  How about making it available as an option for Tbird in Windows?"
+    },
+    {
+      "id": 21,
+      "author": "Greg K.",
+      "url": null,
+      "date": "2004-04-02T02:17:30",
+      "body": "Great work, Kevin! Here are some comments. (Note that all references to pinstripe background problems naturally refer to Mac OS X 10.2.x.)\n\nThe progress toolbar icon is really dark, though. Is it being drawn twice, superimposed?\n\nThe text in the Style and Size pop-up menus on Preferences/Display/Plain Text Messages is a little low on the widgets.\n\nThe pop-up menu widget in Preferences/Attachments/Attachment Folder is too tall\n\nPreferences/Display/Plain Text Messages\nPreferences/Display/Labels is wider than the Preferences window.\n\nThe preview area of Preferences/Themes should be the darker, \"well\" style with rounded corners, since thin horizontal lines don't display well on the pinstripe background texture.\n\nRemove the horizontal lines from the Customize Toolbar dialog. They clash with the regular horizontal pinstripes. (Of course, this dialog needs to become a sheet at some point.)\n\nAll the various options on Tools/Account Settings have vertically offset pinstripe backgrounds (ah, remember those?) on the right pane.\n\nThe left pane of the nonresizable Tools/Account Settings dialog should be wider so \"Composition & Addressing\" isn't truncated.\n\nTools/Account Settings/Server Settings and Return Receipts are too wide for the (nonresizable) window.\n\nThe pop-up menu widget on Tools/Account Settings/Composition & Addressing/Addressing is a bit too tall for the small text shown.\n\nThose who want a better icon while Jon is working on his, try this one by Jairo Boudewyn:\nhttp://www.deviantart.com/view/2938367/"
+    },
+    {
+      "id": 22,
+      "author": "bart",
+      "url": null,
+      "date": "2004-04-02T02:23:46",
+      "body": "Kevin and everyone else who contributed to this did an AMAZING job.  Using Thunderbird is a whole new experience for me now.  It feels clean, streamlined AND best of all, it's lickable.  It looks great next to Firefox and it looks great on the OS X desktop.  A big step forward for Thunderbird and Mozilla.  Thanks!"
+    },
+    {
+      "id": 23,
+      "author": "Van Willigen",
+      "url": null,
+      "date": "2004-04-03T04:11:12",
+      "body": "Hello, how can we make a theme and where to store it in thunderbird??\n\n\nThanks\n\n\nive"
+    },
+    {
+      "id": 24,
+      "author": "pok2",
+      "url": null,
+      "date": "2004-04-03T08:23:42",
+      "body": "I don't know better e-mail client for MacOS and the new design will invite more Mac users to use Thunderbird."
+    },
+    {
+      "id": 25,
+      "author": "René",
+      "url": null,
+      "date": "2004-04-04T03:53:52",
+      "body": "You just made me change my default E-Mail-client :D"
+    },
+    {
+      "id": 26,
+      "author": "Joel",
+      "url": null,
+      "date": "2004-04-05T02:05:50",
+      "body": "Not to be a complete pain in the tush, as I'm sure you've been asked this a thousand times, but since Pinstripe is now available (and gorgeous I might add) for the Fox and the Bird, will we see it in the suite, like for the 1.7 final, or sometime soon? Smoke looks OK, but it just ain't Pinstripe! Thanks for all of your hard, time consuming work. People like you are what open-source is all about!"
+    },
+    {
+      "id": 27,
+      "author": "Hilary",
+      "url": null,
+      "date": "2004-04-07T10:45:03",
+      "body": "Beautiful theme. Could you make it available to Windows Thunderbird. I have to use a pc at work. I'd like to try and make it as pleasant as possible.\n\nKeep up the good work."
+    },
+    {
+      "id": 28,
+      "author": "Andrew Treloar",
+      "url": null,
+      "date": "2004-04-07T18:53:16",
+      "body": "The theme looks great, but has one significant deficiency: the dialog to select offline folders doesn't get the right fonts nor any icons to show which folders are selected. To see this do the following:\n1. File->Offline->Download/Sync Now\n2. Click the Select button on the sheet that appears\n\nI suspect that the relevant icons and CSS have just been omitted from the theme. I use offline mode all the time and having to switch out of Pinstripe to see what folders are selected is a real pain (particularly aesthetically!)."
+    },
+    {
+      "id": 29,
+      "author": "Andrew Treloar",
+      "url": null,
+      "date": "2004-04-07T18:55:24",
+      "body": "A comment on Pinstripe for Firefox: Seeing Pinstripe for Thunderbird has made me realise how boringly monochromatic the Firefox version is. Any chance of adding a few colourful touches to the Firefox version to make it more consistent with the wonderful work in Thunderbird?"
+    },
+    {
+      "id": 30,
+      "author": "spoono",
+      "url": null,
+      "date": "2004-04-20T20:37:15",
+      "body": "How about a windows version? I always loved macs, only I have never been able to afford one ;)"
+    },
+    {
+      "id": 31,
+      "author": "E",
+      "url": null,
+      "date": "2004-04-21T03:44:51",
+      "body": "Great Work - but i miss the fine lines in the thread view especially when i use thunderbird for reading news."
+    },
+    {
+      "id": 32,
+      "author": "jinu",
+      "url": null,
+      "date": "2004-04-29T18:19:50",
+      "body": "great i'm not fortuante enough to own a mac but i do  hava the ported theme for windows\n\nthanks"
+    },
+    {
+      "id": 33,
+      "author": "lich",
+      "url": null,
+      "date": "2004-05-22T23:50:18",
+      "body": "fantastic !\n\nis there any documentation on how to create/update a theme ?\nI'd really like to be able to add matching icons for TB/FB/Mozilla extensions. (like Enigmail, at least)\n\n\nAnthony"
+    },
+    {
+      "id": 34,
+      "author": "",
+      "url": null,
+      "date": "2004-12-01T23:31:51",
+      "body": "Please visit some helpful info in the field of- Tons of interesdting stuff!!!"
+    },
+    {
+      "id": 35,
+      "author": "purple flower6",
+      "url": null,
+      "date": "2004-12-01T23:42:55",
+      "body": "This is one super duper site6"
+    },
+    {
+      "id": 36,
+      "author": "",
+      "url": null,
+      "date": "2004-12-14T07:18:18",
+      "body": "Where is the jar for us *other* users"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "xslf.com - Shoshannah Forbes",
+      "title": "מקבץ ידיעות מקינטוש",
+      "url": null,
+      "date": "2004-04-01T04:10:29",
+      "excerpt": "תמיכת עברית במיקרוסופט אופיס למק? גולשי פורום מקינטוש באורט מדווחים על תמיכה עברית בגירסאות ה־preview של מיקרוסופט 2004 למקינטוש, הצפוייה לצאת ..."
+    },
+    {
+      "id": 2,
+      "site": "Smallpiece",
+      "title": "Un tema Aqua per Thunderbird",
+      "url": null,
+      "date": "2004-04-01T04:59:18",
+      "excerpt": "Da qualche giorno Thunderbird, il client di posta e newsgroup nato da una costola della suite Mozilla, ha un aspetto più mac-like. Lo stesso autore del tema pinstripe per Firebird ha realizzato un bellissimo tema, molto raffinato, anche per Thunderbird..."
+    },
+    {
+      "id": 3,
+      "site": "Neil's Smaller World",
+      "title": "instripe Thunderbird has landed!",
+      "url": null,
+      "date": "2004-04-01T10:49:21",
+      "excerpt": "Thunderbird now has its own version of Pinstripe for Mac OS X. It's the new default theme in the nightlies, and presumably 0.6. New icon for 0.6 too!..."
+    },
+    {
+      "id": 4,
+      "site": "risckyBabble",
+      "title": "Mozilla Thunderbird & Pinstripes",
+      "url": null,
+      "date": "2004-04-01T14:51:32",
+      "excerpt": "The Pinstripe theme is now the official theme for Mac OS X's Mozilla Thunderbird... all I can say is it's about time. I was starting to get tired looking that ugly Qute theme... sure it fits in under WinXP but..."
+    },
+    {
+      "id": 5,
+      "site": "Ross Notes",
+      "title": "Thunderbird gets Pinstriped",
+      "url": null,
+      "date": "2004-04-03T16:14:12",
+      "excerpt": "The latest builds of Thunderbird for OS X include the Pinstripe theme. Thunderbird now looks at home on OS X...."
+    },
+    {
+      "id": 6,
+      "site": "Ross Notes",
+      "title": "Thunderbird Pinstriped",
+      "url": null,
+      "date": "2004-04-04T01:52:30",
+      "excerpt": "The latest builds of Thunderbird for OS X include the Pinstripe theme. Thunderbird now looks at home on OS X...."
+    }
+  ]
+}

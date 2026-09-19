@@ -1,0 +1,110 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Bhaveshp",
+      "url": null,
+      "date": "2003-03-07T00:52:47",
+      "body": "Can't install your 3/5 build on the current Mozilla Nightly.  Upon clicking install, get error message that says I must use OS X to install...."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-07T07:39:47",
+      "body": "I assume you are using OS X. You haven't modified your User Agent id, have you? I have a little Javascript that detects the string \"Mac OS X\" to discourage Linux and Windows users from installing Pinstripe. If you haven't changed your user agent, let me know."
+    },
+    {
+      "id": 3,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-03-08T00:52:22",
+      "body": "Worked fine for me. Very nice, tasteful tweaks, Kevin!"
+    },
+    {
+      "id": 4,
+      "author": "King-On Yeung",
+      "url": null,
+      "date": "2003-03-09T09:38:26",
+      "body": "Nice job.\n\nI like the download progress indicator on the tab very much (vs classic theme)\n\nany planning (is it possible?) on the look of progress bar in download manager window?\n\nThx."
+    },
+    {
+      "id": 5,
+      "author": "Bhaveshp",
+      "url": null,
+      "date": "2003-03-11T18:17:16",
+      "body": "Yep, it was a modified userid.  Fixed that and pinstripe installed just fine.\n\nLooks great.  Thanks!"
+    },
+    {
+      "id": 6,
+      "author": "Alex",
+      "url": null,
+      "date": "2003-03-13T23:46:29",
+      "body": "Is it just me or is the tab in the latest theme doesn't get the focus set? I am using the latest nightly from 3/14."
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-14T07:34:48",
+      "body": "Alex, I saw that too. I think that's a bug in the latest nightly build. We should expect some strangeness in the nightly builds for a while because I expect that some of the new code for version 1.4 is landing and will cause instability. A good method to know if a bug you see is Pinstripe related or Mozilla related is to switch to Classic and see if the bug still exists. If not, it's probably a problem with Pinstripe."
+    },
+    {
+      "id": 8,
+      "author": "Alex",
+      "url": null,
+      "date": "2003-03-14T23:28:06",
+      "body": "Understood. Here is another bug. The bookmark from the bookmark bar appears to be blank when in 'focus', i.e. mouse over. This does not happen when in Modern theme."
+    },
+    {
+      "id": 9,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-16T20:44:11",
+      "body": "FYI, <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=197107\" rel=\"nofollow ugc\">here's the bug report that covers both issues</a>."
+    },
+    {
+      "id": 10,
+      "author": "Simon",
+      "url": null,
+      "date": "2003-03-19T19:44:30",
+      "body": "Just an opinion - but I'm not a fan of having the progress indicator included in each tab. I'd rather have one overall one, that spins in relation to the tab currently in focus.\n\nI open a bookmark group every morning with a dozen tabs in them, and the 12 twirling indicators are just waay too much for me (maybe because I've yet to have a coffee!).\n\nAlso, the font used in the email client for account/folder pane and the email list (as shown in the screenshots) I find just a bit blocky. Perhaps a Mac font - LucidaGrande might be better?\n\nI find the \"appearance font\" settings in moz don't effect the email client here.\n\nIn ANY case - love the theme, love mozilla.\n\nCheers,\nSimon"
+    },
+    {
+      "id": 11,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-19T19:55:10",
+      "body": "Simon, thanks for the comments. The font for email is the system font bumped up a bit bigger than the default. If your system font is Lucida Grande, then that's what you should see. I took a hint from Mail.app on the font size and I think it works well. Do you have your system fonts set at something other than the Mac OS X default? If you could <a>send me a screenshot</a>, that would be very helpful. Thanks!\n\nKevin"
+    },
+    {
+      "id": 12,
+      "author": "Simon",
+      "url": null,
+      "date": "2003-03-19T20:23:47",
+      "body": "Ahhhh -\n\nSorry, it is Lucida Grande, just a point size higher - gotcha.\n\nHeres my system:\n\nOSX\nSystem Font: Lucida Grande, 11pt\nFixed pitch font: Monaco, 10pt\nApplication Font: LucidaGrande, 11pt.\n(fonts as seen through tinker tool)\n\nMoz\nProportional: Serif 11px\nSerif: Lucida Grande\nSans-serif Lucida Grande\n\n\nso with these settings, I can see the Moz account folder pane and email list is Lucida Grande 12px.\n\nComparing it to Mail.app - yep, I can see that its the same size as the mailbox panel. But their mailbox panel is (making assumptions here) is most likely for intro users(?), who may have a limited number of accounts and sub folders.\n\nI keep track of 5 email accounts, each with 2-3 levels of folders and mail storage. Hence my  desire to make the view \"lean and mean\" (and as small as possible).\n\nsome other points - Even though Mail.app mailbox font is 12px, the email message browse looks to be 11px.\n\nand the moz preferences category tree-view looks to be 11px.\n\nPhew!!!!!!\n\nSorry if that got a bit long winded. Its a great theme - I'm sure I could probably open it up and modify the CSS myself (am tempted to try this ..) because I fully appreciate you can't please everyone!\n\nAgain - as I said, great theme, great browser. Keep up the good work!\n\nCheers,\nSimon"
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-03-19T22:02:05",
+      "body": "Simon, add this bit of CSS to the userChrome.css file (in your ~/Library/Mozilla/{profile name}/xxxxxxxx.slt/chrome folder)\n\ntreechildren:-moz-tree-cell-text {\n  font-size: 100% !important;\n}\n\nThat should work. I haven't tested it so it may effect other parts of the theme but I don't think so because Mail is the only place I make the font size 110%."
+    },
+    {
+      "id": 14,
+      "author": "Simon",
+      "url": null,
+      "date": "2003-03-22T22:55:56",
+      "body": "Kevin you're a legend!!\n\nThats great - works a treat. Now I can have my cake and eat it too ...\n\nThanks & Cheers,\nSimon"
+    },
+    {
+      "id": 15,
+      "author": "Ry Dude",
+      "url": null,
+      "date": "2003-04-03T15:30:41",
+      "body": "Hello, your skin is great. Just one thing. I have found a add-on from the internet you may want to add on to your Skin. It is a Home Button for the Navigation bar, It's a great add-on and would be great if you made it appliable on your skin. Here is a link: http://home.no.net/trihand/mozilla/home/en/\n\nThank You for your time..\nRy Dude"
+    }
+  ],
+  "trackbacks": []
+}

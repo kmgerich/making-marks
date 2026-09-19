@@ -16,8 +16,3 @@ tags:
   - stuff
 ---
 If you’re in the Boston area and you’re in the mood for some great ribs, head over to [Tennessee’s BBQ](http://www.tennbbq.com/). Try the Memphis ribs. Trust me, it’s a spiritual experience 🙂
-
-## Comments
-
-**Hangnail** on 2003-08-27 21:23:39
-> Mmmmmm Riiiiibs.  Live in Maynard so I will have to quest for this place!

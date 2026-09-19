@@ -1,0 +1,110 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Daniel",
+      "url": null,
+      "date": "2003-06-08T17:00:22",
+      "body": "still rather rough around the edges, but a great start - i'm looking forward to what you have in store for the future :)"
+    },
+    {
+      "id": 2,
+      "author": "Daniel J. Wilson",
+      "url": null,
+      "date": "2003-06-09T16:56:50",
+      "body": "I like the iconography for the navigation toolbar.\n\nI prefer that tabs be left aligned (as in the default Firebird theme and Safari), making them more stable targets when opening and closing tabs frequently.\n\nKeep up the great work!"
+    },
+    {
+      "id": 3,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-06-15T20:32:35",
+      "body": "Beautiful work!"
+    },
+    {
+      "id": 4,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-06-16T01:49:14",
+      "body": "I just noticed that the bookmark icon appears in the customize window, but when its dragged to the toolbar, no icon appears. There's a tiny, appr. 10 pixel wide space where the icon should appear, and clicking on this space brings up the bookmarks sidebar. Just letting you know.. :)"
+    },
+    {
+      "id": 5,
+      "author": "Harry",
+      "url": null,
+      "date": "2003-06-19T00:32:36",
+      "body": "I very much enjoy the themes that you have created. Keep up the good work."
+    },
+    {
+      "id": 6,
+      "author": "Bryan",
+      "url": null,
+      "date": "2003-06-30T16:00:29",
+      "body": "Looks great.  Your pinstripe theme is heads above anything else out there.\n\nMakes either Mozilla, and especially Firebird look like a Mac app.\n\nThanks for all your hard work.  It is appreciated!"
+    },
+    {
+      "id": 7,
+      "author": "Kevin MacLeod",
+      "url": null,
+      "date": "2003-07-01T02:09:10",
+      "body": "Why aren't they shipping this default with Pheonix and Moz?  It is WAY better than that stupid grey theme or the classic theme.\n\nOne question: Can you make the Tabs less bright?  That bright blue is really annoying.  I have Safari Aqua-ized and the Tabs are nice and subtle, with a shaded Aqua for deselected ones.  I think this would work for Pinstripe too.  WIth that it will be the perfect theme!  Safari and Pinstripe Phoenix, pimptastic! :D"
+    },
+    {
+      "id": 8,
+      "author": "Kevin MacLeod",
+      "url": null,
+      "date": "2003-07-01T02:12:57",
+      "body": "OK nevermind!  I noticed the Graphite selection.  I like the Aqua one though except for the bright Tabs..I'm torn apart!:/"
+    },
+    {
+      "id": 9,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-08-29T10:38:26",
+      "body": "Hm. I just installed the final candidate build of Pinstripe for Firebird on the Aug. 27th nightly, and for some reason I don't have the back and forward buttons. Everything else is there and working, but I can't find these two buttons anywhere.\n\nAny thoughts?"
+    },
+    {
+      "id": 10,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-08-29T10:40:38",
+      "body": "Sorry - one other boo-boo is that none of the dropdown menus work in the preferences, and I can't commit to preferences once I'm done (hitting \"okay\" does nothing). Thanks!"
+    },
+    {
+      "id": 11,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-08-29T16:40:54",
+      "body": "Neil, things are really in flux with Firebird right now. There have been some changes which break third-party themes. It doesn't help that there aren't official builds to use as a benchmark. I'm going away for the weekend but maybe Monday I'll try to figure this out."
+    },
+    {
+      "id": 12,
+      "author": "matt",
+      "url": null,
+      "date": "2003-09-05T19:09:50",
+      "body": "I am running the same version of Firebird as Neil and having the same problems. I also don't have a scroll bar.\n\nA few times, I also tried reverting to the latest official release from mozillafoundation.org, deleting ~/Library/Phoenix before installing the newly-downloaded program, but after I install, it won't switch to Pinstripe on that version.\n\nLast note: I really do like the theme. It is much better than the current default theme."
+    },
+    {
+      "id": 13,
+      "author": "matt",
+      "url": null,
+      "date": "2003-09-28T13:47:38",
+      "body": "The theme works great with the Firebird build from your site."
+    },
+    {
+      "id": 14,
+      "author": "",
+      "url": null,
+      "date": "2003-09-30T19:05:36",
+      "body": "Firebird 0.7 official RCs are out; problems with Pinstripe are:\n\n- Back and forward buttons gone\n- No scrollbar\n- No tabs/tab bar\n\nI really hope you can update this with the changes they've made because it sure makes Firebird look a whole lot better. Good luck!\n\nWill it be possible to make Aqua-like submit buttons as part of the theme?"
+    },
+    {
+      "id": 15,
+      "author": "JD",
+      "url": null,
+      "date": "2003-09-30T19:07:38",
+      "body": "Firebird 0.7 official RCs are out; problems with Pinstripe are:\n\n- Back and forward buttons gone\n- No scrollbar\n- No tabs/tab bar\n- Dropdowns in preferences\n\nI really hope you can update this with the changes they've made because it sure makes Firebird look a whole lot better. I commend you on your work so far. The preferences pane looks especially good.\n\nWill it be possible to make Aqua-like submit buttons? I don't know if that's part of the theme, but I hope so. :)"
+    }
+  ],
+  "trackbacks": []
+}

@@ -1,0 +1,1148 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Francis",
+      "url": null,
+      "date": "2004-06-06T12:54:30",
+      "body": "This is certainly not a bad looking theme, but IMHO it lacks the quality of Qute. I don't know why exactly, but the old default theme 'just felt right', for me, as an experienced user, and for many others who were being freshly converted from IE.\n\nIn my opinion, adding this theme to the standard Firefox themes-list would be a good idea, if only to advertise the theming options of Firefox, and to give users an easy choice from the start. But I am pretty confident that Qute appeals to a much broader audience, which should be the primary selection criterion for the Firefox developers.\n\nPersonally, I don't like the Luna-feeling of this new theme, but that could have something to do with the fact that I don't like Luna. ;) In my opinion, Qute looks as good in 'Windows classic' as in Luna - I wonder how this new theme will fare in the classic look."
+    },
+    {
+      "id": 2,
+      "author": "nothanks",
+      "url": null,
+      "date": "2004-06-06T12:56:02",
+      "body": "Is this a joke or are the drivers trying to stop people using the official builds?"
+    },
+    {
+      "id": 3,
+      "author": "scratch",
+      "url": null,
+      "date": "2004-06-06T12:58:12",
+      "body": "I really like the new theme.  It's much less of a direct IE-ripoff than Qute, and seems like an appealing mix of Aqua, BlueCurve, and Luna.  Thankfully less Luna influence than the other two, though.  Excellent work!  I think I'm actually going to use the default theme for once."
+    },
+    {
+      "id": 4,
+      "author": "Colin Ramsay",
+      "url": null,
+      "date": "2004-06-06T13:00:56",
+      "body": "I'm all for replacing Qute with another theme, but it should not be this one. In comparison with the OSX version of Pinstripe, this lacks depth.\n\nWhile I appreciate the need for clear icons, that does not mean that there is no potential for artistic flair. To be frank, these icons do not have that flair. They lack personality.\n\nThe new application icon for Firefox was excellent - vibrant and recognisable. I'm sorry to say that this theme appears to be exactly opposite - bland and without that je ne sais quois which makes a theme special.\n\nI'm not suggesting that Qute be the default, but it would be better than this watered down alternative. Sorry."
+    },
+    {
+      "id": 5,
+      "author": "Colin Ramsay",
+      "url": null,
+      "date": "2004-06-06T13:02:48",
+      "body": "Having said all that, I realise this is a work in progress - I have faith that the comments we all make can be addressed.\n\nThere's potential here, I just hope you realise it."
+    },
+    {
+      "id": 6,
+      "author": "anonymous",
+      "url": null,
+      "date": "2004-06-06T13:12:16",
+      "body": "Why don't they just use a better and already complete theme instead of remaking from scratch?\n\nLike, Phoenity, http://phoenity.com/, the best theme as far as I know. Throw Qute and *sripe away! They're all similiar to some OS... It's a shame and may be sue by Microsoft or Apple if they do want to play with you..."
+    },
+    {
+      "id": 7,
+      "author": "tono",
+      "url": null,
+      "date": "2004-06-06T13:15:54",
+      "body": "The new default theme is a little bland.  It's not really offensive but it also doesn't inspire me to really use the program either.  Also, as has been said before, it is too luna-centric.  I don't know anyone that still actually uses the hideous blue borders instead of switching to the silver theme.  You might want to consider getting rid of the mini-luna window seperator icon and any others that look like luna windows.  Hopefully this theme will get better before 1.0 is released.  As it stands right now, it's just not good."
+    },
+    {
+      "id": 8,
+      "author": "Nanac",
+      "url": null,
+      "date": "2004-06-06T13:26:04",
+      "body": "No offense intended, but Phoenity is UGLY.  Really, really ugly.  It's great that you like it, but Phoenity's just not default-theme caliber.  The lines are far too thick and round, and it looks like a bad mockery of Luna.\n\nThough I don't especially like what I'm seeing here, I daresay it will grow on us--personally, I didn't like Qute all that much when it first became the default, either.\n\nI think the reload button is distinctly ugly because of the shape of the arrows.  The rest is just boring, plain...but that's probably how it ought to be."
+    },
+    {
+      "id": 9,
+      "author": "Emma",
+      "url": null,
+      "date": "2004-06-06T13:26:47",
+      "body": "I would prefer that Firebird look like my OS than look like some weird graphical mess. The proper place for \"skinning\" is in the local UI toolkit, not in the application.\n\nThis theme seems to fit quite well into the \"groovy, funky\" Windows XP interface, but does it behave properly in \"Classic\" Windows?\n\nIf it does, then I think that this is a nice theme -- simple and clear. If it's still going to look like Windows XP when used on other systems then it is broken."
+    },
+    {
+      "id": 10,
+      "author": "adam",
+      "url": null,
+      "date": "2004-06-06T13:37:10",
+      "body": "I think its ok, but defintely a step backwards. I really dont like the refresh and home buttons :("
+    },
+    {
+      "id": 11,
+      "author": "Kool",
+      "url": null,
+      "date": "2004-06-06T13:37:12",
+      "body": "This theme is much much cleaner and easier on the eyes than Qute. Qute was wierd with its 3D'ness which made the screeen look tilted. Also, Qute looked over optimized in areas and way ugly in others.\n\nMy only problem with this theme is that Home button is weird looking. Also, the Back/Forward would look better if it looked like an arrow\n /\n/-\n\\\n \\\nsomethine like that"
+    },
+    {
+      "id": 12,
+      "author": "Neil Jenkins",
+      "url": null,
+      "date": "2004-06-06T13:45:59",
+      "body": "I must say I'm very surprised by this turn of events. I was under the impression that Qute (which I personally consider the finest, most polished Windows/Linux theme out there) had been chosen as default and would remain so. What does Arvid have to say about this?\n\nHaving said that, I think the Pinstripe theme you and Steven produced for Mac is excellant, just as good as Qute but aimed at a differently styled platform, so I have every confidence that this theme will turn out just as good.\n\nWell then, feedback... I won't say much at this stage as clearly the theme is a long way off completion - the icons are flat and uninspiring and the colour scheme is, well, a little lurid. The icons appear to take up very little of the spacs available for them and this looks a little odd. Also, how does it look on a Win 9x machine?\n\nI await developments with interest.\n\nNeil"
+    },
+    {
+      "id": 13,
+      "author": "Evil1",
+      "url": null,
+      "date": "2004-06-06T13:50:02",
+      "body": "Really poor! Is this a joke??? Bland, ugly, and looks like IE."
+    },
+    {
+      "id": 14,
+      "author": "Evil1isevil",
+      "url": null,
+      "date": "2004-06-06T13:55:57",
+      "body": "I love thie theme! Where can I get it?"
+    },
+    {
+      "id": 15,
+      "author": "Chris G.",
+      "url": null,
+      "date": "2004-06-06T14:00:46",
+      "body": "Not sure if I like this new theme. Definitely needs work and changes before I make a solid opinion.\n\nThis also does not look very Pinstripe like to me. The excuse of wanting a theme that was similar between platforms isn't a good one when you compare this and the Pinstripe used on the Mac."
+    },
+    {
+      "id": 16,
+      "author": "Scott I. Remick",
+      "url": null,
+      "date": "2004-06-06T14:22:39",
+      "body": "In and of itself, this isn't a bad theme. Compared to Qute, I'd still go with Qute.\n\nI am a cross-platform user. I need a theme that looks good across OSes, so that when I'm at home using FreeBSD or somewhere else forced to use Windows, I can use FireFox and feel at-home. Also, I recognize the need to a default theme that provides definite character and originality to an application such as FireFox where there's a huge effort to get it to be chosen over the current Goliath. I don't feel this new theme accomplishes that. Meanwhile, I believe that Qute was one of the best things that ever happened to FireFox to help its PR effort."
+    },
+    {
+      "id": 17,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-06-06T14:26:35",
+      "body": "Yeah, we are definitely going to get the IEPC-crossover crowd with a bastardized-OSX icon set!"
+    },
+    {
+      "id": 18,
+      "author": "",
+      "url": null,
+      "date": "2004-06-06T14:30:10",
+      "body": "Well, the theme looks better implemented in practice, in screenshots, than it seemed based on the pictures of the buttons alone, in isolation. It makes me feel better than what I was seeing on Slashdot. Not only does it seem better than what I was thinking it would be, it seems more consistent with what I might imagine Firefox to look like.\n\nHaving said that, I have a few comments:\n\n1. I think the buttons should maybe be a bit smaller, relatively speaking. They should be less prominent in general.\n\n2. The button images need more depth. For example, I think that they could use some \"softening\", so that the edges of the button images seem more \"warm\", for lack of a better term. Another possiblity is to emphasize the 3d character with shading, orientation, or something. Yet another possibility is to \"crystalize\" them, making them seem more transparent or glazed.\n\n3. I generally like the buttons. Some, however, I really do not like, like the \"stop\" button. Keeping with the \"softening\" suggestion, I would prefer to see a rounded, rather than octagonal button with sharp corners and lines. Maybe the softening of the edges would help. I also think some of the other buttons might look better if they were made more \"iconic\", with less detail, like the new window button, or what ever it is on the forums screenshot.\n\nIn general, it's a pleasant theme, but could use some improvement"
+    },
+    {
+      "id": 19,
+      "author": "Tim Meader",
+      "url": null,
+      "date": "2004-06-06T14:44:30",
+      "body": "I think the new theme definitely could be great (not quite there yet, but this is a work in progress from what I gathered). My only reservation, and this is a BIG ONE, is that the octagonal stop sign will have little meaning for any country other than the US. As Mozilla and Firefox constantly stress portability, I think going with a US centric stop sign is not the best move. Other than that though, good work!"
+    },
+    {
+      "id": 20,
+      "author": "Ed",
+      "url": null,
+      "date": "2004-06-06T15:00:01",
+      "body": "look guys,\n\nI don't personally frequent the mozilla developer list, or even the style list, but my suggestion would be DUMP THIS THEME AND STICK WITH QUTE.\n\nSheesh. I get a theme for a non-IE browser on windows XP that I can get regular Windows-XP users to get excited about, probably the best thing that could have happened to the browser since its beginning, and I read that the first thing people are thinking of doing is replacing it.\n\nLook past your personal preferences and think of the users. Please! No offense, but you can tell this design wasn't done by someone who had Windows in mind - its not bad in itself, but with this skin, the app looks way out of place on a windows desktop.\n\nSo please... solve the licensing issues with qute, and go ahead rather than take this huge step back."
+    },
+    {
+      "id": 21,
+      "author": "Greg",
+      "url": null,
+      "date": "2004-06-06T15:09:10",
+      "body": "Each image should fill up as more of its vertical and horizonal space in the button. Since there is no unclickable space on buttons, the white (gray?) space around the icon should be kept to a minimum. Even though the whole button is technically the target, to the end user only the image is the target. Keep the target big. The current images are closer to the size that \"small icons\" should be.\n\nI think the home and mail button are a little too flat in perspective. Any icon that depicts an actual object (house, envelope, printer) should have a slight 3D perspective to make the object look \"real.\" The more intangible buttons (e.g. arrows) are fine in a flat perspective."
+    },
+    {
+      "id": 22,
+      "author": "Vis",
+      "url": null,
+      "date": "2004-06-06T15:10:19",
+      "body": "Do yourself a favor and make the latest version available to the public. Screenshots area not doing it justice if in fact it is a good looking theme."
+    },
+    {
+      "id": 23,
+      "author": "Josh",
+      "url": null,
+      "date": "2004-06-06T15:18:01",
+      "body": "Everybody's a critic today.\n\nThis has a lot of potential. Keep up the good work!"
+    },
+    {
+      "id": 24,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-06-06T15:21:57",
+      "body": "Kevin, I see a lot of negative feedback here, which is a shame. Everyone has their own idea of what makes a good browser theme, and it will never be the same idea.\n\nThis is my idea of a good theme - Qute looked unprofessional to me."
+    },
+    {
+      "id": 25,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-06T15:34:50",
+      "body": "Thanks for the comments everyone. Remember the theme hasn't been released yet. We're working hard to get this theme into your hands and I look forward to reading your thoughtful comments after you have had a few days to use it :)"
+    },
+    {
+      "id": 26,
+      "author": "Morten",
+      "url": null,
+      "date": "2004-06-06T15:36:27",
+      "body": "The \"reload/refresh\" button doesn't have the correct \"circular feel\", it's a but on the chubby side :-)"
+    },
+    {
+      "id": 27,
+      "author": "Henrik Lynggaard",
+      "url": null,
+      "date": "2004-06-06T15:49:28",
+      "body": "I think both themes have their strong points, and Im sure that in time this will look as nice as qute.\n\nThe sad part here is really not the actual theme but the way Ben & co. have handled this. Once again Ben is out driving his no-information, I know it all steamroller :-(\n\nThis is most likely no fault of kevin, so therefore keep up the good work kevin,"
+    },
+    {
+      "id": 28,
+      "author": "Jouni Luoma",
+      "url": null,
+      "date": "2004-06-06T16:06:52",
+      "body": "Hmm. Good points: clear, simplistic, logical, uncluttered. But it does look very, very bland and unimaginative. Like someone already said, the new icon/logo for Firefox is brilliant: vivid and lively. This has neither of those qualities."
+    },
+    {
+      "id": 29,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-06-06T16:14:32",
+      "body": "Jon Hicks: the Qute style was a feature, not a bug. WinXP looks like unprofessional trash...Qute is the best your going to get when the artist was going for a WinXP native look. Yes, WinXP looks like trash...but Firefox should blend in with that trash so it can get the average windows user."
+    },
+    {
+      "id": 30,
+      "author": "Barry",
+      "url": null,
+      "date": "2004-06-06T16:34:33",
+      "body": "Everything is good with exception to the stop and home buttons. UGLY!  Also round and shade the address bar and search bar.  Everyone knows a rectangle is similar to a box, and we want to think outside of the box microsoft puts us in..."
+    },
+    {
+      "id": 31,
+      "author": "sryo",
+      "url": null,
+      "date": "2004-06-06T16:57:51",
+      "body": "this one looks nice, but i dont like the reload icon (looks too different from the rest), and the stop icon (looks like a warning icon)"
+    },
+    {
+      "id": 32,
+      "author": "JasdonLe",
+      "url": null,
+      "date": "2004-06-06T17:33:27",
+      "body": "You're fired!\n\nReally... What decade are you making icons for?"
+    },
+    {
+      "id": 33,
+      "author": "Willem",
+      "url": null,
+      "date": "2004-06-06T17:55:25",
+      "body": "There's a big difference in detail level between the bookmark manager icons and the standard toolbar icons. The toolbar icons seem very unrefined and quickly drafted compared to the bookmark manager's ones.\n\nHaving said that, how is it that people can make the most beautiful, rich and detailed icons for OSX and the various Linux shells, but Windows has to make due with these flat things?\n\nWhich is the operative word, by the way: flat. Not enough graphical skill has gone into this, not nearly as much as the application icons, in any case.\n\nAnd I'm all for rounding up the Stop button. It's an icon, not Pixel Art."
+    },
+    {
+      "id": 34,
+      "author": "R.J. Keller",
+      "url": null,
+      "date": "2004-06-06T18:32:13",
+      "body": "This theme looks good, but I feel that the main navigation buttons lack the 3D feel and colorfulness that quite has.\n\nThe bookmark manager buttons look excellent, though!"
+    },
+    {
+      "id": 35,
+      "author": "nx",
+      "url": null,
+      "date": "2004-06-06T18:33:56",
+      "body": "This is good news! The basic idea - having the same icons adapted/styled for every supported OS - is fantasic. Not easy to do but I count on you Kevin!\n\nI'm curious how the gnomestripe theme will look like..."
+    },
+    {
+      "id": 36,
+      "author": "David Tenser",
+      "url": null,
+      "date": "2004-06-06T18:33:58",
+      "body": "(I will not comment the way this decision was handled since it's not relevant in this blog, but obviously that was the biggest mistake by mozilla.org this time around.)\n\nJon Hicks, it would be very interesting to hear what you find unprofessional about Qute. Do you also find the native graphics in Windows XP unprofessional, since they look so similar? Look at the icon for Calculator, Notepad, or Windows Movie Maker. Do they look unprofessional? Or do they blend in with the OS they're intended for?\n\nWhy trying to make a MacOS X inspired theme fit on all platforms? Because the Visual Identity team use Macintosh computers? I thought we were primarily targetting Windows users here. Based on last month's web stats for Firefox Help, 83.32% of the visitors are using Windows and 2.86% are using Macintosh.\n\nKevin, with all due respect, your MacOS theme is perfect for... MacOS. It even has the 90 degrees flat drop shadow that is so typical for MacOS toolbars. It is indeed an excellent MacOS theme, but it has no place in the Windows (Luna/Classic) interface (strictly my opinion, of course).\n\nFirefox (and any official Mozilla.org product) should try to blend in with the OS they're being run on, and not attempt to use a poor cross-platform appearance that SeaMonkey did.\n\nAnyway, if we really are going to use a MacOS inspired theme for all platforms and in this particular case try to make it look native for Windows XP (with Winstripe), then here are my suggestions:\n\n1. Use more rounded shapes\n\nThis is the most apparent weakness of Winstripe at its current state. For example, the Home icon looks really strict and dull compared to the inviting Home icon of Internet Explorer, or Qute. Look at the icons in the Windows XP start menu. None of them have hard edges. All of them use soft, smooth, cute looking shapes, such as the Calculator icon mentioned above.\n\n2. Use gradients\n\nThis is being used in Winstripe already, to some extent. But the icons still look as if they were designed pixel by pixel, unlike the native Windows XP artwork which look like scaled vector graphics, and as such, much softer.\n\n3. Use more depth\n\nWindows icons should not be flat anymore. They were in Windows 3.1 and 95. They still were flat to some extent in Windows 98/Me/2000, but in Windows XP, which should be the primary target, the icons have a 3D-looking appearance.\n\n3. Don't use a vertical drop shadow\n\nThis is just not the convention on Windows XP. I've never seen it used before and it actually looks strange.\n\n4. Use the same width for all icons\n\nThe Mail & News icon is wider than the other icons. The Back/Forward triangles appears to be wider than the Reload icon. I could probably come up with more examples, but the end result is inconsistency. It just doesn't look balanced.\n\n5. Blend in and look modern :)\n\nThis is a vague suggestion, I know. The current Winstripe theme just doesn't attract me. Try to look cool and modern, try new ideas, drop the scrictness, try to make an impression. I can't express it better, the Winstripe theme is just too squarish, flat and strict. The default theme should be inviting, the buttons should encourage the user to click on them.\n\nI hope this feedback is of any use and that I managed to be specific enough about the current flaws of Winstripe. I'm confident that this can turn out to be a great theme. Personally, however, I much prefer Qute since it already is a perfect fit for Windows XP.\n\nGood luck Kevin and Stephen and keep up the great work!"
+    },
+    {
+      "id": 37,
+      "author": "Brian",
+      "url": null,
+      "date": "2004-06-06T18:37:29",
+      "body": "Not bad, as it is still in development. Like many, I have grown fond of Qute, but I understand if there needs to be a change, and this is a good start. My constructive criticism for this theme would be that the main button toolbar on the browser window is far too tall. There is far too much space above and below the buttons. I'd like to see theme makers conserve space on the toolbars to allow more of a document to be shown at a time. I would also have to say that I am not a big fan of the forward and back arrows. I like the traditional arrow look more than the triangle look."
+    },
+    {
+      "id": 38,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-06-06T18:57:00",
+      "body": "I'm writing up something more comprehensive, but I'll say for now my thoughts echo those of David Tenser.  Look for a Trackback from me sometime in the next several hours with some thoughts on Winstripe.  (David, have you been reading what I think you've been reading?  I'll hit upon that possible common source in my Trackback.)"
+    },
+    {
+      "id": 39,
+      "author": "silentj",
+      "url": null,
+      "date": "2004-06-06T19:19:38",
+      "body": "Well i gotta say i quite like it, i think it looks very sharp and professional.\n\nI see what Jon Hicks was saying about qute, it has a soft, cartoon-like feel to it.\n\neither way there both very nice themes, a hell of a lot better than I could do..."
+    },
+    {
+      "id": 40,
+      "author": "jonner",
+      "url": null,
+      "date": "2004-06-06T19:48:07",
+      "body": "I can't believe there's so much backlash about this theme.  It's a high quality theme that does exactly what it's supposed to do.  Jon Hicks fabulous application icon is one thing -- some degree of flash is appropriate there.  But the toolbar icons should be obvious to their purpose and attractive without being distracting.  This theme fulfills those requirements much better than the Qute theme and is much more professional-looking.  Keep up the good work guys."
+    },
+    {
+      "id": 41,
+      "author": "Tama",
+      "url": null,
+      "date": "2004-06-06T19:56:17",
+      "body": "I rather like the new Winstripe look.  Very streamline, while very clear. A step forward, methinks. :)"
+    },
+    {
+      "id": 42,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-06-06T20:01:42",
+      "body": "silentj:\n\nIf being cartoon-like is the same as having \"fun, color, and energy\", then I'd say Qute did its job perfectly - those are the exact words from MSDN's document on the Windows XP icon style (the document I referred to a few comments above, David - a link can be found in my post named below).\n\nI've also posted a fuller response to Kevin's base post at http://s95135199.onlinehome.us/2004/06/06/winstripe/ with a Trackback to here."
+    },
+    {
+      "id": 43,
+      "author": "Armen Abrahamian",
+      "url": null,
+      "date": "2004-06-06T20:24:23",
+      "body": "While Winstripe is new and will need lots of refinement, if the looks of Pinstripe are any indication, Kevin and company know what they're doing. That said I have one major complaint about Pinstripe and now with Winstripe...\n\nI feel that the set of \"Large\" icons is too small. I don't know why people tend towards such small icons but although they save screen real estate, most of us can spare that little bit in return for buttons that are easier to hit with the mouse cursor. I really think that the \"Large\" icons in the XXXstripe themes should be made a bit larger and they should definitely have consistent widths, which is another major problem.\n\nThanks for listening and thanks for your hard work."
+    },
+    {
+      "id": 44,
+      "author": "Jeff Walden",
+      "url": null,
+      "date": "2004-06-06T20:58:48",
+      "body": "One other thing:\n\nKevin, as you're making a new default theme for Firefox on Windows, can you take a look at the theming of the sidebar in Firefox Help (the component, not the site)?  It looks like it came out of Netscape, and it's old and ugly as anything.\n\nI've been meaning to file a bug for this on the firebirdhelp site on Mozdev, but it's never been a huge priority.\n\nFinally, regardless of the opinions of anyone else, I *do* want Winstripe to be good - I just don't particularly enjoy it in its current state of un-Windows-ness.  Keep up the work on Winstripe (particularly in the Windows-ization process - see my blog post on y0? for some possible guidelines from Microsoft itself on the icon style), and hopefully by the end most people will have at the very least accepted the fact that Qute is gone."
+    },
+    {
+      "id": 45,
+      "author": "Mal",
+      "url": null,
+      "date": "2004-06-06T21:08:30",
+      "body": "Qute is ugly :P\nIt looks \"choppy\" in default size(small).\nPlus, it's 3D perspective is retarded.\nWhat's up with Reload/Stop buttons?\n\nI think Winstripe has the right concept.\n2D and simple, although some of the icons aren't so hot.\nI think you should rotate Reload on its side so it looks \"standard\"\nAnd the folder icons used in New Folder and bookmark folders looks rather choppy.\nCertain elements are too Mac-ish, like New Bookmark, Move, Properties.\nI also like Qute's new seperator icon.\nThe home icon looks faded...\nLastly, there is too much lighting for Go button"
+    },
+    {
+      "id": 46,
+      "author": "Mathieu Pellerin",
+      "url": null,
+      "date": "2004-06-06T22:13:40",
+      "body": "two things\na) the \"new separator\" icon shouldnt be featuring the default luna windows borders look ... and the icon should have this (+) circle like the the other addition buttons\n\nb) I'm not so sure the idea of a shadow with the back, foward, refresh, stop buttons is appropriate ... make it on every icon, or simply remove it (I would go for the second option)\n\none part that didnt receive as much love as the rest in the qute theme was the bookmark manager, try not to fall in this trap too (of course we dont see those icons as often as the main window ones, but just for the sake of overall pro. work, it would be good :) )\n\n(speaking of that, I dream of the day where I will be able to remove the texts under the icons in the manage bookmarks dialog ... ahhh)"
+    },
+    {
+      "id": 47,
+      "author": "",
+      "url": null,
+      "date": "2004-06-06T22:36:40",
+      "body": "In my opinion:\n\nWay too much empty space between icons.\n\nThe drop shadow should go.\n\nThe back/forward buttons are too big in comparison to the other buttons.\n\nI don't much like the stop icon, perhaps if you rounded it out?\n\nAt this point in the development process I'd say Qute is still a better theme."
+    },
+    {
+      "id": 48,
+      "author": "neoufo51",
+      "url": null,
+      "date": "2004-06-06T23:30:01",
+      "body": "Dear God, that is a step back.\n\nLemme tell you something. First impressions count, and that theme is really gonna make potential users just look at Firefox and think, \"I thought this was a new browser.\" Most people keep the default theme. I really mean this. Most don't skin their browser because either they hate to deal with skins that could be buggy, they like things simple, they like the default theme, or they just don't know or don't care about skinning. This theme will be all over the review sites as a definite step back in the Firefox team's plan to make people use this browser. I'm serious, and people will be turned off by this theme unless it gets a serious rehashing. This thing looks like something from the year 1996. It's 2004. We need something that looks unique and has some serious depth to it. I didn't think Qute was all that great, but this is seriously just nostalgic looking. Mac users wouldn't stand for something like this on their OSX, why do the WinXP users have to get this? Back to the drawing board."
+    },
+    {
+      "id": 49,
+      "author": "Bibbl",
+      "url": null,
+      "date": "2004-06-06T23:35:27",
+      "body": "Hua :)\n@end firefox!!!1111oneone"
+    },
+    {
+      "id": 50,
+      "author": "Richard Tallent",
+      "url": null,
+      "date": "2004-06-07T00:59:51",
+      "body": "Yuck. If you are going to build a *DEFAULT* theme targeting an operating system, perhaps you should first READ THE GUIDE. Microsoft went through great lengths to create a consistent interface in Windows XP, and if the goal is to convert J6P users rather than geeks, it MUST fit in and look just as good, if not better, than Pinstrip does under OSX. PLEASE read the guide and adjust the palette, perspective, etc. accordingly, otherwise I'll have a MUCH harder time selling friends and family on Firefox unless I physically install it so I can grab Qute and let them have something that actually looks like it fits in with the rest of the OS. Link:\n\nhttp://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwxp/html/winxpicons.asp\n\nSorry for the flame here, but this whole thing has me pissed. Interface aesthetics are incredibly important. I even use the above guide when developing web applications so they are consistent with the non-web environment, and I would expect anyone working on a professional project (even an OSS one as a hobby) should educate themselves about how to accommodate the audience."
+    },
+    {
+      "id": 51,
+      "author": "DenisB",
+      "url": null,
+      "date": "2004-06-07T02:32:55",
+      "body": "This theme would be a nice addition to Firefox if the switching over wasn't so badly handled by the team.\n\nI mean, informing Arvid about the switch at such a late time, also keeping the change \"hidden\" for all the community ? What were they thinking.\n\nI have defended the \"closed group\" policy of this project before, but this is a bit too much really."
+    },
+    {
+      "id": 52,
+      "author": "e",
+      "url": null,
+      "date": "2004-06-07T02:35:33",
+      "body": "this thing doesn't look like Mac OS X at all. it's got all the bright hues of Luna... you've got the visual identity right, just rid the Lunatic hues!"
+    },
+    {
+      "id": 53,
+      "author": "Thomas",
+      "url": null,
+      "date": "2004-06-07T03:02:05",
+      "body": "Thank you, Kevin, for your great work! It looks awesome, although the home and mail buttons could be a little bit more \"3D-ish\", otherwise the main toolbar would be too flat. I hope Ben will activate this new checkin, soon."
+    },
+    {
+      "id": 54,
+      "author": "va-nu-pieds",
+      "url": null,
+      "date": "2004-06-07T04:47:04",
+      "body": "Bravo.\nNot being a fan of ms winXP, this theme is going in the right direction.\nSimplicity, clarity, elegance, it gives me a more streamlined, quieter visual impression and certainly more willingness to adopt Firefox as my primary browser.\nQute wasn't bad but definitely too blatant and intrusive for a day to day use.\nKeep up that line of design, we need this."
+    },
+    {
+      "id": 55,
+      "author": "Jensen",
+      "url": null,
+      "date": "2004-06-07T04:57:03",
+      "body": "I really like it....  I am suprised by how negative the feedback is."
+    },
+    {
+      "id": 56,
+      "author": "lordmedikit",
+      "url": null,
+      "date": "2004-06-07T05:23:02",
+      "body": "The negative feedback isn't so much because we think that it's a bad theme. Just that it doesn't fit with the look of WindowsXP and is likely to turn new users off.\n\nI have always stuck with the default theme in Firefox, but this is too much for me and I won't install any new Firefox versions until I can install Qute as a theme. I'll also probably stop testing the nightlies as it's too annoying to keep having to install a theme with every build.\n\nTo reiterate. This theme would be fine as an option, but as a default I find it unacceptably different to the rest of the WinXP look and far too outdated."
+    },
+    {
+      "id": 57,
+      "author": "giz",
+      "url": null,
+      "date": "2004-06-07T05:31:32",
+      "body": "Well this theme wouldn't fit in my \"all classic style\" XP. Would stay with QUTE. Perhaps insert a selection at first start - \"Classic\" or \"native XP-Style\" -Theme."
+    },
+    {
+      "id": 58,
+      "author": "Fag",
+      "url": null,
+      "date": "2004-06-07T05:54:51",
+      "body": "This new theme is shit!!! down with pinstripe!!!!\n\nanything.. man you couldnt make a theme if your life depended on it"
+    },
+    {
+      "id": 59,
+      "author": "ME",
+      "url": null,
+      "date": "2004-06-07T05:56:30",
+      "body": "YoU aRe StUpId.. This theme, sucks.\n\nQUTE!!!$EVA\n\nBen Goodger is a faggot and so are u"
+    },
+    {
+      "id": 60,
+      "author": "Ben Goodger",
+      "url": null,
+      "date": "2004-06-07T06:35:35",
+      "body": "LOL"
+    },
+    {
+      "id": 61,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-07T07:05:38",
+      "body": "Instead of deleting the last couple of comments, I'm leaving them as an example of THE WRONG WAY TO RESPOND to this blog post. Please be civil."
+    },
+    {
+      "id": 62,
+      "author": "David",
+      "url": null,
+      "date": "2004-06-07T07:29:05",
+      "body": "Appearently lots of people dislike this new theme.\n\nWhy don't you set a vote up somewhere and let the users decide?"
+    },
+    {
+      "id": 63,
+      "author": "Ben",
+      "url": null,
+      "date": "2004-06-07T07:36:16",
+      "body": "Please read the guide.\n\nhttp://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwxp/html/winxpicons.asp\n\nIt doesn't matter if you like it - it only matters that the application look native on all OS's.\n\nPlease forget the dream of having Firefox look the same across multiple platforms.  Applications that look different from the OS are ugly.  On Windows Netscape is ugly, Mozilla is ugly, Qute is good - not great, but it's palatable.\n\nThemes are there to let people who want a look that's different from the OS to get one.  Not to provide a way to get the default OS look when the designers decide they want their application to look different.\n\nIf this is going to be the default theme, then you absolutely need to make others available at install - because after that people will be turned off by it enough that they'll uninstall it before trying a different theme."
+    },
+    {
+      "id": 64,
+      "author": "martinus",
+      "url": null,
+      "date": "2004-06-07T09:10:48",
+      "body": "I do not like how the home-icon looks. I can not tell why, but it just does not look right. The reload also seems a bit strange. I guess it somehow needs more depth to give it a more plastically look."
+    },
+    {
+      "id": 65,
+      "author": "Jeffrey",
+      "url": null,
+      "date": "2004-06-07T09:21:49",
+      "body": "Pinstripe looks cute - on OS X. On Windows (especially XP with its Luna Theme) Qute fits better, since it uses similar 3d effects. The Winstripe buttons are too two-dimensional.\n\nBrowsing should be fun - and Qute incorporates this best. A way out would be to ship the windows version of Firefox with both, Qute and Winstripe)."
+    },
+    {
+      "id": 66,
+      "author": "spk",
+      "url": null,
+      "date": "2004-06-07T10:04:31",
+      "body": "Here's my tuppence worth: I'm a huge fan of the Pinstripe theme, and currently have it on both TB and FF. It is the first theme I've seen that is both distinctive and sufficiently professional enough to give Mozilla a place in the market.\n\nI have never personally liked the Qute theme, but do admit that it is an extremely well designed and consistent theme.\n\nViews on 'Winstripe': well, I'm obviously happy with whatever is a hand over from Pinstripe. The Pinstripe icons are coherent, consistent, and self-explanatory -- history and bookmarks are particularly to be praised as examples of icon design. HOWEVER, the new Back, Forward, Stop and Home buttons are simply dreadful. Their monotone, flat design clashes with the texture of the other icons. Now, there may be a rationale for this: these are the main and likely default buttons to be used during browsing. However, at present they simply ruin the toolbar eyeline and distract the browsing experience.\n\nKevin and Stephen: make these icons consistent with the others, and you have a happy defender of a theme with potential!"
+    },
+    {
+      "id": 67,
+      "author": "Jahirul",
+      "url": null,
+      "date": "2004-06-07T10:22:07",
+      "body": "This doesn't look clean, instead looks awkward. There certainly too much space between icons and icons itself doesn't gel well. Just visualise the first 5 icons.\n\nLook at Smoke, Pixelzille, Neptune, Nautical ....."
+    },
+    {
+      "id": 68,
+      "author": "",
+      "url": null,
+      "date": "2004-06-07T11:25:14",
+      "body": "All of the icons have good designs, except Home, New Separator.\nShadows under icons are unheard of here.\nMaybe you should rotate Reload on the other side.\nBack/Forward are a little weird...\nColoring of icons isn't great(Go button, Home)\nThis is has lots of potential once weird icons are fixed and color is more professional."
+    },
+    {
+      "id": 69,
+      "author": "Ernst",
+      "url": null,
+      "date": "2004-06-07T11:27:28",
+      "body": "Interesting. I don't think the Qute theme blends at all with WinXP. This theme looks much more XP'ish.\n\nWhat, I don't see any OSX here! Get a grip people, you need more than alphablending to look like OSX..."
+    },
+    {
+      "id": 70,
+      "author": "Roy",
+      "url": null,
+      "date": "2004-06-07T12:29:02",
+      "body": "http://homepage.ntlworld.com/jessica.davis/fb/0.9/classic.jar\nDownload and replace your current classic.jar in the Firefox chrome folder.\n==================================================\nNow that I have it, my feed back\n\n*Home is fugly with the little shade falling down roog(plus its purple???!!!)\n\n*Wouldn't it be cool if throbber had some Firefox in it? While it's spinnig around, the thing could alternate orange, yellow, red\n\n*Qute was fugly, but it was super fugly with icons and text. Icons and Text in Winstripe is perfect, like IE6.\n\n*There sure is a lot of spacing between icons...\n\n*When you hover over mini back/forward triangles, they don't have an outline, which was a problem in Qute also, but since you're more dedicated, maybe you can fix\n\n*While Mac-heads are used to that Bookmark icon, I think it should be a Star/Heart since it's not very obvious. Plus that icon doesn't match with Back/Forward/Reload/Stop's simpleness\n\n*New Window icon looks like a minimized real window. You should remove toolbar in it and exaggerate it.\n\n*Go button has too much lighting so white part of it mixes in with light.\n\n*Whats up with the shadows under the icons? If light is facing top-left, then why is Forward's shadow different?\n\n*I don't agree with others who say Stop is obnoxious, but being that lots of foreigners use Firefox and hate my wonderful country America, you\nshould probably use something less offensive\n\n*New Tab shouldn't have little box thing under it.\n\n*Maybe it's just me, but the little green + icon is really small in New Tab/Window/Folder/Bookmark. Also, why is green+ in middle right of New Tab/Window but in bottom right of Bookmark/Folder?\n\n*Downloads icon looks like a calculator.\n\n*The Options icons are WAY too Mac\n\n*New Separator is too weird.Qute's was better\n\n*The folders used in Bookmarks are too shiny and remind me of Phoenity. You should just rip XP's or Qute's.\n\n*That little thing on top of the paper in Print is weird"
+    },
+    {
+      "id": 71,
+      "author": "",
+      "url": null,
+      "date": "2004-06-07T13:17:14",
+      "body": "Just installed Firefox with the new theme and, well... It has potential.\n\nThings that I noticed:\n\n1) When you always have one tab visible, and open and new tab in the background, the current one will move down som pixels. It would be great if this could be avoided.\n\n2) The icon for flexible space and the one for regular space are identical, you cant tell the difference. Would be nice to have it like Arvids Qute had it. This make it easer to understand for new users.\n\n3) An issue that also Qute had, when hovering the little black arrow to the back and forward button, the hover effect is wrong. The separator only appears when hovering the forward/back button. This is worse on windows 2000 and XP with classic look, where no hover effect will be shown when hovering the little arrow.\n\nApart from that, as stated before, the icons doesnt really blend in with XP, but I guess/hope that they will improve.\n\nLooking forward to see updates on this theme."
+    },
+    {
+      "id": 72,
+      "author": "StoneCold",
+      "url": null,
+      "date": "2004-06-07T13:24:38",
+      "body": "Whats that? What was wrong with the old theme? I don't get it.\n\nI don't like the new theme. I don't agree, that Mozilla stuff has not informed the users, that a new default theme is planed.\n\nThe theme looks primitive. The buttons looks like a duplication of Internet Explorer, not like Firefox.\n\nReally bad times. :("
+    },
+    {
+      "id": 73,
+      "author": "wfeng",
+      "url": null,
+      "date": "2004-06-07T13:41:06",
+      "body": "I wouldnt say this theme is not good, but its just not good enough to be another default theme, I respect your work, and I love the icons for FF and TB, but this theme looks so uncomfortable in winXP environment. And I dont understand why you guys didnt make any communication with the author of Qute theme when this project began?\nI couldnt think out any detailed suggestion about how to improve this theme, since the feeling of not right is not in some specific part, but in the whole feeling.\nAnyway, if you guys decide to use this one as default theme, try get more feedback and improve it more. and good luck."
+    },
+    {
+      "id": 74,
+      "author": "0",
+      "url": null,
+      "date": "2004-06-07T13:42:12",
+      "body": "What's wrong with the old theme is that Creator of Qute didn't want to open his license or some other legal mumbo-jumbo. The point of opening the license I think is so others could take his work and improve it, but he didn't want too. He says he wants is now... but he didn't before, and it wouldn't be right to force him.\n\nI actually think the duplication of IE is a good thing since lots of people say Winstripe looks nothing like IE."
+    },
+    {
+      "id": 75,
+      "author": "",
+      "url": null,
+      "date": "2004-06-07T14:18:03",
+      "body": "Edit: I appreciate all feedback, negative as well as positive, but please reserve final judgement until you have actually used the theme :)\n\nCan you make an installible version based on http://homepage.ntlworld.com/jessica.davis/fb/0.9/classic.jar\nso people can stop the sometimes retarded comments?"
+    },
+    {
+      "id": 76,
+      "author": "c",
+      "url": null,
+      "date": "2004-06-07T15:24:46",
+      "body": "sorry, this is just a huge step backwards.  the icons are just plain boring.  they have no depth and are spaced too far apart, the colors are bland and it doesn't seem like a coherent theme like Qute was, or integrate well with the browser's existing UI (windows, etc.).  all reasons i never liked pinstripe on the mac version.\n\nit would look fine as an initial draft, but with this being 0.9 coming up and 0.1 in a few months, you should be able to see why UI work is an art and not something that can be whipped up (or implemented) so late in the game."
+    },
+    {
+      "id": 77,
+      "author": "Chris",
+      "url": null,
+      "date": "2004-06-07T15:26:45",
+      "body": "I've tried this theme, and I am not going to compare it to Qute (like some people) as that won't help anyone but here are some thoughts:\n#The New tab button looks to me at glance like a printer icon (maybe it's just me); when compared to the printer icon the outline looks identical\n#The download icon (the small one mostly) that opens the download manager dosn't look right... Maybe just an arrow would look better\n#Now I am getting really picky but I don't like the home icon, perhaps i'm just used to the different perspective, or it could just be the fact that it's PURPLE.\n#Again this just my opinion but the mouseovers don't look prominate enough\n\nOther than that the theme does look very good and well made\nOne Q though and I don't know if this has already been discussed- Will the original artwork to this theme (a .PSD or whatever they were made in) ever be realeased? I think it would be great for devopers if it was."
+    },
+    {
+      "id": 78,
+      "author": "Nx",
+      "url": null,
+      "date": "2004-06-07T16:29:29",
+      "body": "\"Microsoft went through great lengths to create a consistent interface in Windows XP\"\n\nGood one... you must be kidding, right? xp is like, 5 different file selectors in major apps, different icon themes/styles... windows is nowhere near consistency"
+    },
+    {
+      "id": 79,
+      "author": "Greg K Nicholson",
+      "url": null,
+      "date": "2004-06-07T16:31:48",
+      "body": "Thoughts as they arise:\n- It doesn't look as good as Qute\n- Everything looks 2D, which doesn't blend in with the OS (Luna)\n- The \"large\" icons are too small\n- The 2D-ness makes the icons harder to distinguish (yup, not easier)\n- New Tab *does* look like a printer\n- The arrows on Copy and Paste aren't required - Copy is always simply two sheets of paper; Paste is always a clipboard and a sheet of paper\n- I do prefer the (revolutionary) idea of making Bookmarks look like a bookmark - I don't know why it was ever a star\n- Help's Test Size icons are OK, but could be confused with Search\n- The Close Tab button doesn't match Luna's red button as well as Qute's did (i.e. looks out of place)\n- In fact, every icon looks out of place\n- The symbols chosen for the icons are mostly good; the renderings of them are amateurish - too pixelly\n- I like the throbber\n- The Download, Extension and Theme Managers look bare without a background image\n- The JS console needs icons\n- I'm going back to 0.8."
+    },
+    {
+      "id": 80,
+      "author": "neoufo51",
+      "url": null,
+      "date": "2004-06-07T16:51:35",
+      "body": "First of all, the guy above is silly to go back to 0.8 as Qute can be themed in later.\n-we need 3d depth to the icons as that what fits with the luna XP set.\n-new tab button looks like a printer, seriously\n-stop with the solid colors, have some variation\n-the home button just SCREAMS IE 5.0\n-back/forward buttons...what the heck? equilateral triangles? Even the most novice themers know that to get users, u have to be more creative than this\n-thank god u left the throbber on\n-drop shadow for the back/forward buttons is a cheap shot, if you don't have 3d buttons, don't make shadows, seriously.\n-this needs MAJOR reworking. For the first time in my use of Firefox, you are forcing me to use a theme. The point of having a default theme is to make it nice enough so a good proportion of its users will be happy with the default look. Most people don't like this. I even believe that Ben Goodger dislikes this. Back to the drawing board."
+    },
+    {
+      "id": 81,
+      "author": "OLE",
+      "url": null,
+      "date": "2004-06-07T17:04:21",
+      "body": "First that came to my mind using Winstripe for few hours: The downward pointing arrow indicating a dropdown is farther from the back and forward buttons than from the mail button."
+    },
+    {
+      "id": 82,
+      "author": "Shar",
+      "url": null,
+      "date": "2004-06-07T17:23:46",
+      "body": "I'm really surprised at a lot of the classless comments on the new theme, and pretty shocked to discover how it's supposedly the demise of Firefox.  Yes, everyone will now flee to IE because of it.  Oh, and when new users see it, their heads will explode and then they'll promptly burst into flame.\n\nKevin, I've been a big fan of the Pinstripe look for a long time, and I really like the progress of Winstripe.  You're taking a lot of flak for this because of all the politics involved, and I hope you're not taking it too personally.  When I read that a Pinstripe variant was becoming the default Windows theme, I was very excited.  That was without knowing why exactly (and seeing the subsequent flame war) the theme was being changed, and I think it's a shame that the release of a clean, sharp, simple, and beautiful theme is getting mired in crap that has nothing to do with you.\n\nAll said, I do think that the buttons in the screenshot seem a little too far apart, and perhaps some of the corners could be a little more rounded.  I am greatly looking forward to Winstripe though, and I'm glad you decided to post screenshots even though you probably knew it was going to invite a lot of unwarranted comments about your abilities."
+    },
+    {
+      "id": 83,
+      "author": "",
+      "url": null,
+      "date": "2004-06-07T17:50:44",
+      "body": "It's been said, but...\n\n-Some of the icons look flat, reminiscent of Win 3.1, not good :(\n-Back/forth/stop/reload/home icons are very simplistic.\n-Palette isn't right for windows\n-Spacing between icons is a little much (the unused space makes the theme feel clunky)\n\nThere are icons in this theme that look great; objections concerning colour withstanding ;).  Although, this theme looks incomplete, it shows potential.  That said, I'm surprised you'd ship, let alone show, unfinished work.  As an artist I know I wouldn't.  You're a brave man.\n\nI can't wait to see the final theme!  Good luck Kevin!  :)"
+    },
+    {
+      "id": 84,
+      "author": "Jason Kersey",
+      "url": null,
+      "date": "2004-06-07T18:13:03",
+      "body": "Welcome to the fun that is Mozilla, Kevin ;).\n\njason"
+    },
+    {
+      "id": 85,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-06-07T18:14:08",
+      "body": "Almost every single color used in those icons are directly from Microsoft's Windows XP Icon color palette."
+    },
+    {
+      "id": 86,
+      "author": "+__+",
+      "url": null,
+      "date": "2004-06-07T18:51:15",
+      "body": "I love this theme!\n\nQute was too big on big mode(making it look super kiddy) and was too small on small mode(making it look super choppy).\n\nWinstripe is not too big on big mode and not too small on small mode.\n\nWhile practically all of Qute's icons had a tilt to them, Winstripe is straight on, which is what toolbar icons are supposed to be. Plus, Qute had the awful weird Reload.\n\nThe problem with Winstripe though is the large presence of Aqua, like in Bookmarks Manager and Options. And colors don't seem refined as of yet, but this is the best 0.1 theme ever!"
+    },
+    {
+      "id": 87,
+      "author": "GURT",
+      "url": null,
+      "date": "2004-06-07T19:38:12",
+      "body": "looking forward to seeing the \"finished\" product in 0.9\ni must say.. Qute was a little bit too cute."
+    },
+    {
+      "id": 88,
+      "author": "Steven Garrity",
+      "url": null,
+      "date": "2004-06-07T20:08:02",
+      "body": "To those that have suggested that the octagonal red stop sign is unique to america, I don't believe this is the case. According to the <a href=\"http://en.wikipedia.org/wiki/Stop_sign\" rel=\"nofollow ugc\">the WikiPedia page about the Stop Sign</a>, it is widely used around the world (the wikipedia page is down today - so here's <a href=\"http://216.239.51.104/search?q=cache:F7GeshX_YkAJ:en.wikipedia.org/wiki/Stop_sign+stop+signs+around+the+world&hl=en\" rel=\"nofollow ugc\">the google cache of the page</a>)."
+    },
+    {
+      "id": 89,
+      "author": "neoufo51",
+      "url": null,
+      "date": "2004-06-07T21:24:32",
+      "body": "This better not be as simplistic looking as it is now when 1.0 comes out or Firefox is going to lose a lot of potential users."
+    },
+    {
+      "id": 90,
+      "author": "Josh Santangelo",
+      "url": null,
+      "date": "2004-06-07T21:31:26",
+      "body": "Wow. I had read all the fuss over the change, but hadn't seen a screen shot til now. I think it looks great and will welcome the change. It seems to fit extremely well with the OS."
+    },
+    {
+      "id": 91,
+      "author": "hcgtv",
+      "url": null,
+      "date": "2004-06-07T21:53:12",
+      "body": "Tried the default theme today, I'll stick to smoke.\n\nSmoke, like so many other well made skins on the skin repository would have been a better alternative than creating one more skin from scratch.\n\nI don't understand the logic, you've got an awesome browser in 0.9, been using the nightlies for the last couple of weeks. But a new unpolished theme for that first impression by a newbie is not the way to go."
+    },
+    {
+      "id": 92,
+      "author": "Purpleman",
+      "url": null,
+      "date": "2004-06-08T01:32:10",
+      "body": "Theme sucks, simple as that it isn't in the league of qute, or even the pinstripe version for mac. Please be sure to take the comments present here and over at mozillazine and improve the theme in my opinion. the back and foward buttons home and reload buttons are too simple, the go button is to bright should be the same colour as the back and foward buttons the close tab button doesn't have a distinctive mouse over button. the new window button and all buttons that have a window in them are too windows-centric.."
+    },
+    {
+      "id": 93,
+      "author": "José Jeria",
+      "url": null,
+      "date": "2004-06-08T03:17:59",
+      "body": "Do we file bugs in bugzilla on the issues mentioned? Or is it enough to comment here?"
+    },
+    {
+      "id": 94,
+      "author": "minghong",
+      "url": null,
+      "date": "2004-06-08T04:06:22",
+      "body": "The theme is great! It blends with Windows classic nicely:\nhttp://minghong.blogspot.com/2004/06/winstripe-is-cool.html"
+    },
+    {
+      "id": 95,
+      "author": "Grobbo",
+      "url": null,
+      "date": "2004-06-08T04:49:01",
+      "body": "You cannot expect everybody to like it, but as long as it is easily adjustable (!) and doesn't look too much like any Microsoft product it will work out fine.\n\nI mean: You have to see immediately that this is something differens than MSIE, but should not be scared of.\n\nBut if this were my default theme, I'd switch ;-)"
+    },
+    {
+      "id": 96,
+      "author": "",
+      "url": null,
+      "date": "2004-06-08T05:37:18",
+      "body": "I have been using the new theme now for a day. I agree with the author's comment that this is a 0.1 version at best, which is fine, except that Firefox is at 0.9 (almost 1.0!) already. I think Ben's decision to use a pre-beta theme as default for the next milestone is just plain wrong, but that has nothing to do with the theme itself. Winstripe shouldn't be made the default until it has matured, but that is Ben's fault, not Kevin's.\n\nI think Winstripe does have potential; it just needs a lot of work to be finished. Right now, the  thing that annoys me most is the spacing between the icons: there is just too much room between the icons, both in large size and in small size.\n\nI don't like the drop-shadow. Currently, the icons are very flat and two-dimensional. They do not properly blend in the XP theme at all, in my opinion (and according to Microsoft's guidelines for XP icons: http://tinyurl.com/yreyx), but more importantly to me: they don't look good in Windows classic.\n\n- I don't like the drop-shadow; I think it is a poor attempt to bring some 3D in the flatness. Instead of using this trick, the Winstripe icons themselves should get more depth, which would probably also make them stand out more in the Windows classic style. Right now, the buttons are too flat, in my opinion.\n- The edges of the buttons should be rounded and softened a little to look better in the XP theme.\n- The triangular back/forward buttons are very unimaginative. I prefer proper arrows, and I really think Qute got that part right.\n- The home and print-buttons remind me of the 4.x browsers: much too flat.\n- Even worse: the New Separator button for the bookmarks manager reminds me of Windows 3.1. :(\n- I don't think it is a good idea to use the traffic sign for the stop button: it's octangular shape just doesn't seem to fit. A more rounded icon would work much better, so why don't make it circular? (I think combining the reload and stop functions in a single button would be even better, although that may be one bridge too far for many users.)\n- One could argue a long time about the best symbol for the bookmarks button. Winstripe tries to mimic an actual bookmark, while many other themes (and Opera) mimic IE's use of a star symbol to represent 'favorites'. The latter solution results in a much cleaner icon, but a more ambiguous symbol. To me, Winstripes bookmarks icon looks over-styled; I much prefer the simplicity of the star symbol.\n- The edges of the reload arrows are jagged (in fact, the edges of all buttons are jagged, but I think this is most annoying for the reload button). The arrows of the reload button should rotate in the same direction as the throbber, and I think it would work better to put these arrows in a round button, similar to the Aqua skin for Opera 6 or the Noia skin for Firefox.\n- I like Winstripe's throbber; it's nicer than the latest Qute versions. But I also appreciate the way the Noia skin is using the same symbology for the throbber and reload button."
+    },
+    {
+      "id": 97,
+      "author": "Francis",
+      "url": null,
+      "date": "2004-06-08T05:39:28",
+      "body": "Oh my, I wish I could edit my post above. Used copy i.s.o. cut, and forgot to add my name. Sorry. :("
+    },
+    {
+      "id": 98,
+      "author": "Jahirul",
+      "url": null,
+      "date": "2004-06-08T05:43:24",
+      "body": "Kevin-\nMay be some of use were too quick to judge. We Firefox users are a passionate bunch- we want to see Firefox succeed in every way. So don't take the comment here to seriously. I installed the theme just now and it look much better than your screen shot. I would ask you to polish the icons bit more (Throbber, Reload, Home +) and it will look fantastic.\n\nThanks\nJahirul"
+    },
+    {
+      "id": 99,
+      "author": "appleyum",
+      "url": null,
+      "date": "2004-06-08T06:33:49",
+      "body": "How about pick a few theme from firefox theme\nhttp://www.texturizer.net/firefox/themes/\nand let people vote on it?\n\nPersonally I like iCandy Junior, Neptune, and Mostly Crystal.  Apollo and Noia 2.0 aren't bad either.\n\nThe new Winstripe theme looks a bit flat :("
+    },
+    {
+      "id": 100,
+      "author": "MutantMonkey",
+      "url": null,
+      "date": "2004-06-08T07:48:15",
+      "body": "The default icons need to be touched up a little, but other icons (Bookmarks Manager and Options) look excellent. Good work."
+    },
+    {
+      "id": 101,
+      "author": "daka0007",
+      "url": null,
+      "date": "2004-06-08T08:25:52",
+      "body": "Kevin > I hope you'll read the <a href=\"http://forums.mozillazine.org/viewtopic.php?t=82732\" rel=\"nofollow ugc\">Constructive criticism: Winstripe</a> thread on MozillaZine Forums. :)"
+    },
+    {
+      "id": 102,
+      "author": "marcoos",
+      "url": null,
+      "date": "2004-06-08T09:07:07",
+      "body": "The tab closing button looks almost the same in the normal and hovered state. I think you should diferentiate it a bit more."
+    },
+    {
+      "id": 103,
+      "author": "dzd",
+      "url": null,
+      "date": "2004-06-08T15:04:28",
+      "body": "Let's face it, UI is not the province of engineers. The Fx experience is just another proof of that."
+    },
+    {
+      "id": 104,
+      "author": "jm",
+      "url": null,
+      "date": "2004-06-08T15:45:17",
+      "body": "Let`s face it: dzd Isn`t well informed but make his judgment. If he only new that the Mozilla Visual Identity team isn`t formed by engeneers but designers he coudn`t have been so inflamntory.\nTroll yourself anyways."
+    },
+    {
+      "id": 105,
+      "author": "xexagon",
+      "url": null,
+      "date": "2004-06-08T16:37:47",
+      "body": "I really like the look of this theme.  OS X icons (and these appear to 'influenced' by Safari and OmniWeb) are generally far superior to XP's in terms of clarity, detail and attractiveness.  It makes sense to try and recreate them across platforms.  The problem is that OS X renders graphics (in my experience) in a far more sophisticated way than XP, so OS X icons tend to look flat or simply too detailed for their surroundings when they are simply transported to XP (see http://www.xvsxp.com/os-icons/).  I use the Pinstripe theme on my XP FF, but it doesn't look quite right . . .\n\nWinstripe appears to have got round this by 'flattening' the icons a little bit, which is compensated for by adding a bit of colour.  This fits in with the somewhat garish look of XP (and the other Windows OS's) in general.  Oddly enough, the icons are now closer to IEs (one of the few good things about IE, IMO).\n\nThe overall effect is neat, simple and clear.  The icons are interesting enough to entice an IE user, but familiar enough so as not to scare them off.\n\nbtw I found the Qute theme amateurish and quite ugy, sort of muddy in appearance."
+    },
+    {
+      "id": 106,
+      "author": "xexagon",
+      "url": null,
+      "date": "2004-06-08T17:06:34",
+      "body": "Also - why so much rudeness?\n\nAnd the posters referring to Microsoft's 'standards' here - the irony!\n\nAnd why so much opinion presented as fact?  If you don't like it, state WHY.  Give sensible reasons.  'Lemme tell you something. First impressions count and this will turn off any IE switchers' is an OPINION (couched in rude language) that is not supported by any reasons."
+    },
+    {
+      "id": 107,
+      "author": "",
+      "url": null,
+      "date": "2004-06-08T18:55:35",
+      "body": "Ok. The concept's good. Just improve the ugly back/forward icons,for one thing. I like the arrow metaphor."
+    },
+    {
+      "id": 108,
+      "author": "Jon B",
+      "url": null,
+      "date": "2004-06-08T19:37:45",
+      "body": "I never liked the Qute theme - it looked too 'over-done' - this theme has a nice clean look that compliments the gaudy look of xp well. I have recently switched back to 'classic' as my default xp theme and I am loving the firefox theme 'le breeze' which fits perfectly - simple, clean, stylish, minimal.\n\nHowever I can see the need for a more OS-similar theme - when the theme is made to look 'native' it is easier for new users to adapt to since they are already used to it to a certain degree.\n\nquite frankly the them is the least of my concerns - I hoping for even better stability and functionality in the new firefox - IE is dead, Long live Firefox..."
+    },
+    {
+      "id": 109,
+      "author": "Aaron",
+      "url": null,
+      "date": "2004-06-08T21:26:46",
+      "body": "This theme is GORGEOUS. It is just what the doctor ordered. Professional and clean and it compliments the Pinstripe sibling perfectly."
+    },
+    {
+      "id": 110,
+      "author": "oracle",
+      "url": null,
+      "date": "2004-06-08T22:20:16",
+      "body": "I too prefer Qute, as do others I know who use Firefox. I understand that Qute may not be perfect, but no theme will be. That said, I think Qute come closes to being a nice cross-platform them. Qute is good because it's lack of overly bright colours, which allows it to blend in nicely with diffent colour schemes.\n\nMy only suggesstion would be to modify and upgrade Qute to try to patch up is supposed short-comings."
+    },
+    {
+      "id": 111,
+      "author": "Jonathan B. Horen",
+      "url": null,
+      "date": "2004-06-09T05:02:33",
+      "body": "Well, I currently use your Luna Blue theme for Thunderbird, and Chris Cook's Luna Blue theme for Firefox.  Yeah, I'm a Linux user since 1996, when I moved from my VT100 terminal and character-based apps (pine, tin, and lynx) to the world of windows and GUIs.  And I'm a 16-year veteran of the Unix sysadmin trenches.  And I do everything from the command line.\n\nAnd ya know what?  I *like* the look-and-feel of Windows XP.\n\nSo, for my two-bits, the icons on the new default Firefox theme could stay with the IE look... fine by me."
+    },
+    {
+      "id": 112,
+      "author": "Christopher Anderton",
+      "url": null,
+      "date": "2004-06-09T12:02:29",
+      "body": "Good work. Finally Firefox ships with more \"XP-ish\" look on Windows. It doesen't steal the attention, wich is good. The same thing as in Pinestripe on OS X. Buttons and icons in the application should NOT steal the attention from what the app is doing.\n\nQute, maybe was nice looking on Windows, but it was to eye catching.\n\nAnd for those who thinks this looks like an OS X-ish theme. Please, go buy a G5 and run Mac OS X for a while. And then check yer eyes.\n\nGood work!"
+    },
+    {
+      "id": 113,
+      "author": "Christopher Anderton",
+      "url": null,
+      "date": "2004-06-09T12:10:18",
+      "body": "And oh. I don't understand. If you pepole don't like the new theme, how hard is it to switch theme?"
+    },
+    {
+      "id": 114,
+      "author": "neozen",
+      "url": null,
+      "date": "2004-06-09T13:31:29",
+      "body": "guess that's just what i'll do.\nhope they would include both of them."
+    },
+    {
+      "id": 115,
+      "author": "David",
+      "url": null,
+      "date": "2004-06-09T16:49:54",
+      "body": "I was skeptical when I first saw the icons at MozillaZine standing alone, not actually in a theme. I didn't think the icons were going to translate well into a Windows theme.\n\nBut you proved me wrong. I love what you've done in the Mac Pinstripe theme, and I think this new one has great potential as well.\nIn spite of some of the negative feedback above, I think the new theme looks great in the screenshots.\n\nI never had any problems with Qute personally, but in retrospect it does look strikingly like Explorer."
+    },
+    {
+      "id": 116,
+      "author": "james",
+      "url": null,
+      "date": "2004-06-09T17:41:32",
+      "body": "i really dislike these theme icons. using this theme would be like going back to windows 95, it looks way too bitmappish and flat. jarringly bland :(\n\nthis is like a step back into the dark ages of icon design...please don't make this the firefox default."
+    },
+    {
+      "id": 117,
+      "author": "Baten Kaitos",
+      "url": null,
+      "date": "2004-06-09T22:37:52",
+      "body": "This theme is not Windows 95. Windows 95 was mostly black and white and icons were choppy. Winstripe is colorful and it has no jaggies."
+    },
+    {
+      "id": 118,
+      "author": "bact'",
+      "url": null,
+      "date": "2004-06-10T00:27:07",
+      "body": "- VERY UGLY 'home' icon\n\n- 'back' / 'forward' icons should be in arrow form, instead of triangle -- imho, it's easier to recognized\n\n- icons arrangement. while first five icons are for Page Navigation (back/forward/reload/stop/home), the sixth icon 'mail' is irrelevant, when consider that it followed by address bar (Page Navigation again).\n-- suggestion: move 'mail' icon somewhere else, may be after search box.\n\n- too much margin for toolbar, really."
+    },
+    {
+      "id": 119,
+      "author": "Gb",
+      "url": null,
+      "date": "2004-06-10T03:54:47",
+      "body": "Kevin and Stephen: your Pinstripe theme was gorgeous, but I'm sorry, this is definitely not ideal for Firefox's default theme. Qute was good - inoffensive but attractive. Winstripe is, in my opinion, very bland and the flatness of the icons is unpleasant. We users appreciate your great work for the Foundation. Leave Winstripe as a bundled theme, but don't make it the default.\n\nI just got my friend to switch from IE to Firefox 0.8, and this is the sort of thing that would turn him right back. Other new users may feel the same."
+    },
+    {
+      "id": 120,
+      "author": "Tama",
+      "url": null,
+      "date": "2004-06-10T07:41:33",
+      "body": "Whoever decided to dump the old theme made a big mistake. No offence but this theme looks very unprofessional when compared to Qute.\n\nIMO this is a big step backwards for mozilla :(."
+    },
+    {
+      "id": 121,
+      "author": "Sam",
+      "url": null,
+      "date": "2004-06-10T11:27:01",
+      "body": "bact', you haven't even tried the theme and it shows how ignorant you are."
+    },
+    {
+      "id": 122,
+      "author": "theyarecomingforyou",
+      "url": null,
+      "date": "2004-06-10T17:56:25",
+      "body": "I have tried the new 0.9RC... I didn't know that they had changed the theme. The first thing I thought was that it was horrible... then I started to look at why I didn't like it. There is far too much space around the icons - they are too bright and catch your attention more than the webpages - they are uninviting; it seems like they're designed to stop you clicking on them.\n\nI thought Qute was a brilliant theme... understated, refined, not over-the-top... just right. I haven't found any redeeming features and in my opinion there is no potential for these icons to get better - back to the drawing board if you are so keen to ditch Qute.\n\nI would like the default theme for Firefox to be inviting... I love Firefox and would recommend it to anyone, but if this theme were to become the default then I wouldn't recommend it and would surely like Firefox a lot less because of it.\n\nYou didn't have to think about Qute... it was great. This new theme seems to be aimed at kids that like pretty things or at the anime crowd that love epilepsy inducing colours! Sorry to be so rude but the new theme disgusts me truly."
+    },
+    {
+      "id": 123,
+      "author": "allen",
+      "url": null,
+      "date": "2004-06-11T05:27:54",
+      "body": "I'm already loving this theme. How anyone can call it ugly is beyond me. I've never liked Qute to be honest (Qute looks more professional than this? Are you kidding?), so this is a welcome step in the right direction as far as I'm concerned.\n\nIf you don't like it, give it time - it isn't finished. If you still don't like it when it's done, get a new theme. If you don't want to get a new theme, use a different browser.\n\nWhatever you decide to do, just stop complaining about an unfinished theme!"
+    },
+    {
+      "id": 124,
+      "author": "Veronica",
+      "url": null,
+      "date": "2004-06-12T10:27:32",
+      "body": "Looking at the screenshot, I think the toolbar should be narrower."
+    },
+    {
+      "id": 125,
+      "author": "FoxOnFire",
+      "url": null,
+      "date": "2004-06-13T09:15:49",
+      "body": "NO NO NO! DON'T GET RID OF PINSTRIPE OR QUTE!\n\nI'm sorry but I don't buy this need for a consistant look across platforms. Take IE for example. The Windows and Mac versions look different but didn't stop it becoming the major browser on both platforms (pre OSX). Windows and Mac (Linux?) users need a browser that fits in with their platform. These icons look too 'OSX' for Windows and too 'Windows' for Mac. And I don't need to reserve judgement until I try this theme as I think it looks like it took two minutes to design.\n\nAnd surely Mac users would apreciate a screenshot too."
+    },
+    {
+      "id": 126,
+      "author": "Joolz",
+      "url": null,
+      "date": "2004-06-13T09:55:05",
+      "body": "Don't you dare replace the beautiful Pinstripe with this! It looks absolutely horrid on Mac. You clearly thought 'let's make a PC theme and use Mac icons so we don't have to bother doing a Mac version'."
+    },
+    {
+      "id": 127,
+      "author": "maWek",
+      "url": null,
+      "date": "2004-06-14T07:43:09",
+      "body": "Extremely ugly. Sorry guys."
+    },
+    {
+      "id": 128,
+      "author": "Pinstripe",
+      "url": null,
+      "date": "2004-06-14T08:08:06",
+      "body": "I agree with Joolz. Whilst many complain it looks ugly on PC, they should try the 0.9rc download on Mac and learn what the word 'ugly' realy means.\n\nKeep Pinstripe on Mac or I'm switching to Safari."
+    },
+    {
+      "id": 129,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-14T08:31:36",
+      "body": "Pinstripe isn't going anywhere. We are however looking at replacing the \"button\" navigation icons with shapes similar to the Winstripe theme. Don't worry, they will be done in an Aqua style.."
+    },
+    {
+      "id": 130,
+      "author": "Greg K Nicholson",
+      "url": null,
+      "date": "2004-06-14T20:07:27",
+      "body": "...for anyone who still cares, I didn't go back to 0.8 (I only fetched the nightly in question to have a peek anyway), but that was my first impression of the theme (not the app).\n\nI've just dropped Qute from my 0.9RC and I must admit Winstripe isn't too bad after a short while. My previous comments (the objective ones at least) still stand (good and bad).\n\nOne more thing: I like the New Window icon, but perhaps, instead of using a plus to suggest \"Add Window\", you could use a little orange star (as in a Windows filepicker, on New Folder) to suggest \"New Window\"?"
+    },
+    {
+      "id": 131,
+      "author": "Brent",
+      "url": null,
+      "date": "2004-06-15T16:41:00",
+      "body": "where has pinstrip gone on the mac. I love the old icons, they were nice, plain and simple. Can we get the old theme back?"
+    },
+    {
+      "id": 132,
+      "author": "",
+      "url": null,
+      "date": "2004-06-15T16:47:19",
+      "body": "please make the 0.8 Mac OSX theme available for 0.9. i'm sure this new theme looks nice on windows, but even at the small icon size, the colors are distracting in aqua."
+    },
+    {
+      "id": 133,
+      "author": "Bamse",
+      "url": null,
+      "date": "2004-06-27T08:59:24",
+      "body": "I love this theme! :)\n\nBut I don't like the one in 0.9.1 version... why on earth you had to change it?\n\nI refuse to use the updated 0.9.1 until there's a possibility to use the old 0.9 theme.\n\nI rest my case."
+    },
+    {
+      "id": 134,
+      "author": "Brad",
+      "url": null,
+      "date": "2004-06-30T03:22:51",
+      "body": "I loved Winstripe in Firefox 0.9.  I very much hate the 0.9.1 version.  It looks like it took 15 minutes to put together.  Horrid :("
+    },
+    {
+      "id": 135,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-07-07T22:31:38",
+      "body": "I was really LOVING 0.9 theme. I installed 0.9.1 and was immediately sad to see that the drop shadows were gone. I actually loved looking at those drop shadows. And the small tidiness of it at the same time.\n\nPlease post a way to re-install the 0.9 theme!\n\nThanks. (beautiful work)"
+    },
+    {
+      "id": 136,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-07-08T09:59:35",
+      "body": "The 0.9 theme is available ... in Firefox 0.9. I'm sure that some enterprising hacker out there can package up the 0.9 theme for stand-alone installation."
+    },
+    {
+      "id": 137,
+      "author": "Neff",
+      "url": null,
+      "date": "2004-09-14T09:21:14",
+      "body": "I'm sorry, but I really dislike this theme. Winstripe is, in my opinion, very bland. The flatness of the icons is unpleasant and let firefox's graphic without identity.\nHave you seen the Crystal theme for firefox? Isn't much better than this?"
+    },
+    {
+      "id": 138,
+      "author": "Zach",
+      "url": null,
+      "date": "2004-11-22T01:37:54",
+      "body": "The new Firefox theme is horrendous...what happened to Qute??? I don't understand why they call it Winstripe- Mac's Pinstripe scheme is aethethically genius. Winstripe looks like something ported in from Windows 3.1.\nAre there any builds of Qute for 1.0?"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Chris' Corner",
+      "title": "New Firefox theme screenshot",
+      "url": null,
+      "date": "2004-06-06T14:14:48",
+      "excerpt": "One of the designers behind the new theme for Firefox has posted a screenshot. I am not very impressed, this thing has a long time to go before it can be considered a good default theme. Also the excuse of having a theme that works well across platform..."
+    },
+    {
+      "id": 2,
+      "site": "PAINED.NET",
+      "title": "Mozilla Firefox: Replacing the default theme",
+      "url": null,
+      "date": "2004-06-06T15:05:02",
+      "excerpt": "The Mozilla Firefox staff decided to replace the default theme with a port of the MacOS X-theme Pinstripe. The previously used Qute theme by Arvid Axelsson is dumped down in favor of the change.\n\n Unfortunately, he enhanced his theme for the upcoming re"
+    },
+    {
+      "id": 3,
+      "site": "Minh’s Notes",
+      "title": "Winstripe",
+      "url": null,
+      "date": "2004-06-06T17:13:33",
+      "excerpt": "Firefox is getting a new default theme: Winstripe. But the new theme is not without controversy."
+    },
+    {
+      "id": 4,
+      "site": "erik's weblog",
+      "title": "What a Mess",
+      "url": null,
+      "date": "2004-06-06T17:28:33",
+      "excerpt": "It seems the Mozilla Foundation is doing another blunder...."
+    },
+    {
+      "id": 5,
+      "site": "Neil's Smaller World",
+      "title": "The fox is out of the bag",
+      "url": null,
+      "date": "2004-06-06T18:13:44",
+      "excerpt": "Winstripe, the new default theme for Firefox 0.9. Not sure if I like it."
+    },
+    {
+      "id": 6,
+      "site": "y0?",
+      "title": "Winstripe - for Windows?",
+      "url": null,
+      "date": "2004-06-06T19:45:10",
+      "excerpt": "The Firefox devs have chosen a new default theme for Windows, but is it really a Windows theme?"
+    },
+    {
+      "id": 7,
+      "site": "Nilesh's Weblog",
+      "title": "The Fox and the open bag",
+      "url": null,
+      "date": "2004-06-07T01:56:44",
+      "excerpt": "The Firefox visual identity team has decided on changing the default theme of Firefox in preparation of the impending 1.0 release. As often in the open source community, this has caused some furor in the mozilla dev community with people taking sides w..."
+    },
+    {
+      "id": 8,
+      "site": "djst's nest",
+      "title": "Firefox gets a \"new\" look",
+      "url": null,
+      "date": "2004-06-07T09:01:32",
+      "excerpt": "So we now have a new default theme for Firefox on Windows, called Winstripe. The problem is that the new theme is heavily inspired by MacOS design and does not blend in on Windows XP. This blog entry is about..."
+    },
+    {
+      "id": 9,
+      "site": "djst's nest",
+      "title": "Firefox gets a \"new\" look",
+      "url": null,
+      "date": "2004-06-07T15:25:29",
+      "excerpt": "So we now have a new default theme for Firefox on Windows, called Winstripe. The problem is that the new theme is heavily inspired by MacOS design and does not blend in on Windows XP. This blog entry is about..."
+    },
+    {
+      "id": 10,
+      "site": "Andys Blog",
+      "title": "Firefox mit neuem Skin",
+      "url": null,
+      "date": "2004-06-07T17:54:44",
+      "excerpt": ""
+    },
+    {
+      "id": 11,
+      "site": "The Private Sector",
+      "title": "Of Firefox and browser themes",
+      "url": null,
+      "date": "2004-06-07T19:48:03",
+      "excerpt": "Firefox on Windows and Linux is getting a new default theme.  This seems like a pretty good move, frankly.  The old default theme was a little...  'cutesy', shall we say?  This one is a little bit more professional, contains a bit less individual per..."
+    },
+    {
+      "id": 12,
+      "site": "g9g",
+      "title": "The Fox's New Clothes",
+      "url": null,
+      "date": "2004-06-08T00:09:51",
+      "excerpt": "Yesterday, Kevin Gerich posted a screenshot of the new default theme that Firefox 0.9 will be sporting when it’s released. Called Winstripe, it’s essentially a Windows-ification of the Mac OS X theme, Pinstripe. Without a doubt, this a step..."
+    },
+    {
+      "id": 13,
+      "site": "Mozings",
+      "title": "Winstripe for Firefox 0.9",
+      "url": null,
+      "date": "2004-06-08T01:30:38",
+      "excerpt": "Looks like the tab merges into the webpage. Other than that, the theme looks good...."
+    },
+    {
+      "id": 14,
+      "site": "djst's nest",
+      "title": "A better New Tab icon?",
+      "url": null,
+      "date": "2004-06-08T08:29:30",
+      "excerpt": "A lot of people are complaining about the New Tab icon in Winstripe. It looks too similar to a printer. I just made some quick changes to the icon to show how it could be improved (original icon on the..."
+    },
+    {
+      "id": 15,
+      "site": "Life as it Comes",
+      "title": "Firefox 0.9 Theme",
+      "url": null,
+      "date": "2004-06-08T15:49:02",
+      "excerpt": "Here is a screenshot of what appears to be the new Firefox 0.9 theme based on the work of Kevin Gerich: *** Note that some of the buttons are in their \"inactive\" states and do not reflect their real colors in this state...."
+    },
+    {
+      "id": 16,
+      "site": "The Computer Vet Weblog",
+      "title": "Firefox 0.9",
+      "url": null,
+      "date": "2004-06-09T21:36:36",
+      "excerpt": "Mozilla is planning on releasing Firefox 0.9 by this weekend. I’ve been looking at a few of the recent nightly builds, and it’s going to have a few new things, including a new theme. At first the new theme was..."
+    },
+    {
+      "id": 17,
+      "site": "Geek Style",
+      "title": "FireFox 0.9 RC",
+      "url": null,
+      "date": "2004-06-11T15:44:49",
+      "excerpt": "You know it's out for public test before the final 0.9 realease. I have only one thing to say: The new theme is aweful. It's not a Windows theme. It doesn't feel like a windows theme. Qute was way better...."
+    },
+    {
+      "id": 18,
+      "site": "djst's nest",
+      "title": "Winstripe Reloaded",
+      "url": null,
+      "date": "2004-06-13T20:25:07",
+      "excerpt": "Lim Chee Aun has made some very nice attempts at making Winstripe look more native on Windows XP. He recreated vector versions of the Reload, Stop and Back button and applied some styles to make them look more like the..."
+    },
+    {
+      "id": 19,
+      "site": "Steve Sizemore's Weblog",
+      "title": "Mozilla Firefox 0.9 Released",
+      "url": null,
+      "date": "2004-06-15T08:09:12",
+      "excerpt": "Mozilla Firefox 0.9 was released last night. This is a huge release of an already great web browser. If you are not already using firefox, you should definetly download it now, and get rid of Microsoft's Internet Explorer. Additonal Coverage..."
+    },
+    {
+      "id": 20,
+      "site": "Steve Sizemore's Weblog",
+      "title": "New Default Theme in Firefox",
+      "url": null,
+      "date": "2004-06-15T08:10:21",
+      "excerpt": "It's official. There is a new default theme in firefox. I've downloaded the lastest hourly build from BEAST. I've done a screen by screen comparison between today's build and a build from 6/3/2004 that sported a new version of..."
+    },
+    {
+      "id": 21,
+      "site": "y0?",
+      "title": "Winstripe - (A Belated) Part 2",
+      "url": null,
+      "date": "2004-07-30T04:19:03",
+      "excerpt": "Is Winstripe in action as ill-fitting in Windows as I believed it to be from screenshots, particularly after nearly a month of changes?  The answer is now a decisive and emphatic NO."
+    },
+    {
+      "id": 22,
+      "site": "Steve Sizemore's Weblog",
+      "title": "Mozilla Firefox 0.9 Released",
+      "url": null,
+      "date": "2005-02-16T15:51:19",
+      "excerpt": "Mozilla Firefox 0.9 was released last night. This is a huge release of an already great web browser. If you are not already using firefox, you should definetly download it now, and get rid of Microsoft's Internet Explorer. Additonal..."
+    }
+  ]
+}

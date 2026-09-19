@@ -92,6 +92,12 @@ export default async function(eleventyConfig) {
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
 
+	// Render a markdown string with the site's own markdown-it instance (used for
+	// the archive comment bodies, which are stored as markdown in _data/comments/).
+	let markdownLib;
+	eleventyConfig.amendLibrary("md", (mdLib) => { markdownLib = mdLib; });
+	eleventyConfig.addFilter("markdown", (content) => markdownLib.render(content || ""));
+
 
 	
 

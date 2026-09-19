@@ -16,9 +16,3 @@ tags:
   - firefox
 ---
 Mozilla.org has [renamed the Phoenix browser to Firebird](http://mozillazine.org/talkback.html?article=3075). I’m fine with the name. It could have been [worse](http://mozillazine.org/poll_results.html?id=2960).
-
-## Comments
-
-**David Tenser** on 2003-04-27 17:58:22
-> It's Mozilla Firebird actually.
-> 

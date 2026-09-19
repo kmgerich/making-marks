@@ -1,0 +1,124 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jens Langner",
+      "url": null,
+      "date": "2003-12-05T02:52:58",
+      "body": "Good idea.\n\nBut I would better love to see a new pinstripe version for the full mozilla suite. I still use the suite instead of Thunderbird/Firebird and I would love to see pinestripe comming for this version soo.\n\nPlease work on a new pinstripe version for mozilla 1.5+ because this stops me from using any newer version :(\n\ncheers..."
+    },
+    {
+      "id": 2,
+      "author": "Michael P. McHugh",
+      "url": null,
+      "date": "2003-12-05T18:08:40",
+      "body": "I second the request for an updated pinstipe theme for Mozilla 1.5., preferably more like the Firebbird on with the new icons too!\n\nPlease!!!!\n\nThanks,\nMichael"
+    },
+    {
+      "id": 3,
+      "author": "James",
+      "url": null,
+      "date": "2003-12-07T01:47:55",
+      "body": "I abhor the suite.  Thanks for working on this for firebird first!"
+    },
+    {
+      "id": 4,
+      "author": "Marc-Etienne Vargenau",
+      "url": null,
+      "date": "2003-12-07T05:51:17",
+      "body": "Hello,\n\nPinstripe for Mozilla 1.5 would be a nice Christmas present. Please work in it !"
+    },
+    {
+      "id": 5,
+      "author": "jedik",
+      "url": null,
+      "date": "2003-12-07T12:12:51",
+      "body": "Ok, I did. I hope this helps. ;)\n\nCheers."
+    },
+    {
+      "id": 6,
+      "author": "Scott Heath",
+      "url": null,
+      "date": "2003-12-12T14:01:45",
+      "body": "Does that mean we can find a 1.5-compatible version in a few weeks?  Firebird looks great, but still lacks some important features that the full suite has (like form completion)..."
+    },
+    {
+      "id": 7,
+      "author": "James",
+      "url": null,
+      "date": "2003-12-13T21:10:44",
+      "body": "TBE? No, thanks. However, I would love to see MultiZilla support for the birds, because that is my number one, always loved it.\n\nTBE is just a clone of MultiZilla ;)"
+    },
+    {
+      "id": 8,
+      "author": "ray",
+      "url": null,
+      "date": "2003-12-13T21:44:58",
+      "body": "Mozilla 1.5 Please!!!"
+    },
+    {
+      "id": 9,
+      "author": "Brad Oliver",
+      "url": null,
+      "date": "2003-12-21T03:41:13",
+      "body": "To be perfectly frank, the lack of Pinstripe for Moz 1.5+ is what stopped me from using it as well. It's just too un-Mac-like for me to use now."
+    },
+    {
+      "id": 10,
+      "author": "jennifer",
+      "url": null,
+      "date": "2003-12-23T12:51:15",
+      "body": "There are numerous requests on the Tabbrowser Extensions site asking for compatibility. It's still not there. Tried it yesterday. Indeed doesn't work (\"No XBL binding for browser\"). I'm going nuts with all the extra windows I'm getting! I want tabs!"
+    },
+    {
+      "id": 11,
+      "author": "Simon",
+      "url": null,
+      "date": "2004-01-16T20:21:37",
+      "body": "Moz 1.6 now and I am still on a 1.5 alpha as I can't bear Moz on OS X without pinstripe. Whilst the latest pinstripe incarnation with firebird rocks - its the moz suite I use. Just a fix to the old-school pinstripe I'm still using would be great - it would at least let me in on moz 1.6!"
+    },
+    {
+      "id": 12,
+      "author": "Christopher Currie",
+      "url": null,
+      "date": "2004-01-17T12:47:01",
+      "body": "Kudos on this theme, it really makes Firebird a first class browser on the Mac. Any chance of a Thunderbird version?"
+    },
+    {
+      "id": 13,
+      "author": "thenightfly42",
+      "url": null,
+      "date": "2004-01-21T13:10:05",
+      "body": "Piro just published a patch for OS X and TBE, available just under \"Downloads\".  I can't test it right now (Mac is home), can anyone check and verify?"
+    },
+    {
+      "id": 14,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-01-22T06:37:28",
+      "body": "Doesn't work on my build (Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7a) Gecko/20040111 Firebird/0.8.0+).\n\nAfter installing TBE and then the patch, I don't get a browser window at all. A minute or so after requesting a new window an XBL Binding error comes up."
+    },
+    {
+      "id": 15,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-01-23T22:12:53",
+      "body": "<a href=\"http://white.sakura.ne.jp/~piro/xul/forum/?579\" rel=\"nofollow ugc\">This forum post</a> apparently describes how to fix the XBL binding error. Has anyone had success?"
+    },
+    {
+      "id": 16,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-01-24T05:16:40",
+      "body": "It helps get past the XBL binding error, and you can get a browser window this time, but there are display issues. The active tab displays as a inactive tab (greyed out), and all new tabs open to the right (even after changing the preference).\n\nIts getting there, but its not compatible yet."
+    },
+    {
+      "id": 17,
+      "author": "Ernie",
+      "url": null,
+      "date": "2004-02-06T20:01:17",
+      "body": "I tried the directions and they got me past the XBL error. Tab placement does look screwed up, but I'm much happier than I was before making the change in chrome.rdf.\n\nI'm using a nightly firebird build from a couple of weeks ago in Panther FWIW."
+    }
+  ],
+  "trackbacks": []
+}

@@ -18,12 +18,3 @@ tags:
 You can find up to date builds of Mozilla Firebird in [this MozillaZine thread](http://forums.mozillazine.org/viewtopic.php?t=19309). I have never used one of these builds so I can’t comment on them. YMMV.
 
 Work on the Pinstripe theme continues at a slow pace. My day job has been soaking up most of my free time. The bulk of the time I spend on Pinstripe is on creating icons. As I’ve said before, I’m not a “graphic designer” so it takes me a long time to come up with something good. If anyone out there would like to lend a hand at creating icons, drop me an email. I hope to have the next Pinstripe version available for the release of Mozilla 1.5 final.
-
-## Comments
-
-**Hangnail** on 2003-10-08 18:23:41
-> The builds on this site are the same as the nightlies located on Mozilla here:
-> 
-> http://ftp.mozilla.org/pub/firebird/nightly/latest-0.7/
-> 
-> The mac versions seem updated here nightly but nowhere else.

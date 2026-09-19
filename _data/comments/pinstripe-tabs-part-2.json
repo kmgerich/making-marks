@@ -1,0 +1,68 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "",
+      "url": null,
+      "date": "2003-10-02T15:13:01",
+      "body": "I think that the active tab is fine the way it is, translucent may make the tab look like the inactive tabs.\nI agree that the tabs should have their own look and avoid the problems that can come up."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-10-02T17:03:26",
+      "body": "btw - The screenshot of the new tabs look a bit yellow because my Powerbook is having video problems (again)."
+    },
+    {
+      "id": 3,
+      "author": "L. Daudelin",
+      "url": null,
+      "date": "2003-10-02T17:44:56",
+      "body": "I think that given the limitations of Mozilla, it's perfectly acceptable, and way better than the standard theme.\n\nSo, when are you going to release that Mozilla 1.5 compatible PinStripe?"
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-10-02T17:57:40",
+      "body": "When I finish it :) Really I can't give a better answer. I've been working on the Firebird theme because the plan was it was going to become default on Mac Firebird for the 0.7 release. That has gotten  <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=204733\" rel=\"nofollow ugc\">pushed back till Firebird 0.8</a>. So now I'm trying to adapt my work for the Firebird version of Pinstripe for the Mozilla suite."
+    },
+    {
+      "id": 5,
+      "author": "",
+      "url": null,
+      "date": "2003-10-03T17:57:26",
+      "body": "I wish I hadn't upgraded to 1.5b because I've gotten so attached to your theme..."
+    },
+    {
+      "id": 6,
+      "author": "Joel",
+      "url": null,
+      "date": "2003-10-06T21:48:57",
+      "body": "The ONLY reason I've stayed with 1.4 :-)"
+    },
+    {
+      "id": 7,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2003-10-07T10:08:14",
+      "body": "Quick question - will your revised tabs open left to right, rather than from the centre? I think Moz and Safari get it right when they open left to right"
+    },
+    {
+      "id": 8,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-10-07T12:11:45",
+      "body": "Yes they will open from left to right. That's another feature that set them apart from normal Aqua tabs. And the fact that thay can shrink and expand with the title text...\n\ncheck out the latest development version of Pinstripe Firebird to see what the new tab design is like in action.\n\n<a href=\"http://kmgerich.com/pinstripe/beta.html\" rel=\"nofollow ugc\">http://kmgerich.com/pinstripe/beta.html</a>\n\nyou'll have to download the latest <a href=\"http://ftp.mozilla.org/pub/firebird/nightly/latest-0.7/\" rel=\"nofollow ugc\">Firebird 0.7RC</a> to use the theme."
+    },
+    {
+      "id": 9,
+      "author": "Sosurim",
+      "url": null,
+      "date": "2003-11-28T04:36:30",
+      "body": "Just wanted to add my thank you for this great theme somewhere. It just feels like having a new browser again... Finally Mozilla has become a Mac application. Great Stuff!"
+    }
+  ],
+  "trackbacks": []
+}

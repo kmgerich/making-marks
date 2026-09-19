@@ -11,7 +11,12 @@ export default function(eleventyConfig) {
 
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "LLL dd, yyyy");
+		// Accepts a Date, or an ISO string such as the offset-less comment timestamps
+		// ("2004-11-08T12:31:20"), which are shown as written.
+		const dt = typeof dateObj === "string"
+			? DateTime.fromISO(dateObj, { zone: zone || "utc" })
+			: DateTime.fromJSDate(dateObj, { zone: zone || "utc" });
+		return dt.toFormat(format || "LLL dd, yyyy");
 	});
 
 	eleventyConfig.addFilter("htmlDateString", (dateObj) => {

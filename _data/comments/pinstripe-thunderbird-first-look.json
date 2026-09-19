@@ -1,0 +1,304 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-02-10T18:18:04",
+      "body": "Amazing. Those icons are absolutely beautiful - I can't wait to see the finished theme!"
+    },
+    {
+      "id": 2,
+      "author": "bish",
+      "url": null,
+      "date": "2004-02-10T19:37:01",
+      "body": "/me lusts"
+    },
+    {
+      "id": 3,
+      "author": "markku",
+      "url": null,
+      "date": "2004-02-11T02:38:27",
+      "body": "Can't we have this for the win32 builds? :)"
+    },
+    {
+      "id": 4,
+      "author": "rgw",
+      "url": null,
+      "date": "2004-02-11T16:57:05",
+      "body": "My understanding is that Pinstripe uses nsTheme to get to some kind of special API within OSX to give a more genuine aqua look."
+    },
+    {
+      "id": 5,
+      "author": "Greg K Nicholson",
+      "url": null,
+      "date": "2004-02-11T17:29:51",
+      "body": "Does anyone have a spare Mac lying around?"
+    },
+    {
+      "id": 6,
+      "author": "Robert",
+      "url": null,
+      "date": "2004-02-11T20:01:26",
+      "body": "I am so happy about this theme.  I'm using Thunderbird on my XP machine but it just doesn't look OSX enough to use on my iBook.  This theme is great because I'm getting tired of the how oversimplified Mail is."
+    },
+    {
+      "id": 7,
+      "author": "dangerboy",
+      "url": null,
+      "date": "2004-02-12T13:50:38",
+      "body": "Looks great, good job guys.  Can't wait for it."
+    },
+    {
+      "id": 8,
+      "author": "Wilbur",
+      "url": null,
+      "date": "2004-02-12T23:52:23",
+      "body": "Wow, this theme makes the default TB theme look sick. The cartoony look is one thing that has kept me from using TB full time. But this pinstripe theme looks very clean and professional. I love it! *drools on keyboard*\n\nLove your Firefox theme too."
+    },
+    {
+      "id": 9,
+      "author": "Castor",
+      "url": null,
+      "date": "2004-02-15T18:53:18",
+      "body": "Drool indeed!\n\nLeaves me with the big question: when?"
+    },
+    {
+      "id": 10,
+      "author": "Cody",
+      "url": null,
+      "date": "2004-02-16T01:36:17",
+      "body": "Very very nice, that's how thunderbird should look without a doubt, and keep up the good work :)"
+    },
+    {
+      "id": 11,
+      "author": "Minime",
+      "url": null,
+      "date": "2004-02-23T06:27:20",
+      "body": "Still waiting... *cough* *cough* can... wait... no... more... gimme."
+    },
+    {
+      "id": 12,
+      "author": "Wilbur",
+      "url": null,
+      "date": "2004-02-24T23:07:18",
+      "body": "How much longer until this is in the nightly builds?"
+    },
+    {
+      "id": 13,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-24T23:53:15",
+      "body": "We're close .. a week, maybe two."
+    },
+    {
+      "id": 14,
+      "author": "Van Willigen",
+      "url": null,
+      "date": "2004-02-25T18:10:17",
+      "body": "Hello,\n\nCan you help the Fire (aol, msn, yahoo etc.) team with new icons\nthe way you did with Thunderbird???\n\nThey need an update !"
+    },
+    {
+      "id": 15,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2004-02-25T21:28:27",
+      "body": "I actually started an icon makeover for Fire a while ago, but then I learned that they were making significant changes for the 1.0 release. Which will include a \"theme\" component. When 1.0 goes final I will probably finish it up and package it in a Fire theme file."
+    },
+    {
+      "id": 16,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-07T14:27:27",
+      "body": "I am eagerly downloading Thunderbird nightlies... but so far no luck of seeing a Horlander piece of art yet..."
+    },
+    {
+      "id": 17,
+      "author": "Alexander Ihrig",
+      "url": null,
+      "date": "2004-03-09T10:12:21",
+      "body": "Hi Kevin & Stephen!\n\nThunderbird itself has no toolbar-button \"Get & Send\" (like OE). So I've been creating an extension:\n\nMagicSLR\n\nThis Extension uses 4 modified qute-theme related icons. My (and the users) wish is, to have pinstripe related icons, when Thunderbird 0.6 will be released.\n\nWould it be possible to get a preview of your thunderbird icons by mail-attachment? So I would be able to create the 4 MagicSLR icons. Or would it be possible to get 4 finished icons?\n\nYou should have a look at MagicSLR:\n\nhttp://thunderbird.diepause.de/downloads/magicslr/index-en.php\n\nMagicSLR is (I can only speak for our german users) the most used Thunderbird extension besides the offline extension!\n\nRegards\nAlexander Ihrig\nMozilla Thunderbird DE"
+    },
+    {
+      "id": 18,
+      "author": "Joel Nelson",
+      "url": null,
+      "date": "2004-03-09T15:05:23",
+      "body": "Can Pinstripe icons be created for the Outbox Extension?\nhttp://outbox.mozdev.org/"
+    },
+    {
+      "id": 19,
+      "author": "Alexander Ihrig",
+      "url": null,
+      "date": "2004-03-09T18:06:44",
+      "body": "Outbox and MagicSLR could use the same Pinstripe Icons. Outbox has only the two buttons \"Send later\" and \"Send all\" (or is \"Send now\"?).\n\nBTW: The Pinstripe Icons for MagicSLR are only intended for the Mac OS X version!"
+    },
+    {
+      "id": 20,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-10T20:35:42",
+      "body": "Longing for pinstriped Thunderbird... some screenshots then, to keep us quiet? Pleeeeze?"
+    },
+    {
+      "id": 21,
+      "author": "dzd",
+      "url": null,
+      "date": "2004-03-14T23:45:47",
+      "body": "Can we get some icons that look that good for Pinstripe/Fx?"
+    },
+    {
+      "id": 22,
+      "author": "macskeeball",
+      "url": null,
+      "date": "2004-03-15T14:41:07",
+      "body": "Stunningly beautiful work as usual. When the Thunderbird version comes out I might end up switching from Mail like I switched from Safari to Firefox. Like it is now, Thunderbird is just far too ugly for my tastes.\n\nPS- If you still want to use Thunderbird even before the Pinstripe theme is made available, I suggest using the Smoke theme as it's the most Mac-like Thunderbird theme availabe right now."
+    },
+    {
+      "id": 23,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-16T14:02:39",
+      "body": "I couldn't agree more macskee', except I cannot bare to use Tb with the Smoke theme, knowing that this is coming along. And cannot say that Stephen's smilies help very much. ;-)"
+    },
+    {
+      "id": 24,
+      "author": "rayced",
+      "url": null,
+      "date": "2004-03-16T18:41:38",
+      "body": "please hurry up!!! ;) i need it!!!"
+    },
+    {
+      "id": 25,
+      "author": "Alexander Ihrig",
+      "url": null,
+      "date": "2004-03-17T07:02:30",
+      "body": "Why, oh why, there is no response on my question? We / I've to accept it, if Kevin is not interested in supporting extension developers. But why there is NO answer???"
+    },
+    {
+      "id": 26,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-03-17T07:26:20",
+      "body": "Alexander, I'm sorry that I haven't gotten back to you sooner, but we have limited free time and I have to focus right now on completing the theme and landing it in Thunderbird.\n\nAn idea I have for the future to support extension authors is to provide a sort of \"Pinstripe icon kit\" which would contain detailed descriptions of how to achieve the Pinstripe style along with some Photoshop examples.\n\nPlease email me after Pinstripe has landed in Thunderbird and then I will consider your request for icons. Thanks."
+    },
+    {
+      "id": 27,
+      "author": "x",
+      "url": null,
+      "date": "2004-03-20T17:51:28",
+      "body": "any chances for win version?"
+    },
+    {
+      "id": 28,
+      "author": "JH",
+      "url": null,
+      "date": "2004-03-21T01:40:21",
+      "body": "Windows version PLEASE!!!"
+    },
+    {
+      "id": 29,
+      "author": "Reinier",
+      "url": null,
+      "date": "2004-03-24T15:49:05",
+      "body": "We're still waiting for the Mac OS X version. And even then…  it uses Mac specific ingredients, which cannot be used freely."
+    },
+    {
+      "id": 30,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-03-24T18:31:39",
+      "body": "Here's a small update: Pinstripe Thunderbird is \"done\" but waiting on a code review before it can be checked in to the Mozilla source tree.\n\nAlso, Pinstripe is open source. The CSS code and images will be available when we release. You can use the code and images in any way you like provided it is in the bounds of the Mozilla MPL/GPL/LGPL tri-license."
+    },
+    {
+      "id": 31,
+      "author": "x",
+      "url": null,
+      "date": "2004-03-25T06:29:44",
+      "body": "\"And even then… it uses Mac specific ingredients, which cannot be used freely.\"\ni don't think so :)"
+    },
+    {
+      "id": 32,
+      "author": "Wilbur",
+      "url": null,
+      "date": "2004-03-27T22:42:37",
+      "body": "Would you mind posting what the finished work looks like? Please? Pretty please, with nutra sweet on top? :)"
+    },
+    {
+      "id": 33,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-03-28T22:16:20",
+      "body": "I will post some shots when it lands, hopefully this week :) You can also see a screenshot in the <a href=\"http://www.mozilla.org/events/dev-day-feb-2004/thunderbird/\" rel=\"nofollow ugc\">recent Developer Day presentation</a> of Thunderbird.."
+    },
+    {
+      "id": 34,
+      "author": "weeeeed",
+      "url": null,
+      "date": "2004-03-29T02:03:12",
+      "body": "Beyond my expectations! Awsome. This is the best looking skin ever made for the moz project.\nCan't wait, already checking out nightly builds every day... <a href=\"http://www.mozilla.org/events/dev-day-feb-2004/thunderbird/pinstripe.html\" rel=\"nofollow ugc\">Direct Linky</a> to the screenshot."
+    },
+    {
+      "id": 35,
+      "author": "Robert",
+      "url": null,
+      "date": "2004-03-29T12:39:32",
+      "body": "This looks awesome.  Can't wait."
+    },
+    {
+      "id": 36,
+      "author": "David",
+      "url": null,
+      "date": "2004-03-29T21:44:29",
+      "body": "Agreed.  I just switched to Thunderbird but will feel more comfortable with it once this theme is out to make it look more Mac-like. :)"
+    },
+    {
+      "id": 37,
+      "author": "Jan Brasna",
+      "url": null,
+      "date": "2004-04-01T10:43:32",
+      "body": "Yummy, that's awesome!! Been waiting for this..."
+    },
+    {
+      "id": 38,
+      "author": "ClosetOSXer",
+      "url": null,
+      "date": "2004-05-04T01:20:08",
+      "body": "So *when* do we get this for XP?  Share the love!\n\nSeriously, something this nice should be the default for the apps in general.  Not a big fan of the current Windows default themes.  Using LeBreeze for Firefox and Thunderbird currently."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Blogzilla - a blog about Mozilla",
+      "title": "Firefox Pinstripe",
+      "url": null,
+      "date": "2004-02-11T13:51:42",
+      "excerpt": "The default Pinstripe Theme for Mozilla Firebird on OSX is more breathtaking than a hot pocket. On the horizon is Pinstripe for Thunderbird and it looks very promising as well. Some really great work by Kevin Gerich. As mentioned on the Pinstripe Abou..."
+    },
+    {
+      "id": 2,
+      "site": "Ross Notes",
+      "title": "Firefox!",
+      "url": null,
+      "date": "2004-02-15T19:11:22",
+      "excerpt": "If you've previously been disappointed in the look and feel of previous Mozilla/Phoenix/Firebird/Thunderbird releases on OS X, stop wasting your time with Ross Notes and start downloading Firefox. Feel free to come back to Ross Notes when your done wit..."
+    },
+    {
+      "id": 3,
+      "site": "Life as it Comes",
+      "title": "Mac Mozilla Themes",
+      "url": null,
+      "date": "2004-02-17T15:39:54",
+      "excerpt": "Kevin Gerich has delightful screenshots of the new Pinstripe UI for both Firefox and Thunderbird (not yet completed) on his site...."
+    },
+    {
+      "id": 4,
+      "site": "adot's notblog*",
+      "title": "aks asa and he responds (eventually)",
+      "url": null,
+      "date": "2004-03-22T01:44:50",
+      "excerpt": "Here it is, another installment of the amazing blog sensation, \"Ask Asa\" ;-) Adam Hauner asks, \"Will be crash analysis data of 1.7b available again on ftp://ftp.mozilla.org/pub/mozilla.org/data/crash-data/?\" Adam, we'll be doing pretty well if we can j..."
+    }
+  ]
+}

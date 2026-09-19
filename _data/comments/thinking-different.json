@@ -1,0 +1,54 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Ben Goodger",
+      "url": null,
+      "date": "2005-01-31T17:39:52",
+      "body": "Good lord. Let me know when you go screaming back to OS X :-P"
+    },
+    {
+      "id": 2,
+      "author": "Neil T.",
+      "url": null,
+      "date": "2005-01-31T18:25:48",
+      "body": "Ubuntu is pretty good, but I wish they'd get some newer stable builds of Firefox and Thunderbird out for it. Personally I still find I'm spending 99% of my time in Windows right now. But I am hoping to get a Mac Mini later this year :)"
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-31T22:17:07",
+      "body": "You can get Firefox 1.0 and Thunderbird 1.0 from <a href=\"http://ubuntu-bp.sourceforge.net/\" rel=\"nofollow ugc\">Warty Backports</a>"
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-01-31T22:20:27",
+      "body": "I dual boot as well. There are one or two things I use Windows for, including testing Winstripe. But I tried the latest beta version of VMware workstation yesterday and XP seems to perform better in the VM than on the separate partition."
+    },
+    {
+      "id": 5,
+      "author": "minghong",
+      "url": null,
+      "date": "2005-02-01T02:01:34",
+      "body": "Hi! Just FYI, you <a href=\"http://kmgerich.com/archive/000085.html\" rel=\"nofollow ugc\">double posted</a>. And when did the anchor element gained a new attribute \"hrref\"? :-P"
+    },
+    {
+      "id": 6,
+      "author": "Kevin",
+      "url": null,
+      "date": "2005-02-01T08:05:48",
+      "body": "thanks minghong :) fixed"
+    },
+    {
+      "id": 7,
+      "author": "Robert Accettura",
+      "url": null,
+      "date": "2005-02-01T23:22:30",
+      "body": "Enjoy that.\n\nI had to get a Thinkpad A31 for school.... and I soooo miss my mac :-(\n\nI can't wait to make this my spare and have a nice shiny sexy Mac running OS X."
+    }
+  ],
+  "trackbacks": []
+}

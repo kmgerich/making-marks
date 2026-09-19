@@ -1,0 +1,63 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-05-03T15:37:59",
+      "body": "I'm using the vertical view all the time now. Superb job on the pinstripe theme - its even better than Firefox!"
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-05-03T15:51:19",
+      "body": "Thanks Jon. One of the things Stephen and I found when we dove into the Thunderbird theme is that there are a lot more bits. Firefox's interface is simple by comparison. We were both kind of burnt out on the icons after going back and forth on them for months."
+    },
+    {
+      "id": 3,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-05-04T05:07:28",
+      "body": "I can imagine, it looks like a huge undertaking. Anyway, you can be content that you chaps got it absolutely right!"
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-05-04T07:07:38",
+      "body": "That fiver I promised you is in the mail Jon :)"
+    },
+    {
+      "id": 5,
+      "author": "Andrew Treloar",
+      "url": null,
+      "date": "2004-05-05T22:57:57",
+      "body": "Any update on providing icons for the offline folder selection dialog? I have to switch to an alternative theme to see what I have selected for offline sync, which is a bit of a bore..."
+    },
+    {
+      "id": 6,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-06-15T13:16:58",
+      "body": "I really like the TB pinstripe theme, and how you built it to be flexible with theme changes (e.g., Shapeshifter). The ONLY thing I wish the theme had was the lines connecting e-mails in a thread. Is there any easy way to add that (maybe via userchrome.css)?  Thanks!"
+    },
+    {
+      "id": 7,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-08-07T21:16:42",
+      "body": "Nearly two months and nothing on the thread lines? Does ANYONE know how to make those lines appear in TB pinstripe? Some users at Mozillazine suggested some userchrome modifications but those did nothing. Thanks again..."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Nilesh's Weblog",
+      "title": "The Fox and the open bag",
+      "url": null,
+      "date": "2004-06-07T02:05:37",
+      "excerpt": "The Firefox visual identity team has decided on changing the default theme of Firefox in preparation of the impending 1.0 release. As often in the open source community, this has caused some furor in the mozilla dev community with people taking sides w..."
+    }
+  ]
+}

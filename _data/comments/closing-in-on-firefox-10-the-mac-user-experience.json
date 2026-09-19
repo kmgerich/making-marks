@@ -1,0 +1,257 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Ludovic hirlimann",
+      "url": null,
+      "date": "2004-06-24T14:27:48",
+      "body": "The code used in Camino could not be used in FF. The goals of those projects are different. If you *need* native UI switch to camino"
+    },
+    {
+      "id": 2,
+      "author": "Jonathan Dobres",
+      "url": null,
+      "date": "2004-06-24T15:07:06",
+      "body": "I'm curious.  Does clicking on a link with the middle mouse button in Firefox OSX open that link in a new tab?  My friend is an OSX user and says that it doesn't work, and I was wondeirng if it was just him.  I find this feature indispensible.  It'd be a shame if it wasn't there on Mac."
+    },
+    {
+      "id": 3,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-06-24T15:07:53",
+      "body": "I'm with you for all of these, although it's amazing how much you've done already with pinstripe.\n\nThe native menus and widgets are my particular bugbear, although, I was always under the impression that Camino faked the native widgets with the browser view? Therefore making it possible for it to happen in Firefox.\n\nOne more thing for the list, and Its an easy one! Can we have new icons for the 'loading image' and 'broken image' that live the 'Res' folder? They look so out of place with the gorgeous pinstripe theme."
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-24T15:47:01",
+      "body": "Sure Firefox and Camino have differnet goals. Camino is the real thing. Firefox fakes it. But that doesn't mean Firefox can't fake it well ;)\n\nAFAIK, the code that draws the native widgets is not specific to Camino. Look at <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=188254\" rel=\"nofollow ugc\">Bug 188254</a>. From reading the comments, it seems as if this code could work for carbon apps. There was actually a way to force natively drawn widgets in Mac Mozilla a long time ago with a bit of hackery but all traces have been removed.\n\n<a href=\"http://mozdev.org/pipermail/camino/2004-January/001323.html\" rel=\"nofollow ugc\">Exhibit B</a>: <a href=\"http://weblogs.mozillazine.org/pinkerton/\" rel=\"nofollow ugc\">Mike Pinkerton</a> wrote about a checkin made in January to Firebird:\n\n<blockquote>\ntheir plan is to eventually switch all of mozilla onto the cocoa widget layer so we only have to maintain one and not two widget layers on the mac. this really won't make fb and more or less of a mac browser, just makes the architecture a little more up to date and easier to work with. There shouldn't be any visible side effect, except now they'll share our bugs with NSQuickdrawView.\n</blockquote>\n\nI'd love to know where all this stands.."
+    },
+    {
+      "id": 5,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-24T15:53:50",
+      "body": "Jonathan, I think middle-clicking will be fixed soon. Here's <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=151249\" rel=\"nofollow ugc\"> a link to the bug report</a>. it has a patch waiting to be checked in!"
+    },
+    {
+      "id": 6,
+      "author": "DoS",
+      "url": null,
+      "date": "2004-06-24T17:53:47",
+      "body": "How can you say that now you need to worry with Mac?! What about Winstripe? When Pinstripe is happy, colorful and nice, Winstripe is crying, and so do Firefox users..."
+    },
+    {
+      "id": 7,
+      "author": "Andrew Dunning",
+      "url": null,
+      "date": "2004-06-24T19:55:35",
+      "body": "I definitely agree. For Mac users, it's the details that matter.\n\nOne thing you missed: Firefox (along with the App Suite) has the About item in the Help menu as well as the application menu. That's driven me crazy for quite some time."
+    },
+    {
+      "id": 8,
+      "author": "Mike",
+      "url": null,
+      "date": "2004-06-24T20:22:53",
+      "body": "Man, the things I'd care about if I had a Mac... I added two of these to the 1.0 Mac blockers list, since they're obvious.  I'm working on the modal/modeless/sheet stuff primarily on GNOME, but I think its mostly common stuff for Apple HIG so the work will be benefitting both."
+    },
+    {
+      "id": 9,
+      "author": "Robert Curtis",
+      "url": null,
+      "date": "2004-06-25T06:24:17",
+      "body": "I should love it if you could get all of those things fixed Kevin (not personally I know, but oversee it).\n\nHere's another:\n\n• A nice new icon for image/broken image."
+    },
+    {
+      "id": 10,
+      "author": "jup",
+      "url": null,
+      "date": "2004-06-25T07:35:30",
+      "body": "please no aqua buttons like in safari, i hate them, they are not skinable with css."
+    },
+    {
+      "id": 11,
+      "author": "Greg K Nicholson",
+      "url": null,
+      "date": "2004-06-25T09:45:17",
+      "body": "Firefox 1.0 for Windows will use native menus - http://bugzilla.mozilla.org/show_bug.cgi?id=243078 - so it seems likely that Firefox 1.0mac will."
+    },
+    {
+      "id": 12,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-25T11:08:44",
+      "body": "Good point Greg. I don't think that you can say that the Mac will necessarily get the same treatment, but I'm glad to see that addressing UI inconsistencies like this is a goal. Maybe I should start filing requests.."
+    },
+    {
+      "id": 13,
+      "author": "allen",
+      "url": null,
+      "date": "2004-06-25T13:27:36",
+      "body": "I agree about the native widgets, but my second biggest peeve is the way the green 'zoom' button always seems to massively oversize the Firefox window.\n\nTry this out: go to http://www.mozilla.org/products/firefox/ in Safari, manually shrink the window so it's really small, then hit zoom. On my machine, the window is resized to fill the screen vertically (since the page is longer than the screen is high), but it's only 800 pixels wide, which is the optimum width (i.e. the smallest width at which all contents fit horizontally and there is no need for horizontal scrolling).\n\nIf you do the same thing with Firefox, the window is again resized to fill the screen vertically, but it's a massive 1152 pixels wide (I think this figure may be some function of the display's resolution, so it may vary on your Mac - I use a 1280x854 15\" PB). That is far wider than the window needs to be.\n\nIf I wanted applications to fill my screen, I'd use Windows. I like my apps to take up as much real estate as necessary and no more. Safari does this perfectly: I can use another app side-by-side. To non-Mac users (or Mac users that don't use the zoom much) I'm sure this seems trivial - but to me it's a major reason why I use Safari over Firefox on OS X."
+    },
+    {
+      "id": 14,
+      "author": "Michael",
+      "url": null,
+      "date": "2004-06-25T15:36:21",
+      "body": "And for the love of everything that is holy, why is there still a hidden window? It shows up when you have FF running and you Exposé all open windows. It comes rolling in from the left.\n\nThat, and the widgets, is the primary reason I don't use FF on OS X."
+    },
+    {
+      "id": 15,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-25T15:54:20",
+      "body": "The hidden window needs to be there to keep the application open when all the normal windows are closed. You're right Michael, it shouldn't appear in Exposé. Here's <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=223779\" rel=\"nofollow ugc\">the bug report</a> and it has been marked for Firefox 1.0."
+    },
+    {
+      "id": 16,
+      "author": "ts",
+      "url": null,
+      "date": "2004-06-26T14:38:16",
+      "body": "What me annoys is the fact that a help window can not be in backgrund when I switch to a \"browse\" window."
+    },
+    {
+      "id": 17,
+      "author": "Andrea",
+      "url": null,
+      "date": "2004-06-26T21:36:02",
+      "body": "Please, when you are at it, don't forget the Manage Bookmarks window toolbar, it is not customizable at all, when you right-click on it the popup menu doesn't show up, and you can't change the icon size to small. I'm not sure if that happens on windows too."
+    },
+    {
+      "id": 18,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-06-27T16:45:51",
+      "body": "Oh, and another thing. Any chance of getting the subtle white/grey stripes on things like the bookmark window / history sidebar?"
+    },
+    {
+      "id": 19,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-06-27T18:59:25",
+      "body": "Hmm .. I'm not sure what you mean Jon. Care to elaborate? :)"
+    },
+    {
+      "id": 20,
+      "author": "Hendrik",
+      "url": null,
+      "date": "2004-06-27T22:20:23",
+      "body": "Maybe i'm the only one seeing this, but what annoys me is that command-clicking on the toggle toolbar-button in firebird (and seamonkey) does have the same effect as a normal click.\n\ncommand clicking should change the size of the buttons. (Try in Camino/Any other cocoa app)"
+    },
+    {
+      "id": 21,
+      "author": "ts",
+      "url": null,
+      "date": "2004-06-28T03:54:33",
+      "body": "Hendrik: This has nothing to do with cocoa or not. It is just there with every app which has a native toolbar (I wrote a carbon app which has the same behaviour).\n\nThis issue is only there because there is no native toolbar (and the existing one looks very strange when using non default themes).\n\nAdditionally I would like to get rid of these toolbar buttons when the window has no toolbar (e.g. Page Info)."
+    },
+    {
+      "id": 22,
+      "author": "martin",
+      "url": null,
+      "date": "2004-06-29T09:25:53",
+      "body": "The backspace key does not move back to previous page in Mac. Does on windows... with that and mouse gestures never working for me, it is very difficult to switch to Firefox full-time on Mac."
+    },
+    {
+      "id": 23,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2004-06-29T12:05:49",
+      "body": "\"Hmm .. I'm not sure what you mean Jon. Care to elaborate? :)\"\n\nKevin, if you look in iTunes, Safari's bookmark manager or even Firefox's download manager, each entry row is an alternating white/light grey background colour. Its one of those little OS X touches that really makes the interface shine. I'd love to see that in the sidebar and the bookmark manager.\n\nDo you know what I mean?"
+    },
+    {
+      "id": 24,
+      "author": "Nathan Gray",
+      "url": null,
+      "date": "2004-06-29T14:36:48",
+      "body": "The biggest annoyance to me on the Mac platform is the abuse of sheets.  Sheets are *not* meant to be used for every modal dialog!  They're only supposed to be used for dialogs that are both modal *and* only affect one window.  They're meant to solve the problem of, for example, forgetting which browser window an error pop-up refers to.\n\nIn particular, note that the preferences dialog does *not* qualify for sheet treatment -- it affects the entire application, not just one window!  This is why Safari, Mail.app, and the rest of the Apple suite don't use sheets for preferences dialogs."
+    },
+    {
+      "id": 25,
+      "author": "Xian",
+      "url": null,
+      "date": "2004-06-29T14:39:58",
+      "body": "My biggest problem with FireFox (and Camino) MacUI wise is their non-Cocoa text fields. This applies to  inputs, textareas, the address bar + etc. OS X has some great default text handling features. It has built in ctrl-key text navigation short cuts (which can be extended any way you please [1]) and once you get used to using the same keyboard commands everything from Emacs to the terminal to Mail to safari it's annoying when you press ctrl-a and all it does is beep at you.\n\n[1] http://www.gnufoo.org/macosx/#emacs"
+    },
+    {
+      "id": 26,
+      "author": "Marc Poirier",
+      "url": null,
+      "date": "2004-07-02T10:13:48",
+      "body": "I certainly certainly agree with the desire for native widgets and menus, but I will just add another reason for them:  accessibility.  Currently, Firefox is terrible with accessbility in dialogs and menus.  The Mac system widgets have this solved in a standard way, so Firefox needs to use them to gain the standard keyboard accessibility for widgets and menus."
+    },
+    {
+      "id": 27,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-07-02T10:55:41",
+      "body": "Unfortunately truly native widgets will probably not come to Firefox unless some enterprising hacker wants to do it. Camino doesn't even have truly native form widgets. I think the best we can do for the short term is draw the widgets based on the OS theme. See <a href=\"http://ocallahan.org/mozilla/why-no-native-widgets.html\" rel=\"nofollow ugc\">http://ocallahan.org/mozilla/why-no-native-widgets.html</a>"
+    },
+    {
+      "id": 28,
+      "author": "Marc Poirier",
+      "url": null,
+      "date": "2004-07-02T11:33:27",
+      "body": "I can only speak for myself and not others who have commented, but I know that I was not talking about native widgets within web rendering but within dialogs, non-browser windows (bookbmarks, history, etc.), toolbars, preferences, etc.  Basically, everything <i>but</i> the browser's web page rendering.  The article that you link seems to be about native widgets <i>only</i> in web rendering.  I can understand the argument that the author is making there, but I don't think that it applies to anything that I am asking for."
+    },
+    {
+      "id": 29,
+      "author": "Neil",
+      "url": null,
+      "date": "2004-07-09T22:38:27",
+      "body": "I just opened a bug to address another issue with the Mac OS X version of Firefox that I find a wee bit annoying - the fact that command + period doesn't cancel actions as it does in other Mac OS X browsers / applications.\n\nThe main place I see this is when I try to stop a page from loading by hitting command+period. In Safari, Omniweb, Opera, iCab, and IE this works - the page stops loading. Firefox ignores the key command.\n\nhttp://bugzilla.mozilla.org/show_bug.cgi?id=250702"
+    },
+    {
+      "id": 30,
+      "author": "dzd",
+      "url": null,
+      "date": "2004-08-04T23:12:32",
+      "body": "\"How can you say that now you need to worry with Mac?!\"\nYou Windows people are used to having crappy interfaces. Plus you can always install Qute."
+    },
+    {
+      "id": 31,
+      "author": "Josh S",
+      "url": null,
+      "date": "2004-08-11T10:42:31",
+      "body": "I really wish Firefox 1.0 would have the favicons in the Bookmarks menu.  It's there in windows, and it's the one feature I really miss.  Easier to find things and you mind organizes them easier by icon."
+    },
+    {
+      "id": 32,
+      "author": "macfixer",
+      "url": null,
+      "date": "2004-08-20T08:53:47",
+      "body": "On FF for Windows, there is a little pop-up \"your downloads are complete\" dialog. I know it's not 100% mac-like, but I *really* miss it on the Mac.\n\nAny chance this could be added?\n\n//k"
+    },
+    {
+      "id": 33,
+      "author": "Xenedar",
+      "url": null,
+      "date": "2004-10-05T14:41:38",
+      "body": "Re: Re-orienting preferences window toolbar.\nAFAIK, there is no Apple HIG that says that the toolbar has to be horizontal. In fact, I don't mind Firefox's preferences window toolbar at all. It's colorful and it's easy to follow.\n\nI'd probably put a redesign of the layout (and in particular fitting all the preferences sub-categories and sub-sub-categories - all those disclosure triangles - into the window without generating scrollbars) ahead of a toolbar redesign. I mean, some developers have taken that appearance on for their applications (Camino, RealPlayer 10, Proteus, etc), but Microsoft Word's Preferences dialog (for example) isn't regarded as being contrary to Aqua guidelines, is it?"
+    },
+    {
+      "id": 34,
+      "author": "Peter da Silva",
+      "url": null,
+      "date": "2004-10-28T15:32:56",
+      "body": "Native widgets and native menus: yes, at least in the default theme.\n\nMaximise: you need to call [NSScreen visibleFrame] and clip the resize to the result if you're not going to just do a vertical zoom. Let my docklet breathe!\n\nI'd also like to see the default theme use less aggressively rounded tabs, if that's possible. These ones have a definite \"Commodore 64\" feel."
+    },
+    {
+      "id": 35,
+      "author": "Peter Hammer",
+      "url": null,
+      "date": "2004-11-12T16:26:16",
+      "body": "For the longest time my barrier to entry in the Firefox arena for Mac was the lack of an import wizard for Safari. I had already stored everything in Safari (passwords, favorites, etc...) and not having them on Firefox, kept me from using it for a long time. One day Safari finally annoyed me and I switched manually - not too much of a hassle, and also easily scripted using Applescript - but also too much work for the average Joe using a mac."
+    },
+    {
+      "id": 36,
+      "author": "Kesh",
+      "url": null,
+      "date": "2004-11-14T21:59:04",
+      "body": "It's not a matter of using an import wizard. Rather, Firefox doesn't take advantage of the Mac's Keychain, while Safari does. That's the only serious complaint I have about FF."
+    }
+  ],
+  "trackbacks": []
+}

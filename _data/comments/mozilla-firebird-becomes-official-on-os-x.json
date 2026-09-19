@@ -1,0 +1,54 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Ryan Rafferty",
+      "url": null,
+      "date": "2003-05-05T18:34:12",
+      "body": "You did a great job with your pheonix build, and I look forward to your new pinstripe theme... it really makes Mozilla on OS X feel like it belongs.\n\nThe problem with the official firebird release is that it doesn't follow OS X interface guidelines, I'm also not a huge fan of the icon. I hope you are able to persuade the Mozilla team to adopt your theme for 1.5- it would be a shame to see such a milestone with such little support for some very basic things in OS X."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-05-05T19:53:16",
+      "body": "You could vote for this bug if you'd like to help persuade people\n\n<a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=193052\" rel=\"nofollow ugc\">Replace existing Fizzilla Classic theme with Gerich's Pinstripe theme</a>\n\n:)"
+    },
+    {
+      "id": 3,
+      "author": "mog",
+      "url": null,
+      "date": "2003-05-07T02:06:01",
+      "body": "I can't tell it apart in my dock from plain old Mozilla. Now I have two Phoenix versions, yours and the official one. Not sure on the interface as I have my OS X skinned and the browser sortof fits but it needs better icons. So does Camino for that matter. Still trying out the official one."
+    },
+    {
+      "id": 4,
+      "author": "alex",
+      "url": null,
+      "date": "2003-05-08T22:13:08",
+      "body": "I hope to see mail icons at some point too - the standard icons stick out like a sore thumb with the elegant pinstripe theme. :)"
+    },
+    {
+      "id": 5,
+      "author": "Josh",
+      "url": null,
+      "date": "2003-05-18T09:09:04",
+      "body": "Although I never got the chance to use your unofficial port, thanks for doing it..."
+    },
+    {
+      "id": 6,
+      "author": "Neil",
+      "url": null,
+      "date": "2003-05-19T13:33:29",
+      "body": "Boy, now that there are official Firebird builds, I <em>really, really hope</em> that you get a Pinstripe theme out soon. I feel like I'm running a Windows XP program on my Mac, which is a bit discombobulating.\n\nAny news?"
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-05-20T04:54:24",
+      "body": "I have started bringing Pinstripe to Firebird, though I just got back from a trip to Virginia and haven't had much free time lately. I hope to do some work on it next weekend."
+    }
+  ],
+  "trackbacks": []
+}

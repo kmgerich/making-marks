@@ -22,9 +22,3 @@ The album suprised me in two ways. First, even though I’m learning to play the
 But my misgivings were unfounded. The sound of the album is wonderfully diverse, from the fiddle and banjo on Old Time Medley to the groove of a National steel mandolin (gotta get me one of those!) on Swamp Thing. Also most of the tracks are brand new compositions by Bush and Grisman. And did I mention the perfectly crisp sound of the recording? This album will be on my play list for a long time to come.
 
 B&N has some [audio clips](http://music.barnesandnoble.com/search/product.asp?userid=2V4NF7ZHFT&ean=715949105425), but I’d recommend buying directly from [Acoustic Disc](http://acousticdisc.com/acd_html/acd54.html) because more of the proceeds probably go directly to the artists, and it’s a few dollars cheaper.
-
-## Comments
-
-**** on 2004-12-02 00:57:05
-> You may find it interesting to visit the pages about- Tons of interesdting stuff!!!
-> 

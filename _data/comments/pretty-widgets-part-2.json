@@ -1,0 +1,365 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-09-16T16:59:45",
+      "body": "Very nice... These mods make for a much nicer FF/OSX experience!"
+    },
+    {
+      "id": 2,
+      "author": "Philip",
+      "url": null,
+      "date": "2004-09-16T17:02:34",
+      "body": "EDIT:\n\nFYI: I get no radio or checkbox in cnn.com's \"Quick vote\" area, about half-way down the page on the right."
+    },
+    {
+      "id": 3,
+      "author": "Daniel",
+      "url": null,
+      "date": "2004-09-16T18:16:21",
+      "body": "Very nice!  I noticed a problem with selected radio buttons though.  If you check a radio button with the mouse and the focus stays there, you don't see the radio_check.png image, but some weird place holder image.  It looks fine after the focus leaves the radio button though.  Check out my screen shot in the link below to see what I'm talking about.\n\nhttp://glazed.org/images/radio.pdf"
+    },
+    {
+      "id": 4,
+      "author": "Steven Garrity",
+      "url": null,
+      "date": "2004-09-16T18:28:28",
+      "body": "I'm not on a mac full-time, this is just a peripheral opinion, but I find when you can't use native widgets, it's best not to try to fake them either.\n\nThat's what I liked about the flydown, text input, and submit buttons here - they look good, but aren't odd fakes of real OS X controls. That said, I think the radio and checkboxes do suffer a bit from this - they look a lot like the real OS X controls, but a bit different. I'd rather see them take a more unique style until we can get the real native widgets in there."
+    },
+    {
+      "id": 5,
+      "author": "Cody",
+      "url": null,
+      "date": "2004-09-16T18:56:24",
+      "body": "wow, i'm liking it, I've been without a Mac for a whole month now, and every day just keeps making me miss the mac more and more, I can't wait to try this out when I get my mac back!  Finally Firefox gets a more macish feel on webpages"
+    },
+    {
+      "id": 6,
+      "author": "starwed",
+      "url": null,
+      "date": "2004-09-16T21:16:37",
+      "body": "It was just today I was reading through a bugzilla bug about select box borders.  Weird coincidence.\n\nAnyway, it was Bug 244370, and is now marked as fixed. :)\nhttp://bugzilla.mozilla.org/show_bug.cgi?id=244370"
+    },
+    {
+      "id": 7,
+      "author": "Aaron K",
+      "url": null,
+      "date": "2004-09-16T23:26:50",
+      "body": "I like it a lot, but is there any way to get rid of the blue border when you click on a link?"
+    },
+    {
+      "id": 8,
+      "author": "Ryan Rafferty",
+      "url": null,
+      "date": "2004-09-16T23:56:57",
+      "body": "These buttons are excellent! Thank-You! Maybe they can be added to Firefox if someone can program the old buttons to orrivide the nice ones when displaying a CSS that specifies special button attributes. Keep up the good work."
+    },
+    {
+      "id": 9,
+      "author": "Philippe",
+      "url": null,
+      "date": "2004-09-17T02:55:53",
+      "body": "One little bug I noticed: when a radio button has focus, it does display some additional border, hiding most of the background-image.\n\nI added to platform_forms.css:\nhtml|input[type=\"radio\"]:focus {\n\tborder:none !important;\n}"
+    },
+    {
+      "id": 10,
+      "author": "amake",
+      "url": null,
+      "date": "2004-09-17T09:16:35",
+      "body": "It wasn't clear to me that these widgets replace your previous ones specified in userChrome.css.  Maybe you should mention that."
+    },
+    {
+      "id": 11,
+      "author": "amake",
+      "url": null,
+      "date": "2004-09-17T09:18:43",
+      "body": "Oops, I mean userContent.css."
+    },
+    {
+      "id": 12,
+      "author": "Nooon",
+      "url": null,
+      "date": "2004-09-17T10:01:49",
+      "body": "Is there no way to still do this in usercontent.css?"
+    },
+    {
+      "id": 13,
+      "author": "~bc",
+      "url": null,
+      "date": "2004-09-17T10:19:40",
+      "body": "Hey, I took a look at that CNN radio button issue, it seems that you get the weird button only when the radio button is depressed, and still highlighted, eg, if you click on the radio button, then click elsewhere on the page (unhighlighting) the button then looks correct. So it's something to do with the focus."
+    },
+    {
+      "id": 14,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-09-17T19:42:39",
+      "body": "Quite right amake. Sorry about that. I'll put up a correction."
+    },
+    {
+      "id": 15,
+      "author": "kaz",
+      "url": null,
+      "date": "2004-09-18T05:04:44",
+      "body": "Thanks Kevin, for your great work. I'm impressed.\n\nHere's my customized version of your CSS, replacement PNGs, and my \"userChrome.css\" which improves buttons and fonts of  Firefox.app. I've archived all of the files as \"FirefoxSet.tar.gz\" so please check it out.\n\nhttp://pbx.homeunix.org/tpj/jam_log/files/article.php?id=38\n\nMy page is written in Japanese but I think you can figure it out."
+    },
+    {
+      "id": 16,
+      "author": "Philippe",
+      "url": null,
+      "date": "2004-09-18T12:20:59",
+      "body": "I've also been working a bit more on this, based on what I had done a month ago. I think I've made some more improvements to the stylesheet (fixing the aforementioned problems with radio buttons, adding a real focussing ring on input fields and textarea, set foreground/background colours on all widgets, ... ).\n\nhttp://emps.l-c-n.com/articles/63/form-widgets-2\n\nOne slight problem I have atm is the lack of focus ring around submit buttons. I have to investigate that further."
+    },
+    {
+      "id": 17,
+      "author": "kaz",
+      "url": null,
+      "date": "2004-09-18T20:50:50",
+      "body": "Inspired by Phillippe's widgets, I've created  improved version:\n\nhttp://pbx.homeunix.org/tpj/jam_log/files/article.php?id=39\n\nI've replaced the backgraound image for the buttons and also added \"Focused\" background.\n\nI think Select buttons look nicer without backgound-color, so I set it to \"transparent\" so it will displayed with Aqua background."
+    },
+    {
+      "id": 18,
+      "author": "Ernst Persson",
+      "url": null,
+      "date": "2004-09-20T08:49:24",
+      "body": "Firefox for Linux DESPERATELY needs something like this. How about a Bluecurve one?"
+    },
+    {
+      "id": 19,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-09-20T10:48:44",
+      "body": "I thought Mozilla styled the HTML widgets using the GTK theme on Linux?"
+    },
+    {
+      "id": 20,
+      "author": "Ernst Persson",
+      "url": null,
+      "date": "2004-09-20T13:04:19",
+      "body": "No, only scrollbars and XUL, not HTML widgets.\n\nThis is the default look: (specially the buttons are ugly..)\nhttp://zapp.no-ip.com/images/ffold.png\n\nAnd this is my first attempt to make your theme look like Bluecurve:\nhttp://zapp.no-ip.com/images/ffnew.png\n\nIt's avaliable here if someone wants to try it or improve it:\nhttp://zapp.no-ip.com/linux/BlueFox.tar\n\nOne should make a whole theme pack for Bluecurve like this, only with styled html widgets also:\nhttp://primates.ximian.com/~glesage/stuff/firefox/"
+    },
+    {
+      "id": 21,
+      "author": "Ernst Persson",
+      "url": null,
+      "date": "2004-09-20T13:07:23",
+      "body": "And the reason why they don't use GTK style is of cource the difference between the \"Sök\" buttons (in the lower right) on the two screenshots."
+    },
+    {
+      "id": 22,
+      "author": "Uri Bernstein",
+      "url": null,
+      "date": "2004-09-30T11:48:07",
+      "body": "These sure look nice!\n\nKevin - I noticed that you decided to stick with the current font size for controls (13 px), which is larger than what Safari and Camino use.\nCan you please have a quick look at bug 262191 (and bug 261346, which spawned it), and give your opinion? The bug will probably end up being closed as WONTFIX - but since you're working in this area I'd like to know that you are aware of it.\nThanks!"
+    },
+    {
+      "id": 23,
+      "author": "Joel Nelson",
+      "url": null,
+      "date": "2004-10-01T00:24:52",
+      "body": "Looks good!  I just wish this could be implemented in the actual Firefox builds so I wouldn't have to modify each nightly I download."
+    },
+    {
+      "id": 24,
+      "author": "Dan",
+      "url": null,
+      "date": "2004-10-06T12:36:40",
+      "body": "I can't seem to get rid of the issue of when a radio button has focus, it displays an additional border."
+    },
+    {
+      "id": 25,
+      "author": "Jonathan Horak",
+      "url": null,
+      "date": "2004-10-16T11:50:48",
+      "body": "Kevin, you've done a great job and a service to the Mac/Firefox community)!\n\nTwo minor issues that maybe someone can provide solutions so I can drop: 1) the extra border on focused radio buttons and 2) the blue borders that are created when clicking on links."
+    },
+    {
+      "id": 26,
+      "author": "thomnas",
+      "url": null,
+      "date": "2004-10-18T17:37:20",
+      "body": "Good work... now what about loading images, broken images, things like that.  :)"
+    },
+    {
+      "id": 27,
+      "author": "hank roberts",
+      "url": null,
+      "date": "2004-10-28T11:38:58",
+      "body": "This was just mentioned at Burningedge -- first I've come across the info somehow, and delighted to find this page.  Thanks."
+    },
+    {
+      "id": 28,
+      "author": "amake",
+      "url": null,
+      "date": "2004-11-06T05:17:29",
+      "body": "I created an app to apply these widgets via drag-and-drop.  Check out <a href=\"http://www.macupdate.com/info.php/id/16118\" rel=\"nofollow ugc\">Firefoxy</a>."
+    },
+    {
+      "id": 29,
+      "author": "Terence Tan",
+      "url": null,
+      "date": "2004-11-14T19:22:21",
+      "body": "Just for the hell of it, I tried this mod on Firefox on my work PC (hey, my Mac is at home). It doesn't look bad under Windows! The only problem is, whilst a control has focus, its border disappears (probably due to -moz-mac-focusring).\n\nI'm not suggesting that you should actually do one for Windows, of course, just that somebody here was crazy enough to see what would happen."
+    },
+    {
+      "id": 30,
+      "author": "Simon G",
+      "url": null,
+      "date": "2004-11-20T08:58:01",
+      "body": "Nice work - but a small problem with ecommerce apps. Disabled buttons no longer are displayed as disabled - they look like regular enabled buttons. A small (and no doubt minor update), but without it, I can't use Pretty Widgets (especially in my corporate intranet)."
+    },
+    {
+      "id": 31,
+      "author": "Philippe",
+      "url": null,
+      "date": "2004-12-02T22:03:34",
+      "body": "Aaaaack... This doesn't work at all any more using the latest nightly builds (20041202), based on Trunk. platform-form.css isn't recognised at all. I managed to get it partly working by moving everything into userContent.css. Works, sort of. Only thing that doesn't work is the styling of the radio buttons and checkboxes."
+    },
+    {
+      "id": 32,
+      "author": "sk",
+      "url": null,
+      "date": "2004-12-03T21:16:41",
+      "body": "Is there any work being done to have native widgets in firefox?  I cant seem to find a definitvie answer whether this work is something that's being done or going to be done."
+    },
+    {
+      "id": 33,
+      "author": "Hilda",
+      "url": null,
+      "date": "2004-12-09T04:38:20",
+      "body": "<a href=\"http://shop.allago.de/zeichenschablone.asp\" rel=\"nofollow ugc\">Zeichenschablone</a> <a href=\"http://shop.allago.de/schneidemaschinen.asp\" rel=\"nofollow ugc\">Schneidemaschinen</a> <a href=\"http://shop.allago.de/buerobedarf.asp\" rel=\"nofollow ugc\">Bürobedarf</a> <a href=\"http://shop.allago.de/schreibmaschine.asp\" rel=\"nofollow ugc\">Schreibmaschine</a>"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "atariboy blog: no such thing as no such thing",
+      "title": "purdy widgets for firefox",
+      "url": null,
+      "date": "2004-09-17T02:34:38",
+      "excerpt": "I got sick of safari being slow on some sites (especially bloglines.com) and when I tried the firefox Preview Release..."
+    },
+    {
+      "id": 2,
+      "site": "elblogg",
+      "title": "More hot widgets",
+      "url": null,
+      "date": "2004-09-17T10:04:18",
+      "excerpt": "Kevin Gerich have released another set of nice widgets for Mozilla. It is a continued version of the last set, wich now also has radio-buttons and checkboxes in mac-style. If you have a mac, grab them at his blog I..."
+    },
+    {
+      "id": 3,
+      "site": "Blogzilla - a weblog about Mozilla",
+      "title": "Apple-icious Widgets for Mozilla Firefox",
+      "url": null,
+      "date": "2004-09-19T00:07:32",
+      "excerpt": "Kevin Gerich, who brought Pinstripe to Mozilla Firefox on Mac OSX, is busy with brilliance, again. He's forging form widgets for Mozilla Firefox which'll appear more \"presentable\" — i.e. Apple-icious. Ben Goodger has already offered to pull the e..."
+    },
+    {
+      "id": 4,
+      "site": "Skyzyx.com - Sidebar",
+      "title": "Pretty Firefox Form Widgets in OSX",
+      "url": "http://kmgerich.com/archive/000072.html",
+      "date": "2004-09-19T09:26:02",
+      "excerpt": "Pretty Firefox Form Widgets in OSX..."
+    },
+    {
+      "id": 5,
+      "site": "d-_-b hli.be",
+      "title": "Firefox Pretty Widgets",
+      "url": null,
+      "date": "2004-09-19T12:43:08",
+      "excerpt": "Pour tous ceux qui ont un Mac et trouvent affreux les contrôles de formulaires utilisés par Firefox, Kevin Gerich nous offre une modification de ceux-ci qui donne vraiment pas mal. Le set a été modifié et packagé par Kaz pour un rendu encore meil..."
+    },
+    {
+      "id": 6,
+      "site": "Linuxart",
+      "title": "Firefox forms (work-in-progress)",
+      "url": null,
+      "date": "2004-09-22T10:49:37",
+      "excerpt": "Based on Kevin Gerich's forms work (and others), I have put together something that makes unstyled HTML forms look like Industrial widgets.\n\n\nFirefox forms, mostly like Industrial\n\nAt the moment, this doesn't work with everything, things aren't..."
+    },
+    {
+      "id": 7,
+      "site": "A View From Home",
+      "title": "Beautiful Firefox form widgets!",
+      "url": null,
+      "date": "2004-09-29T18:45:44",
+      "excerpt": "As much as I love using Firefox on the PC, I had been holding out making it the default browser on my Macs. The main reason? Form widgets. By default, the form widgets (check boxes, radio buttons, text fields,..."
+    },
+    {
+      "id": 8,
+      "site": "VERSIONARY::BLOG",
+      "title": "firefox os x tricks",
+      "url": null,
+      "date": "2004-10-29T23:03:56",
+      "excerpt": "These two tricks have made my os x firefox experience much better so I thought i'd pass them along. Use..."
+    },
+    {
+      "id": 9,
+      "site": "BeatnikPad: Journal",
+      "title": "Optimized Firefox build for G5",
+      "url": null,
+      "date": "2004-11-06T19:54:45",
+      "excerpt": "I built a Mac G5-optimized version of the Mozilla Firefox browser."
+    },
+    {
+      "id": 10,
+      "site": "CocoaBlog",
+      "title": "Optimized Firefox for the Apple G5 processor",
+      "url": null,
+      "date": "2004-11-07T00:00:42",
+      "excerpt": "(I originally posted this elsewhere, but thought someone here might be interested...) For the past two weeks or so I have been running a totally kick-ass nightly build of the Mozilla Firefox web browser optimized for the Powerbook G4 processor...."
+    },
+    {
+      "id": 11,
+      "site": "3332／ブログ式",
+      "title": "Firefoxを改造する。",
+      "url": null,
+      "date": "2004-11-12T14:32:01",
+      "excerpt": "先日、Firefoxの推奨バナーを作ってみたが、お使いいただいた、お気楽主婦のねっと生活さんのコメントに素敵な情報があったので、こちらにもリンクを貼らせていただきます。情報提供..."
+    },
+    {
+      "id": 12,
+      "site": "Egon's Blog",
+      "title": "Prettier Form Widgets in Firefox on Mac",
+      "url": null,
+      "date": "2004-11-15T02:31:32",
+      "excerpt": "Firefoxy 1.1 has just been released that allows you to easily change the widgets used on the mac firefox to the a much prettier set. The new widgets look like this: And are easily applied by dragging your firefox..."
+    },
+    {
+      "id": 13,
+      "site": "All the Pages are My Days",
+      "title": "G5 Optimized Firefox",
+      "url": null,
+      "date": "2004-11-18T01:02:09",
+      "excerpt": "First, if you aren't using Firefox as your primary browser, why not? It works better than Internet Explorer, it's free,..."
+    },
+    {
+      "id": 14,
+      "site": "pics and titbits",
+      "title": "Mac Firefox",
+      "url": null,
+      "date": "2004-11-23T10:19:35",
+      "excerpt": "Compared to the Safari browser, Firefox's default theme and widgets are pale in comparison. Replace the default theme with Aronnax's GrApple and get Kevin Gerich's polished widgets for a prettier interface. Remember to make a backup copy of Firefox bef..."
+    },
+    {
+      "id": 15,
+      "site": "PD",
+      "title": "Mac Tips",
+      "url": null,
+      "date": "2004-12-13T22:01:25",
+      "excerpt": "It finally happened. I stopped talking about it and bought a Powerbook. I won't get into how much better it is than my Windows laptop or desktop but rather here are a few tips/config settings/etc. that you may need to"
+    },
+    {
+      "id": 16,
+      "site": "pixelgraphix // Firefox",
+      "title": "Firefox im OSX Safari Look",
+      "url": null,
+      "date": "2004-12-30T13:24:31",
+      "excerpt": "Ran Aroussi hat ein Firefox Theme erstellt, das den Browser auf Mac OS X Systemen dem Aussehen von Safari anpasst. After reading two articles by Jon Hicks (1) “Safari style tabs for Firefox OS X” and (2) “Native (looking)..."
+    }
+  ]
+}

@@ -1,0 +1,1092 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Dan V. P. Christiansen",
+      "url": null,
+      "date": "2006-09-27T10:35:35",
+      "body": "*Very* nice upgrade. You should convince the Firefox developers to bundle this theme in Firefox 2.0. That would at least give people an option to have Firefox behave like a proper Mac application."
+    },
+    {
+      "id": 2,
+      "author": "Jacques",
+      "url": null,
+      "date": "2006-09-27T10:48:55",
+      "body": "These are the best tabs I've ever seen on a Firefox critter.\n\nI'll install it now.\n\nWill the Mozilla folks open their eyes and bundle your theme for the Mac community?\n\nThanks!!!!!"
+    },
+    {
+      "id": 3,
+      "author": "Jonathan Stanley",
+      "url": null,
+      "date": "2006-09-27T11:11:04",
+      "body": "Personal dislikings of OSX aside, those tabs are probably more \"native\" looking that actual native OSX tabs. :D"
+    },
+    {
+      "id": 4,
+      "author": "Håkan Waaara",
+      "url": null,
+      "date": "2006-09-27T11:19:43",
+      "body": "Looks awesome, Kevin!"
+    },
+    {
+      "id": 5,
+      "author": "jed",
+      "url": null,
+      "date": "2006-09-27T11:21:49",
+      "body": "Awesome.\n\nAny chance for a new winstripe for Linux/Windows.\n(I'm on Linux). I absolutely hate the new 2.0 theme."
+    },
+    {
+      "id": 6,
+      "author": "Mario",
+      "url": null,
+      "date": "2006-09-27T11:22:51",
+      "body": "They look very nice... i think it would look better if you could get a unified toolbar like camino."
+    },
+    {
+      "id": 7,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-09-27T12:00:55",
+      "body": "I think a true unified toolbar would be difficult to implement in XUL. Camino can do it because they use a Mac native UI. We tried to do a sort of pseudo-unified look with the gray gradient. That's probably the best a theme can do for now."
+    },
+    {
+      "id": 8,
+      "author": "José Jeria",
+      "url": null,
+      "date": "2006-09-27T12:02:32",
+      "body": "Looks really nice. Though one minor thing, the close button next to the favicon makes it look a bit crowded."
+    },
+    {
+      "id": 9,
+      "author": "Josh Hughes",
+      "url": null,
+      "date": "2006-09-27T12:08:44",
+      "body": "Looks very nice! Well done!\n\nMy one comment: The etching on inactive tabs looks a bit off when the text is longer than the tab (i.e. it finishes with an ellipsis)."
+    },
+    {
+      "id": 10,
+      "author": "Josh Hughes",
+      "url": null,
+      "date": "2006-09-27T12:43:10",
+      "body": "\"My one comment: The etching on inactive tabs looks a bit off when the text is longer than the tab (i.e. it finishes with an ellipsis).\"\n\nNevermind ;) I just realized I had some residual css in my userChrome that was throwing it off."
+    },
+    {
+      "id": 11,
+      "author": "Jon Hicks",
+      "url": null,
+      "date": "2006-09-27T13:38:00",
+      "body": "Wow. I think you're underselling yourselves with 20%! More like 80%! Seriously, this has gorgeous attention to detail - it's everything the official mac theme for FF2 isn't."
+    },
+    {
+      "id": 12,
+      "author": "Stephen Horlander",
+      "url": null,
+      "date": "2006-09-27T13:43:51",
+      "body": "He didn't even post a screenshot of the awesome sidebar ;)"
+    },
+    {
+      "id": 13,
+      "author": "Hanspeter",
+      "url": null,
+      "date": "2006-09-27T13:48:37",
+      "body": "ack! It hides my menu bar when I use it under OSX/X11."
+    },
+    {
+      "id": 14,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-09-27T13:52:53",
+      "body": "You run Firefox under OSX/X11?! That's crazy talk."
+    },
+    {
+      "id": 15,
+      "author": "Hanspeter",
+      "url": null,
+      "date": "2006-09-27T14:37:10",
+      "body": "I can ssh tunel to the Mac inside the school firewall to access internal web servers, which I can't connect to through the normal AppleTalk server connect to run the native Firefox.app.\n\nps.  the right side of the comment textbox hides  the last 4 characters (they do get typed in though).  This is on a normal OSX Firefox.  I'm guessing it's set at a width that's wider than the column it's contained in.  With Safari, the right half of the scrollbar is chopped off (supporting my idea)."
+    },
+    {
+      "id": 16,
+      "author": "TomL",
+      "url": null,
+      "date": "2006-09-27T15:51:41",
+      "body": "The tabs are great. Very nice. I have to say though, I have grown tired of the FF1.5 icon set and am enjoying the new icons in the default FF2.0 theme.\n\nThanks for the theme though! Nice work!"
+    },
+    {
+      "id": 17,
+      "author": "Nick Fagerlund",
+      "url": null,
+      "date": "2006-09-27T18:52:42",
+      "body": "Lordy, <em>yes.</em> THAT is what a 2.0 theme looks like.\n\nThe tab overflow controls need some more definition, including a greyed end-of-the-line state for the scrollboxes--file under \"rough edges.\" But never mind that for now: you've done some very good work, so thank you."
+    },
+    {
+      "id": 18,
+      "author": "Philippe",
+      "url": null,
+      "date": "2006-09-27T19:44:32",
+      "body": "icon size (large, small) check.\nclose button on the left. check.\nbackground on tabbar, bookmarkbar, toolbar. check.\n\nThis looks quite good !\n\nI'm not so enthusiast about the blueish glare on the active tab though. Greyish would be a lot smarter.\nThe use of bold font-face on the tabs is problematic. This makes East-Asian characters very hard to read.\n\nI think Arronax! has some serious competition here.\n\nPS - you shouldn't scale this textarea's width in ems. Part of it disappears for those older visitors who need larger font sizes."
+    },
+    {
+      "id": 19,
+      "author": "Jim Barraud",
+      "url": null,
+      "date": "2006-09-27T19:52:41",
+      "body": "Very nice. Vast improvement over what will be shipping with 2.0.\n\nWhy is it your not providing the default theme this time around?"
+    },
+    {
+      "id": 20,
+      "author": "Jim Barraud » Blog Archive » Firefox 2 RC1: If you want something done right…",
+      "url": null,
+      "date": "2006-09-27T20:02:03",
+      "body": "[...] But fear not, Kevin Gemerich, the man behind the default theme of Firefox 1.x has come to the rescue with an updated version of his Pinstripe classic. Should be considered a required install for anyone using FF2 on a Mac. [...]"
+    },
+    {
+      "id": 21,
+      "author": "Eric",
+      "url": null,
+      "date": "2006-09-27T21:44:13",
+      "body": "Looks great! One quibble though... when one uses 'small icons' in the toolbar, the gradient is not smooth into the tabs - there's a noticeable line at the top of each tab.\n\nOther than that, is there an easy way to make the default buttons in FF2 not look like crap?"
+    },
+    {
+      "id": 22,
+      "author": "Josh",
+      "url": null,
+      "date": "2006-09-27T22:16:19",
+      "body": "This is indeed a huge improvement.  I love the gradient in the toolbar -- it's such a small thing but it really makes a difference.  And yes, those sidebars are snazzy.\n\nMaybe a combination of this theme with the official 2.0 theme -- using the new icons (and fixing them) -- could be the official Mac theme?"
+    },
+    {
+      "id": 23,
+      "author": "jed",
+      "url": null,
+      "date": "2006-09-28T00:07:41",
+      "body": "Wow, just installed it, and it's even better than your screenshot :)\n\nI too however am seeing that odd issue with text boxes, including this box here. I wonder if it's a theme or Firefox 2 bug?\n\nSmall nitpick, I don't like the 'blue' color of the tab text background gradient either.. would look alot more sexy grey."
+    },
+    {
+      "id": 24,
+      "author": "Philippe",
+      "url": null,
+      "date": "2006-09-28T00:19:57",
+      "body": "A bug report...\nWhen navigating trees (like the left pane of the DomInspector, or in the bookmarks window), a click everywhere on a row highlights the whole row. I need to double-click on the little arrow to open up the tree. This doesn't happen with the default theme: click on the label in a row to highlight, click on the arrow to open.\n\nStrangely, that works fine in the sidebar (tested with the bookmarks sidebar).\n\nUsing the latest nightly BonEcho build."
+    },
+    {
+      "id": 25,
+      "author": "MechR",
+      "url": null,
+      "date": "2006-09-28T02:55:43",
+      "body": "Seconding the Win/Linux release request!  It looks beautiful :D"
+    },
+    {
+      "id": 26,
+      "author": "Martin",
+      "url": null,
+      "date": "2006-09-28T03:23:27",
+      "body": "I love this theme. Thanks!"
+    },
+    {
+      "id": 27,
+      "author": "clem",
+      "url": null,
+      "date": "2006-09-28T04:54:26",
+      "body": "Showing actual inactive tabs is just a waste of precious tab space IMO. I use middle-click to close tabs so have the close box disabled too. I use UNO along with the userchrome.css bit of Arranox's FF theme for UNO and a modified version of the old Safari Tabs userchrome hack and it works out pretty well for a unified toolbar look with more Mac-like tabs.\n\nhttp://img136.imageshack.us/my.php?image=picture1an3.png"
+    },
+    {
+      "id": 28,
+      "author": "ant",
+      "url": null,
+      "date": "2006-09-28T07:16:11",
+      "body": "Very nice. I just wish someone would make the Linux theme this good, instead of this obsession with dumbing it down with an IE7-like UI for Gnome."
+    },
+    {
+      "id": 29,
+      "author": "Nick Fagerlund",
+      "url": null,
+      "date": "2006-09-28T09:24:00",
+      "body": "I'm also getting some funny business with the bookmarks organizer, where I can't click the triangles to pop the folders open."
+    },
+    {
+      "id": 30,
+      "author": "Jay States",
+      "url": null,
+      "date": "2006-09-28T10:57:37",
+      "body": "WOW.... I just installed this theme.  The best theme for the mac.  Keep it up!"
+    },
+    {
+      "id": 31,
+      "author": "Jimmy",
+      "url": null,
+      "date": "2006-09-28T11:04:28",
+      "body": "The official Firefox 2 theme makes me sad. A big step in the wrong direction as far as I'm concerned.\n\nThis though, is awesome. It looks fantastic! Thank you. Now I don't have to be sad. :)"
+    },
+    {
+      "id": 32,
+      "author": "Glenn Watts",
+      "url": null,
+      "date": "2006-09-28T11:09:29",
+      "body": "Drooling...\n\nYou've totally outdone yourself!  Been using Pinstripe exclusively since its earliest days.  This release blew me away!"
+    },
+    {
+      "id": 33,
+      "author": "markpeak",
+      "url": null,
+      "date": "2006-09-28T12:07:14",
+      "body": "Could the magnify-glass search icon change to left-rotate (the same as blue Spotlight icon or Safari search icon)?"
+    },
+    {
+      "id": 34,
+      "author": "Firefox 2.0b2 (ick!) - MacNN Forums",
+      "url": null,
+      "date": "2006-09-28T14:48:31",
+      "body": "[...] Originally Posted by Lateralus For starters, Firefox really sticks out like a fish out of water in OS X. It just looks and feels like a really klunky port of a Windows/Linux application.      The updated Pinstripe theme might help out here: Pinstripe for Firefox: Now with 20% more Macintosh : pretty widgets [...]"
+    },
+    {
+      "id": 35,
+      "author": "The Journal of C.R.G. » Pinstripe for Firefox 2.0",
+      "url": null,
+      "date": "2006-09-28T19:17:26",
+      "body": "[...] Check out this awesome update of the classic Firefox theme for OS X users. It really makes Firefox fit in with OS X. Although I do not understand why one of the main developers of Firefox want us to install it. If he likes it so much, why isn&#8217;t it in Firefox 2.0? [...]"
+    },
+    {
+      "id": 36,
+      "author": "Mike M.",
+      "url": null,
+      "date": "2006-09-29T01:44:19",
+      "body": "Very nice! Personally I'd make just one change (well, two really, but they're related). The Go and Search buttons appear greyed out, even though they're available for use. Green for Go seems obvious enough, but I'm not sure what colour would be most appropriate for Search. Blue maybe, a la Spotlight?\n\nOther than that, it's magnificent and a LOT nicer to look at than the new 2.x default theme!"
+    },
+    {
+      "id": 37,
+      "author": "Mislav",
+      "url": null,
+      "date": "2006-09-29T08:52:28",
+      "body": "OK, I've installed this on Win (didn't read the fine print after \"requires Firefox 2.0RC1\"). It looks good (except for context menus, they're black), but it hides the menu bar. How to revert to default theme?"
+    },
+    {
+      "id": 38,
+      "author": "Mislav",
+      "url": null,
+      "date": "2006-09-29T09:29:26",
+      "body": "I found out. You can revert to default by removing a line from preferences.js file under \"general.skins\".\n\nFirefox will forget the selected skin and start with default.\n\nDefault FF2 theme may be ugly for you OS X users, but is not so ugly in general. Apart from being in very cold appearence, I (for one) like it."
+    },
+    {
+      "id": 39,
+      "author": "FirefoxRawx » Archive » Pinstripe Theme for Firefox2 on OS X",
+      "url": null,
+      "date": "2006-09-29T14:26:56",
+      "body": "[...] Mac users will appreciate this update of the classic Firefox Pinstripe theme for OS X, by Kevin Gerich. Very nice! [...]"
+    },
+    {
+      "id": 40,
+      "author": "Chris McLeod",
+      "url": null,
+      "date": "2006-09-29T17:18:25",
+      "body": "This is almost perfect, when used with <a href=\"http://gui.interacto.net/\" rel=\"nofollow ugc\">UNO</a>.\n\n\n\nAll it needs is a little tweaking of the active tab colours.\n\nI tried to modify things myself, but I get errors when trying to install the modified theme."
+    },
+    {
+      "id": 41,
+      "author": "Sumeet Singh » Archives » Firefox 2 RC 1 experience",
+      "url": null,
+      "date": "2006-09-30T00:38:14",
+      "body": "[...] I have been using Firefox 2.0 RC 1 ever since it was launched. Some of the in-built features such as spellcheck and session saver convinced me partially overlooking the pain of not being able to use del.icio.us plugin that I use the most. And then came the Pinstripe theme which convinced me completely to go for Firefox 2 RC 1, but the problem of the plugin not working was still bothering me somewhere. As I was looking for a tool similar to delicious plugin, I saw Nightly Tester Tool which enables you to install the extensions that are incompatible with the nightly builds of Firefox. So if you know your extension will work, or you are confident enough, go ahead and acquire Firefox 2 RC 1, Pinstripe theme and Nightly Tester Tool to get the best browsing experience. [...]"
+    },
+    {
+      "id": 42,
+      "author": "Filter for 30/9 2006 - Felt",
+      "url": null,
+      "date": "2006-09-30T03:46:51",
+      "body": "[...] pretty widgets: Pinstripe for Firefox: Now with 20% more Macintosh For when Firefox 2 is out. [...]"
+    },
+    {
+      "id": 43,
+      "author": "Will",
+      "url": null,
+      "date": "2006-09-30T21:09:23",
+      "body": "Contact me with your email address Kevin! I have a couple of screenshots you should look at."
+    },
+    {
+      "id": 44,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-09-30T21:23:57",
+      "body": "Hi Will, you can send me an email through the <a href=\"http://kmgerich.com/about#contact\" rel=\"nofollow ugc\">contact page</a>."
+    },
+    {
+      "id": 45,
+      "author": "Chris",
+      "url": null,
+      "date": "2006-09-30T22:51:04",
+      "body": "Great redesign. The only thing that has prevented my consistent use of firefox was the location of the close tab. Your version brings it much closer than 20% IMHO. I like that it gives me the safari feel/control without the brushed metal I detest. Your theme looks much cleaner, great work!"
+    },
+    {
+      "id": 46,
+      "author": "Tim",
+      "url": null,
+      "date": "2006-10-01T17:07:25",
+      "body": "Hey this tab-theme is really cool. Is this also available for 1.5 already or does one have to update to 2.0 ?"
+    },
+    {
+      "id": 47,
+      "author": "Aronnax",
+      "url": null,
+      "date": "2006-10-01T17:59:12",
+      "body": "Hi, Kevin\nI really like some big improvements, specially the the tab-text shadow and the changes in the download-manager\nAnd the focus state for the url and searchbars  are great work - the code looks very difficult and now really nice - many cool new features, love it ;-)\n\nMost of the design changes are not my taste, but i think this is not important.\nJon Hicks  has sad it already:  \"this has gorgeous attention to detail - it’s everything the official mac theme for FF2 isn’t.\"\n\nYour are still the most important guy for FF theme stuff ;-)\nand many, many thanks for all what you have done to support the Firefox community.\n\nRegards"
+    },
+    {
+      "id": 48,
+      "author": "David",
+      "url": null,
+      "date": "2006-10-01T19:57:55",
+      "body": "Thank you! I really dislike the new Firefox 2.0 theme, and I appreciate your work on this new version of Pinstripe."
+    },
+    {
+      "id": 49,
+      "author": "Tom",
+      "url": null,
+      "date": "2006-10-02T04:08:50",
+      "body": "I love the theme, but is there any way to reduce/remove the bluish tint on active tabs? This is the only remaining issue I have with the FF2.0 UI. Something seems very... off about the coloring."
+    },
+    {
+      "id": 50,
+      "author": "Jason",
+      "url": null,
+      "date": "2006-10-02T12:45:39",
+      "body": "To change the color of the tabs, use your favorite extraction tool on the theme jar file (mine's \"the unarchiver\").  Navigate to the global folder, find the tab graphics (you'll know them when you see them), edit them, then highlight all the files under the folder automatically created by the unarchiver, right-click and choose to create an archive.  Rename the archive from .zip to .jar and install.\n\n\nIt's a lot harder than it sounds. ;)\n\nGreat them, especially with UNO and a few userchrome mods.  Thanks."
+    },
+    {
+      "id": 51,
+      "author": "Jason",
+      "url": null,
+      "date": "2006-10-02T12:46:42",
+      "body": "I meant it's a lot \"easier\" than it sounds.  Doh!"
+    },
+    {
+      "id": 52,
+      "author": "onmac",
+      "url": null,
+      "date": "2006-10-03T11:39:55",
+      "body": "Wonderful theme\nvery macintosh!!!!"
+    },
+    {
+      "id": 53,
+      "author": "T.R. Fullhart",
+      "url": null,
+      "date": "2006-10-03T16:20:52",
+      "body": "Thank you very much. It seemed to me that the forward/back in the default theme were too small to hit and I didn't like that the home icon looked \"rusty\"."
+    },
+    {
+      "id": 54,
+      "author": "Albert",
+      "url": null,
+      "date": "2006-10-05T23:33:20",
+      "body": "This is fantastic. I enjoy it quite a lot over the standard FFX2 theme.\n\nAny reason you weren't working on the new default theme refresh btw?"
+    },
+    {
+      "id": 55,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-10-06T06:16:14",
+      "body": "<blockquote>Any reason you weren’t working on the new default theme refresh btw?</blockquote>\n\nOriginally my day job was leaving me with little free time to contribute to Firefox. These days I'm not interested in participating in the closed theme design process driven by Mozilla Corp. and their contractors."
+    },
+    {
+      "id": 56,
+      "author": "Albert",
+      "url": null,
+      "date": "2006-10-07T16:37:32",
+      "body": "Well, thanks for your effort all the same.  I hope you keep Pinstripe updated for 2.0 and beyond, this looks great :)"
+    },
+    {
+      "id": 57,
+      "author": "joe",
+      "url": null,
+      "date": "2006-10-09T15:12:42",
+      "body": "thank god. the new 2.0 theme icons are so dull and lame. this is the best mac theme i've ever used. like the sharp tabs."
+    },
+    {
+      "id": 58,
+      "author": "Geoffrey L. Wright",
+      "url": null,
+      "date": "2006-10-11T00:31:57",
+      "body": "_beautiful_ work, and many thanks.  FF is a necessity for my job (web development), but sometimes it feels frustratingly alien on OS X.  Your theme makes a big dent in this issue.  (And oh my lord is the FF2 default Mac theme a big step back!)\n\nI hope you reconsider working with the Mozilla folks on the default Mac theme -- if only so the majority of Mac FF users get the benefit of your excellent work.\n\nAnd any case -- I wish you all the best.  I spend a lot of my life (too much, probably) looking at the world through a browser.  Your work makes it a prettier picture...  :)"
+    },
+    {
+      "id": 59,
+      "author": "spk",
+      "url": null,
+      "date": "2006-10-11T14:57:52",
+      "body": "Kevin,\n\nYou've just made Firefox on Mac useable again; now all we need is aqua/ cocoa widgets, and we're away..."
+    },
+    {
+      "id": 60,
+      "author": "Sickr",
+      "url": null,
+      "date": "2006-10-14T15:23:18",
+      "body": "I really like this theme and wish to use it as my default. Though for some reason once I install it on my PC any drop down menus such as the ones used for live RSS feed bookmarks show up in black, subsequently making them unreadable. Is this a commonly known problem with the theme? It's so annoying because it's a fantastic looking theme."
+    },
+    {
+      "id": 61,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-10-14T15:33:20",
+      "body": "Sickr, Pinstripe was made for a Mac. It uses some Mac-specific Mozilla css extensions. I have no plans to do a Windows port but if someone wants to try to port it to Windows I'd be glad to help."
+    },
+    {
+      "id": 62,
+      "author": "Sickr",
+      "url": null,
+      "date": "2006-10-14T18:20:40",
+      "body": "Aha thank you for clearing that up. It's a shame that it's only Mac-specific as I'm sure there are a number of PC owners out there who would love this theme. Hopefully someday it will make a welcome appearance."
+    },
+    {
+      "id": 63,
+      "author": "Jason",
+      "url": null,
+      "date": "2006-10-16T07:20:11",
+      "body": "It's tempting to use this theme on Windows despite the loss of functionality.  It really is impressive."
+    },
+    {
+      "id": 64,
+      "author": "Firefox 2 RC3 is brilliant. - MacNN Forums",
+      "url": null,
+      "date": "2006-10-17T08:31:48",
+      "body": "[...] I hate the new theme, but Kevin Gerich has an updated version of Pinstripe (the default FF1.0/1.5 theme) and some of Arronax's stuff is updated as well.  Incidentally all of my extensions are already 2.0-ready.  __________________  Backup your home folder to your iPod quickly and easily with iPodBackup [...]"
+    },
+    {
+      "id": 65,
+      "author": "bob",
+      "url": null,
+      "date": "2006-10-17T20:52:33",
+      "body": "Umm, Earth to Firefox developers... Earth to\nFirefox developers!  This should be the 2.0\ndefault theme.  Schmucks."
+    },
+    {
+      "id": 66,
+      "author": "MacManux",
+      "url": null,
+      "date": "2006-10-18T13:42:36",
+      "body": "Great tab look! Any chance you bundle your efforts with the folks developing the GrApple themes to make the toolbar more Safari like? I'd think that their icons combined with your tabs would make the greatest look we ever had for a Mac browser!"
+    },
+    {
+      "id": 67,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-10-18T15:40:35",
+      "body": "bob, I wouldn't be so quick to insult the Firefox developers. They are doing excellent work and Firefox 2 is a fine browser."
+    },
+    {
+      "id": 68,
+      "author": "Tom",
+      "url": null,
+      "date": "2006-10-21T03:40:41",
+      "body": "I managed to manually un-blue the tabs, but now I was wondering about one more user edit: would it be possible to move the close tab button to the right side of the tab?"
+    },
+    {
+      "id": 69,
+      "author": "Will",
+      "url": null,
+      "date": "2006-10-21T17:39:50",
+      "body": "I like the new theme, but agree with the other posts about the blue highlight on the tabs.  I also would like to see a variant without the blue/purple down state on the bookmark bar items.  To be 'savvy' the down state should be a dark gray like the default Firefox 2 theme.  The find interface however, is great. =)"
+    },
+    {
+      "id": 70,
+      "author": "Shakespeare",
+      "url": null,
+      "date": "2006-10-22T18:04:37",
+      "body": "I use this theme on Windows Xp...\n\nSomeone needs to port this, its just so goddamn nice, and anice FF theme is hard to come by.. Os X gets all the nice UI"
+    },
+    {
+      "id": 71,
+      "author": "mpmchugh",
+      "url": null,
+      "date": "2006-10-23T16:00:24",
+      "body": "Actually, I'd like the opposite. I like Pinestripes' less safari-like buttons and the awesome tabs, but I miss all the GrApple extras for the sidebar and extensions like Sage, Web Developer Toolbar, Scrapbook, etc.\n\nNow that GrApple seems to have discontinued their \"Pro\" series, in favor of the safari-like Eos, I hope a combined theme is in the cards in the near future."
+    },
+    {
+      "id": 72,
+      "author": "Brian Kerr | Pinstripe on Firefox",
+      "url": null,
+      "date": "2006-10-23T23:06:01",
+      "body": "[...] Oh my gosh, the updated Pinstripe theme for Firefox is gorgeous: [...]"
+    },
+    {
+      "id": 73,
+      "author": "thread",
+      "url": null,
+      "date": "2006-10-23T23:26:15",
+      "body": "Why do some themes show the icons for my bookmark bar while others don't? I'd like to be able to see the icons!"
+    },
+    {
+      "id": 74,
+      "author": "Mahesh Asolkar : i think so… » Blog Archive » Firefox 2 is here!",
+      "url": null,
+      "date": "2006-10-24T16:46:32",
+      "body": "[...] Mac users, try the new Pinstripe theme too! [...]"
+    },
+    {
+      "id": 75,
+      "author": "me",
+      "url": null,
+      "date": "2006-10-25T07:36:22",
+      "body": "I hate the half-blue tabs. It would have been much better if you had simply made the old pinstripe theme compatible with ff 2.0."
+    },
+    {
+      "id": 76,
+      "author": "CODE|源码 » Pinstripe for Firefox",
+      "url": null,
+      "date": "2006-10-25T22:04:09",
+      "body": "[...] Mac version Win version Author:llqoli [...]"
+    },
+    {
+      "id": 77,
+      "author": "chad",
+      "url": null,
+      "date": "2006-10-26T05:55:17",
+      "body": "I have installed the Pinstripe theme on my wiondows machine but it has removed acess toall the windows for options etc.. now I can't uninstall the theme because don't know how to gewt to add-ons. Can anyone out there help me get back to a usable firefox?"
+    },
+    {
+      "id": 78,
+      "author": "jmc",
+      "url": null,
+      "date": "2006-10-26T07:55:12",
+      "body": "Hi,\nJust wanted to say I love this new theme.  The subtle glow on the tabs is simply very nice.  It's topped only by the beauty of the sidebar--which has led me to change my browsing habits, getting rid of the \"bookmarks toolbar\" entirely and adding the \"bookmarks sidebar\" button to my toolbar so that I can see it often.  Very nice.\n\nI was just in Thunderbird, though, and couldn't help but think how nice the sidebar treatment would look on the \"Folders\" pane.  Any chances of seeing a Thunderbird Pinstripe update?  Might this be an update coming to Thunderbird 2.0, or are you no longer working on that theme, either?  (BTW, I've looked and not been able to find the answer anywhere: they're not making Qute the default Thunderbird theme for OSX, are they?)\n\nFinally, for all the nay-sayers who say \"nay,\" do you have any plans to open up the artwork changes from this update like you did back in July? http://kmgerich.com/2006/07/11/firefox-browser-ui-artwork-released/\nThis move would allow people to repackage different color themes (blue, graphite, etc.) and take some of the (practically non-existent, I must admit) pressure off of you.\n\nAnyway, to reiterate, thank you for such a lovely theme!"
+    },
+    {
+      "id": 79,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-10-26T08:05:32",
+      "body": "Thanks for the compliments jmc and everyone :)\n\njmc, I just got an email from Scott MacGregor and I will be helping out with polishing up the Thunderbird 2 theme and I'll see if I can sneak in some upgrades like the sidebar treatment you mentioned.\n\nI'm also working on setting up a Wiki where people can contribute ideas, feedback and maybe even artwork and code as we develop the theme."
+    },
+    {
+      "id": 80,
+      "author": "jmc",
+      "url": null,
+      "date": "2006-10-26T08:56:05",
+      "body": "Great news!  Thanks :-)"
+    },
+    {
+      "id": 81,
+      "author": "Jason",
+      "url": null,
+      "date": "2006-10-26T12:20:12",
+      "body": "Hey Chad,\n\nYou'll want to start Firefox in Safe Mode.  In the Start &gt; All Programs &gt; Mozilla Firefox folder there should be an icon named Mozilla Firefox (Safe Mode).\n\nIf you don't have such an icon, right-click on whatever Firefox icon you can find, choose properties, and change the text in the TARGET box to be this:\n\n\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" -safe-mode\n\nGood luck!"
+    },
+    {
+      "id": 82,
+      "author": "Ben",
+      "url": null,
+      "date": "2006-10-27T05:50:25",
+      "body": "I love this theme. I would really love it if you could make a variant with tabs like those in Aronnax's GrApple (default) theme for FF1.5.\n\nThis was by far my favorite theme because it has the default icons which I prefer and great looking tabs. Since Aronnax is discontinuing this theme maybe you could build these tabs into your theme (please!!)."
+    },
+    {
+      "id": 83,
+      "author": "Adam",
+      "url": null,
+      "date": "2006-10-27T06:43:00",
+      "body": "I like it, but prefer the 'x' on the right, an option in the future perhaps..."
+    },
+    {
+      "id": 84,
+      "author": "Les",
+      "url": null,
+      "date": "2006-10-27T09:21:35",
+      "body": "I love it, but would like to have the option of using icons in the bookmarks toolbar."
+    },
+    {
+      "id": 85,
+      "author": "Patrick",
+      "url": null,
+      "date": "2006-10-27T12:36:39",
+      "body": "I really like this, except for the blue tint on the active tab and lack of icons in the bookmarks toolbar. If those two issues were resolved I'd definitely use this theme."
+    },
+    {
+      "id": 86,
+      "author": "Succombing to Firefox : Pensieri di un lunatico minore",
+      "url": null,
+      "date": "2006-10-28T11:01:38",
+      "body": "[...] Pinstripe theme : Prettier than the default [...]"
+    },
+    {
+      "id": 87,
+      "author": "The Browser Den » Blog Archive » 9 reasons not to upgrade to Firefox 2?",
+      "url": null,
+      "date": "2006-10-29T13:49:00",
+      "body": "[...] I agree that the theme looks totally out of place on the Mac, but I actually prefer it to the previous theme under Windows. To get a better Mac like theme get the new pinstripe. In my opinion the best theme for Firefox on Windows was Qute which disappeared after Firefox 0.8. A new version of Qute for Firefox 2 is QuBranch. [...]"
+    },
+    {
+      "id": 88,
+      "author": "Optimist Realist » Blog Archive »",
+      "url": null,
+      "date": "2006-10-30T11:59:11",
+      "body": "[...] Kevin Grerich's Pinstripe theme Pinstripe with grey tabs     Posted by James K. Filed in Miscellanea [...]"
+    },
+    {
+      "id": 89,
+      "author": "Bart",
+      "url": null,
+      "date": "2006-10-30T13:06:52",
+      "body": "Thank you for making this theme. The only thing I'm not really a big fan of is the icon in the search bar with the dark border around it. It doesn't look Mac-like (the circle should just be a knocked-out solid gray color) and it doesn't match the icon in the Find toolbar (which is the magnifying glass without a circle around it). And is it just me or is there a purple shade over the active tab?"
+    },
+    {
+      "id": 90,
+      "author": "tim_from_dc",
+      "url": null,
+      "date": "2006-10-30T20:22:03",
+      "body": "When I try to download this I am getting an error,  It says that it is download error -228.  Is there something I can try?"
+    },
+    {
+      "id": 91,
+      "author": "Panp",
+      "url": null,
+      "date": "2006-10-30T22:23:01",
+      "body": "Dumb question: Why is this amazing theme not available through the official \"Firefox add-ons\" site? For most people that is their primary (or even unique) source for FF themes."
+    },
+    {
+      "id": 92,
+      "author": "Kevin",
+      "url": null,
+      "date": "2006-10-30T22:30:25",
+      "body": "tim_from_dc: You can try downloading the jar directly to your computer then open up the Add-ons window, select themes and then drag and drop the jar file on the theme list. It should ask you to install.\n\nhttp://kmgerich.com/downloads/pinstripe_firefox.jar\n\npanp: the theme isn't done yet :) I'll put it on a.m.o when it's finished. That should be RSN :)"
+    },
+    {
+      "id": 93,
+      "author": "Bart",
+      "url": null,
+      "date": "2006-10-31T12:29:23",
+      "body": "My other suggestion for this theme is with the highlight color when the addressbar and search bar are in focus. All my other programs have the focus be a blue color that matches the blue of the scrollbar pill. I feel like the shade you're using is more of a purple? Reminds of of OS 9's folder icons. I think the blue would make it fit in with the overall OS better. And also, is there no standard for the blue background color that you use for the Find Bar and the History sidebar? I'm noticing that Mail has a different color from iTunes which has a different color than NetNewswire which has a different color from your theme (though your themes tilt more towards the purple side).\n\nOther than that I want to thank you again for making this theme. The more I use it the more I notice the little details, like the Find bar, that you thought through very well."
+    },
+    {
+      "id": 94,
+      "author": "Bill",
+      "url": null,
+      "date": "2006-11-02T12:56:55",
+      "body": "grid bless you"
+    },
+    {
+      "id": 95,
+      "author": "macfox II at BOK",
+      "url": null,
+      "date": "2006-11-02T14:17:52",
+      "body": "[...] Today the macfox II theme for Firefox 2.0 was released. To give an impression, it almost looks like this: it&#8217;s how the default Firefox 1.x looked when installed on an Apple computer. You can get the jar-ball overhere. Also, if you don&#8217;t like the new default theme (too) in FF2.0 for Mac OS X, go for the Pinstripe-theme, to get that good ol&#8217; feelin&#8217; back. Now all my foxes look the same    theme, Firefox [...]"
+    },
+    {
+      "id": 96,
+      "author": "Empty",
+      "url": null,
+      "date": "2006-11-03T00:36:56",
+      "body": "This theme is amazing, its simple yet it still catches the eye.  Could you maybe port it so it will work with Windows?  I tried messing around with the css file to get it to work and I couldn't figure it out."
+    },
+    {
+      "id": 97,
+      "author": "Chris",
+      "url": null,
+      "date": "2006-11-03T06:39:34",
+      "body": "Kevin, are you still working on the theme? I would really like to see some updates :)"
+    },
+    {
+      "id": 98,
+      "author": "Oskar L-B",
+      "url": null,
+      "date": "2006-11-04T09:32:41",
+      "body": "Thanks for the excellent theme. Subtle update, but it just feels so much more integrated into OS X.\n\nCurrently testing the new builds of CocoaFox (i.e. Firefox 3.0.1a), but your theme unfortunately won't install on it... Is it possible for you to fix it without devoting too much time?\n\nI also suggested to Mozilla that they add your theme as standard for the new 3.0 releases. (Hopefully for 2.0 as well, but that probably won't happen.)"
+    },
+    {
+      "id": 99,
+      "author": "Sickr",
+      "url": null,
+      "date": "2006-11-06T07:25:12",
+      "body": "Any news on a Windows compatible version of this beautiful theme?"
+    },
+    {
+      "id": 100,
+      "author": "altes (schöneres) theme für den neuen Firefox 2.0 at blogadresse",
+      "url": null,
+      "date": "2006-11-09T11:55:01",
+      "body": "[...] Wer den Firefox 2.0 benutzt dem ist bestimmt schon das neue Theme des Browsers aufgefallen, was auf dem Mac irgendwie nicht mehr so schön ist für vorher. Wer das alte (bessere), mehr mac-maßige Theme möchte, der sollte sich den Pinstripe theme einmal anschauen.  Share and Enjoy:These icons link to social bookmarking sites where readers can share and discover new web pages. [...]"
+    },
+    {
+      "id": 101,
+      "author": "Better Tabbed Browsing In Firefox",
+      "url": null,
+      "date": "2006-11-14T12:23:43",
+      "body": "[...] Although I occasionally use Camino and Safari, Firefox is my preferred browser and I use it even more of the time now that 2.0 has been released. If you use Firefox too, but don&#8217;t think the tabbed browsing feature is Mac enough, you have to install the Pinstripe add on developed by Kevin Gerich at Pretty Widgets. [...]"
+    },
+    {
+      "id": 102,
+      "author": "Optimized Firefox 2.0 for Mac « Shoegazer",
+      "url": null,
+      "date": "2006-11-15T06:12:05",
+      "body": "[...] 然后是主题，Firefox 2.0 默认的主题说实话还是挺难看的，GrApple 这里可以下载 3 款 Safari 类主题，蛮不错的。如果像我一样不喜欢 Firefox 用 Safari 类主题，那这款 Pinstripe 主题一定会让你满意的。 [...]"
+    },
+    {
+      "id": 103,
+      "author": "BlogMyth|博客神话之设计类博客 » Archive » Pinstripe for Firefox2",
+      "url": null,
+      "date": "2006-11-23T10:44:44",
+      "body": "[...] 到了2.0扩展是跟上了，主题却倒下了，有人说2.0的默认皮肤漂亮，我觉得还比不上1.x干净，如果你还怀念以前的界面，点击这里下载1.x经典皮肤，我喜欢的还是类Safari风格主题，有同样爱好的朋友可以到这里下载Pinstripe Theme，因为它是&#8221;equires Firefox 2.0RC1 or later on Mac OS X&#8221;，所以在windows版本上使用会发现菜单完全没有可读性，那么你点击这里就可以下载一个修改好的版本（支持Windows版本的Firefox2.0正式版）。 [...]"
+    },
+    {
+      "id": 104,
+      "author": "Meredith",
+      "url": null,
+      "date": "2006-11-26T21:38:30",
+      "body": "This theme is beautiful and the best \"Macfox\" theme I've found.  Thanks!"
+    },
+    {
+      "id": 105,
+      "author": "Treviño",
+      "url": null,
+      "date": "2006-11-29T22:14:15",
+      "body": "Really wonderful but I'd like to use it in my Linux box, but I can't becouse it hides my menus... :/\n\nCould you make also a version for all OS?"
+    },
+    {
+      "id": 106,
+      "author": "Daniel Andrews",
+      "url": null,
+      "date": "2006-11-30T06:24:30",
+      "body": "Absolutely beautiful!  Now if there were only a graphite version..."
+    },
+    {
+      "id": 107,
+      "author": "Andy",
+      "url": null,
+      "date": "2006-11-30T20:29:26",
+      "body": "I hate the half-blue tabs. It would have been much better if you had simply made the old pinstripe theme compatible with ff 2.0."
+    },
+    {
+      "id": 108,
+      "author": "Jon",
+      "url": null,
+      "date": "2006-12-21T12:10:04",
+      "body": "Only \"rough edge\" I noticed was the anti-phishing warning bubble doesn't work as expected.\n\nhttp://img84.imageshack.us/img84/6397/picture1lg2.png"
+    },
+    {
+      "id": 109,
+      "author": "Scott",
+      "url": null,
+      "date": "2006-12-22T23:44:46",
+      "body": "Toolbar icons are still too PC-ish.\nNice widgets though."
+    },
+    {
+      "id": 110,
+      "author": "Firefox 2 tidbits :: medicinalchemistry",
+      "url": null,
+      "date": "2007-01-01T05:23:30",
+      "body": "[...] There&#8217;s a lot to like about Firefox 2 but there are a few changes that long-time users such as me are finding quite annoying. The new default theme looks consistently bad across platforms (and particularly so in Mac OS X). Fortunately, designers Kevin Gerich and Stephen Horlander have updated the venerable Firefox 1.x default themes Pinstripe (Mac OS X) and Winstripe (Windows) for use in Firefox 2. Secondly, the Find As You Type search bar has been pointlessly &#8220;simplified&#8221;. Once again the customisability of Firefox comes into its own here, and it&#8217;s simply a matter of inserting the following line into your local userchrome.css file. /* Use the old-style / and &#8216; QuickFind Bar behaviour */ #FindToolbar &gt; * {display:-moz-box} [...]"
+    },
+    {
+      "id": 111,
+      "author": "Jon",
+      "url": null,
+      "date": "2007-01-03T00:47:56",
+      "body": "Hmmm...any chance of releasing a version with the original 1.5 tabs?  Your new ones are quite clever,\nbut honestly I find them to be really distracting--they call a lot of attention to themselves.  It would be nice to have the older version, as well, if it's not an insane amount of trouble..."
+    },
+    {
+      "id": 112,
+      "author": "cgmania",
+      "url": null,
+      "date": "2007-01-17T03:19:21",
+      "body": "Well, thanks for your effort all the same. I hope you keep Pinstripe updated for 2.0 and beyond, this looks great"
+    },
+    {
+      "id": 113,
+      "author": "Josh",
+      "url": null,
+      "date": "2007-01-17T19:47:30",
+      "body": "I'm checking out recent Thunderbird 2.0 nightlies and I think I see some of you handiwork in there :)  Looks great!  I'm hoping your changes will stick."
+    },
+    {
+      "id": 114,
+      "author": "Ray",
+      "url": null,
+      "date": "2007-01-28T18:57:26",
+      "body": "I really like this theme. Is there any way to get the blue background the ScrapeBook extension sidebar?\n\nTIA."
+    },
+    {
+      "id": 115,
+      "author": "Jonathan",
+      "url": null,
+      "date": "2007-02-12T21:43:37",
+      "body": "Just wondering if there was any plans to finish this theme since it's been a while since Kevin has said anything."
+    },
+    {
+      "id": 116,
+      "author": "Nader",
+      "url": null,
+      "date": "2007-02-13T18:12:13",
+      "body": "Im using windows xp pro and it hides my menu bar! how can i change the theme or change it back!?!?"
+    },
+    {
+      "id": 117,
+      "author": "Jonathan",
+      "url": null,
+      "date": "2007-02-13T20:20:53",
+      "body": "Nader,\n\nStart Firefox in Safe Mode (It should be in the start menu) and then disable the theme, or even uninstall it if you can."
+    },
+    {
+      "id": 118,
+      "author": "Look What I Found » links for 2007-02-17",
+      "url": null,
+      "date": "2007-02-16T23:18:06",
+      "body": "[...] Pinstripe for Firefox Now with 20% more Macintosh : pretty widgets (tags: firefox osx themes) [...]"
+    },
+    {
+      "id": 119,
+      "author": "Echo Faith » Blog Archive » Little Quirks",
+      "url": null,
+      "date": "2007-02-20T14:54:26",
+      "body": "[...] And in another note: if you are on mac and trying out the new Firefox release, make sure to check out either the excellent Pinstripe skin or the equally attractive GrApple skin - it makes Firefox not so ugly. [...]"
+    },
+    {
+      "id": 120,
+      "author": "Gate Nine » Mon précieux Firefox",
+      "url": null,
+      "date": "2007-03-08T09:39:10",
+      "body": "[...] Pinstripe (compatible uniquement sur Firefox 2+ sur Mac) [...]"
+    },
+    {
+      "id": 121,
+      "author": "Ray",
+      "url": null,
+      "date": "2007-03-08T19:53:32",
+      "body": "Kevin, have you stopped development on this theme?"
+    },
+    {
+      "id": 122,
+      "author": "KAMiKAZOW",
+      "url": null,
+      "date": "2007-03-09T11:58:11",
+      "body": "@Ray:\n\nUntil recently Kevin updated Pinstripe for Thunderbird 2. So he was busy with that."
+    },
+    {
+      "id": 123,
+      "author": "Ray",
+      "url": null,
+      "date": "2007-03-09T18:09:43",
+      "body": "Ahh, I was just curious. It's been a while since he's posted.\n\nI really love this theme and hope Kevin is going to continue to update it.The Bookmarks quirk noted earlier is very frustrating.\n\nThanks."
+    },
+    {
+      "id": 124,
+      "author": "christina",
+      "url": null,
+      "date": "2007-03-10T21:38:47",
+      "body": "Personal dislikings of OSX aside, those tabs are probably more “native” looking that actual native OSX tabs."
+    },
+    {
+      "id": 125,
+      "author": "Daniel",
+      "url": null,
+      "date": "2007-03-27T12:34:49",
+      "body": "PC Users!  To make this theme compatible for Windows, use Personal Menu (https://addons.mozilla.org/en-US/firefox/addon/3895).   You can use this add-on to move the toolbars to the navigation bar. Install Pinstripe and close Firefox.  Next, paste the following into your userchrome.css file:\n\n\n/* Classic Menus */\n.menu-accel,\n.menu-iconic-accel,\n.menu-text,\n.menu-iconic-text {\n margin-top: 0px !important;\n}\n\n.menu-iconic-left {\n margin-top: 1px !important;\n margin-bottom: 1px !important;\n min-width: 12px;\n -moz-margin-start: 2px;\n -moz-margin-end: 2px;\n}\n\nmenubar &gt; menu {\n border: 1px solid transparent !important;\n padding-top: 0px !important;\n padding-bottom: 1px !important;\n margin-bottom: 1px !important;\n -moz-padding-start: 2px;\n -moz-padding-end: 3px;\n}\n\nmenubar &gt; menu[_moz-menuactive=\"true\"] {\n background-color: transparent !important;\n color: MenuText !important;\n border-top: 1px solid ThreeDHighlight !important;\n border-right: 1px solid ThreeDShadow !important;\n border-bottom: 1px solid ThreeDShadow !important;\n border-left: 1px solid ThreeDHighlight !important;\n}\n\nmenubar &gt; menu[_moz-menuactive=\"true\"][open=\"true\"] {\n background-color: transparent !important;\n color: MenuText !important;\n border-top: 1px solid ThreeDShadow !important;\n border-right: 1px solid ThreeDHighlight !important;\n border-bottom: 1px solid ThreeDHighlight !important;\n border-left: 1px solid ThreeDShadow !important;\n padding-top: 1px !important;\n -moz-padding-end: 2px !important;\n padding-bottom: 0px !important;\n -moz-padding-start: 3px !important;\n}\n\n/* Classic Popups */\nmenupopup,\npopup {\n border: 2px solid !important;\n -moz-border-top-colors: ThreeDLightShadow ThreeDHighlight !important;\n -moz-border-right-colors: ThreeDDarkShadow ThreeDShadow !important;\n -moz-border-bottom-colors: ThreeDDarkShadow ThreeDShadow !important;\n -moz-border-left-colors: ThreeDLightShadow ThreeDHighlight !important;\n padding: 1px !important;\n min-width: 1px !important;\n background-color: Menu;\n}\n\npopup[type=\"autocomplete\"],\n.autocomplete-history-popup {\n border-width: 1px !important;\n -moz-border-top-colors: ThreeDDarkShadow !important;\n -moz-border-right-colors: ThreeDDarkShadow !important;\n -moz-border-bottom-colors: ThreeDDarkShadow !important;\n -moz-border-left-colors: ThreeDDarkShadow !important;\n padding: 0px !important;\n background-color: -moz-Field !important;\n}\n\nmenulist &gt; menupopup,\n.menulist-menupopup {\n border-width: 1px !important;\n -moz-border-top-colors: -moz-FieldText !important;\n -moz-border-right-colors: -moz-FieldText !important;\n -moz-border-bottom-colors: -moz-FieldText !important;\n -moz-border-left-colors: -moz-FieldText !important;\n padding: 0px;\n min-width: 0px;\n background-color: -moz-Field;\n}"
+    },
+    {
+      "id": 126,
+      "author": "  Getting Firefox by MyAppleStuff",
+      "url": null,
+      "date": "2007-04-04T02:22:48",
+      "body": "[...] My personal favorite, Pinstripe, is pictured to the right. Pinstripe can be found at this blog, and is free, like all of the other extensions and themes for firefox. [...]"
+    },
+    {
+      "id": 127,
+      "author": "etharooni",
+      "url": null,
+      "date": "2007-04-22T19:33:33",
+      "body": "To all of you who installed this theme on windows, to revert it, all you have to do is to go to the firefox website and install a theme.  This will open the theme menu, where you can change it back to the default."
+    },
+    {
+      "id": 128,
+      "author": "Daniel Chacko",
+      "url": null,
+      "date": "2007-04-23T20:38:33",
+      "body": "Kevin, I've created an optimized version of your theme for Windows.  Do I have your permission to distribute it?"
+    },
+    {
+      "id": 129,
+      "author": "James",
+      "url": null,
+      "date": "2007-04-25T12:48:52",
+      "body": "Does anyone have a version without the blue on the tabs (and down state on the bookmarks bar items) that they'd be willing to share?  I love this theme, but those inconsistencies are really grating."
+    },
+    {
+      "id": 130,
+      "author": "Frantz",
+      "url": null,
+      "date": "2007-04-29T04:30:56",
+      "body": "Hi, I found a bug using Pinstripe with Tab Mix Plus, the width of the tabs do not correspond to the minimum and maximum width specified in the prefs..."
+    },
+    {
+      "id": 131,
+      "author": "Chat",
+      "url": null,
+      "date": "2007-05-03T09:18:52",
+      "body": "[…] Pinstripe for Firefox Now with 20% more Macintosh : pretty widgets (tags: firefox osx themes) […]"
+    },
+    {
+      "id": 132,
+      "author": "TechPwn » Give Firefox an OS X Feel",
+      "url": null,
+      "date": "2007-05-07T11:48:28",
+      "body": "[...] 1. Pinstripe for Firefox - This is my favorite theme integration for Firefox. It&#8217;s very sleek and just fits. Check out the pictures below. [...]"
+    },
+    {
+      "id": 133,
+      "author": "Kevin",
+      "url": null,
+      "date": "2007-05-25T10:58:35",
+      "body": "Daniel Chacko - were you able to release it for windows?"
+    },
+    {
+      "id": 134,
+      "author": "Firefox extensions - Page 2 - The Apple Blog Community",
+      "url": null,
+      "date": "2007-06-02T17:30:17",
+      "body": "[...] I've been poking around a bit, and I believe he is using the very first version of the Pinstripe theme. I have found the latest but it's not quite as nice as the first one, well icon wise. I prefer it over the GrApple themes though.    __________________ My Mac's: 20&quot; iMac Core Duo with 2gb RAM; 14&quot; iBook G4 My Blog [...]"
+    },
+    {
+      "id": 135,
+      "author": "Komik",
+      "url": null,
+      "date": "2007-06-09T09:38:44",
+      "body": "Thanks kevin nice job."
+    },
+    {
+      "id": 136,
+      "author": "Remixing Mac at Zarro Boogs found.",
+      "url": null,
+      "date": "2007-06-23T21:22:15",
+      "body": "[...] This is combining Uno (to achieve the unified look) and Kevin and Steven Horlander&#8217;s tabs from Pinstripe.  There&#8217;s a lot of great work in Pinstripe (notably the tabs, sidebars and findbar) that we&#8217;d like to pull into Firefox 3, but I haven&#8217;t been able to get a hold of Kevin to find out if he&#8217;s cool with this, and what the licensing is like, since the jar lacks any licensing info. [...]"
+    },
+    {
+      "id": 137,
+      "author": "Araba Oyunları",
+      "url": null,
+      "date": "2007-06-28T04:33:39",
+      "body": "With Safari, the right half of the scrollbar is chopped off (supporting my idea)."
+    },
+    {
+      "id": 138,
+      "author": "Araba Oyunları",
+      "url": null,
+      "date": "2007-06-28T04:33:56",
+      "body": "With Safari, the right half of the scrollbar is chopped off (supporting my idea)."
+    },
+    {
+      "id": 139,
+      "author": "Oyun",
+      "url": null,
+      "date": "2007-06-28T04:36:07",
+      "body": "This is on a normal OSX Firefox. I’m guessing it’s set at a width that’s wider than the column it’s contained in."
+    },
+    {
+      "id": 140,
+      "author": "Daniel Chacko",
+      "url": null,
+      "date": "2007-07-19T22:59:54",
+      "body": "I have been hesitant to release the \"Pinstripe for Windows\" theme because of a single bug I have been unable to eliminate.  However, since you have expressed interest, I will give you instructions to allow you to use the \"Pinstripe\" theme on Windows.\n\nLet me explain the situation to you.  It is possible to install Kevin's Pinstripe theme on any Windows Firefox installation.  However three problems occurr:\n\n1) The menu bar is hidden.\n2) The close buttons on inactive tabs are invisible.\n3) The menus and popup menus are entirely black.\n\nI will show you how to fix each of these step by step.\n\n#1\n\nPrior to applying the \"Pinstripe\" theme, install the \"Personal Menu\" extension through Firefox Addons.  Basically, this extension gives you buttons to access all the menus through the navigation bar instead of the menu bar.  Restart Firefox.\n\n#2\n\nInstall the \"tab mix plus\" extension.  Restart Firefox.  Click Tools&gt;Tab Mix Plus Options.  Click \"Display.\"  Click the \"Tab\" tab.  Uncheck the \"Close Tab Button\" checkbox.  Click the \"Tab Bar\" tab.  Check the \"Close Tab Button\" checkbox.  Click \"Apply\" then click \"OK.\"\n\n#3\n\nInstall the ChromEdit Plus Extensions from here (http://webdesigns.ms11.net/chromeditp.html).  Restart firefox.  Click Tools&gt;ChromEdit Plus&gt;ChromEdit.\n\nPaste the following code at the end of the text field, afterwards restarting firefox:\n\n/* Classic Menus */\n.menu-accel,\n.menu-iconic-accel,\n.menu-text,\n.menu-iconic-text {\nmargin-top: 0px !important;\n}\n\n.menu-iconic-left {\nmargin-top: 1px !important;\nmargin-bottom: 1px !important;\nmin-width: 12px;\n-moz-margin-start: 2px;\n-moz-margin-end: 2px;\n}\n\nmenubar &gt; menu {\nborder: 1px solid transparent !important;\npadding-top: 0px !important;\npadding-bottom: 1px !important;\nmargin-bottom: 1px !important;\n-moz-padding-start: 2px;\n-moz-padding-end: 3px;\n}\n\nmenubar &gt; menu[_moz-menuactive=\"true\"] {\nbackground-color: transparent !important;\ncolor: MenuText !important;\nborder-top: 1px solid ThreeDHighlight !important;\nborder-right: 1px solid ThreeDShadow !important;\nborder-bottom: 1px solid ThreeDShadow !important;\nborder-left: 1px solid ThreeDHighlight !important;\n}\n\nmenubar &gt; menu[_moz-menuactive=\"true\"][open=\"true\"] {\nbackground-color: transparent !important;\ncolor: MenuText !important;\nborder-top: 1px solid ThreeDShadow !important;\nborder-right: 1px solid ThreeDHighlight !important;\nborder-bottom: 1px solid ThreeDHighlight !important;\nborder-left: 1px solid ThreeDShadow !important;\npadding-top: 1px !important;\n-moz-padding-end: 2px !important;\npadding-bottom: 0px !important;\n-moz-padding-start: 3px !important;\n}\n\n/* Classic Popups */\nmenupopup,\npopup {\nborder: 2px solid !important;\n-moz-border-top-colors: ThreeDLightShadow ThreeDHighlight !important;\n-moz-border-right-colors: ThreeDDarkShadow ThreeDShadow !important;\n-moz-border-bottom-colors: ThreeDDarkShadow ThreeDShadow !important;\n-moz-border-left-colors: ThreeDLightShadow ThreeDHighlight !important;\npadding: 1px !important;\nmin-width: 1px !important;\nbackground-color: Menu;\n}\n\npopup[type=\"autocomplete\"],\n.autocomplete-history-popup {\nborder-width: 1px !important;\n-moz-border-top-colors: ThreeDDarkShadow !important;\n-moz-border-right-colors: ThreeDDarkShadow !important;\n-moz-border-bottom-colors: ThreeDDarkShadow !important;\n-moz-border-left-colors: ThreeDDarkShadow !important;\npadding: 0px !important;\nbackground-color: -moz-Field !important;\n}\n\nmenulist &gt; menupopup,\n.menulist-menupopup {\nborder-width: 1px !important;\n-moz-border-top-colors: -moz-FieldText !important;\n-moz-border-right-colors: -moz-FieldText !important;\n-moz-border-bottom-colors: -moz-FieldText !important;\n-moz-border-left-colors: -moz-FieldText !important;\npadding: 0px;\nmin-width: 0px;\nbackground-color: -moz-Field;\n}"
+    },
+    {
+      "id": 141,
+      "author": "Macintosh Tips » Make Firefox 2 look more Mac like.",
+      "url": null,
+      "date": "2007-07-27T23:00:45",
+      "body": "[...] Get the Pinstripe Theme [...]"
+    },
+    {
+      "id": 142,
+      "author": "Macintosh Tips » Make Firefox 2 look more Mac like.",
+      "url": null,
+      "date": "2007-07-27T23:00:47",
+      "body": "[...] Get the Pinstripe Theme [...]"
+    },
+    {
+      "id": 143,
+      "author": "Joel",
+      "url": null,
+      "date": "2007-09-06T23:59:04",
+      "body": "Use of Pinstripe on the trunk (Minefield) is no longer possible due to \"does not provide secure updates\". Can this be fixed, I forgot how fugly the default theme (esp. tabs) is :-/"
+    },
+    {
+      "id": 144,
+      "author": "forever",
+      "url": null,
+      "date": "2007-09-08T06:00:05",
+      "body": "Toolbar icons are still too PC-ish.\nNice widgets though. ."
+    },
+    {
+      "id": 145,
+      "author": "forever",
+      "url": null,
+      "date": "2007-09-08T06:00:45",
+      "body": "Daniel Chacko - were you able to release it for windows"
+    },
+    {
+      "id": 146,
+      "author": "aytac",
+      "url": null,
+      "date": "2007-09-09T06:56:56",
+      "body": "thanks. it s great job. I ll use it."
+    },
+    {
+      "id": 147,
+      "author": "Muskelaufbau",
+      "url": null,
+      "date": "2007-09-09T23:43:45",
+      "body": "thanks for the stuff. use it ,too. greetz from germany"
+    },
+    {
+      "id": 148,
+      "author": "portraiture",
+      "url": null,
+      "date": "2007-09-10T04:20:23",
+      "body": "I’m waiting for the same theme for Windows.  By the way if you load this is this light enough just like the recent 2.0 version?"
+    },
+    {
+      "id": 149,
+      "author": "Christian",
+      "url": null,
+      "date": "2007-09-13T14:44:58",
+      "body": "Ahh thanks for the theme - I am a big MAC fan and I really like the style!"
+    },
+    {
+      "id": 150,
+      "author": "音響器材",
+      "url": null,
+      "date": "2007-09-14T02:41:57",
+      "body": "Wow, just installed it, and it’s even better than your screenshot"
+    },
+    {
+      "id": 151,
+      "author": "Daniel",
+      "url": null,
+      "date": "2007-09-17T10:49:22",
+      "body": "Pinstripe for Windows:\n\nhttp://tanjihay.deviantart.com/art/Pinstripe-2-2-for-Firefox-62954657"
+    },
+    {
+      "id": 152,
+      "author": "self storage",
+      "url": null,
+      "date": "2007-10-11T08:50:34",
+      "body": "ssh tunel to the Mac inside the school firewall to access internal web servers, which I can’t connect to through the normal AppleTalk server connect to run the native Firefox.app."
+    },
+    {
+      "id": 153,
+      "author": "MAC LIKE Firefox theme | Firefox.hk",
+      "url": null,
+      "date": "2007-10-12T00:53:09",
+      "body": "[...] The best one, if you are actually on a Mac, is probably GrApple by Aronnax. His attention to detail is amazing. Other good choices are Pinstripe (again Mac only), iSafari and iAqua, my own creation. [...]"
+    },
+    {
+      "id": 154,
+      "author": "Firefox Themes|几款漂亮的火狐主题(皮肤) | 马季——Sharing My Blog！！！",
+      "url": null,
+      "date": "2008-07-19T05:29:15",
+      "body": "[...] If you’ve ever wanted a good Firefox theme to match the look of your Mac a bit more, there are lots of developers out there trying to make this happen.The best one, if you are actually on a Mac, is probably GrApple by Aronnax. His attention to detail is amazing. Other good choices are Pinstripe (again Mac only), iSafari and iAqua, my own creation. [...]"
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Nicky's blog",
+      "title": "Pinstripe for Firefox2...",
+      "url": null,
+      "date": "2006-10-30T00:35:27",
+      "excerpt": "这几天Firefox2正式发布，看样子老用户们应该都更新过了，在它的RC阶段很多常用扩展都在跟进，所..."
+    }
+  ]
+}

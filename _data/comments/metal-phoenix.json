@@ -1,0 +1,47 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Michel",
+      "url": null,
+      "date": "2003-04-10T05:16:56",
+      "body": "Looks nice :) Is that still based on 0.5 or is it based on a CVS checkout - and if the latter, could we have a standard updated build?\n\nThanks,\n\nMichel"
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-10T10:33:27",
+      "body": "Based on CVS. I won't post a metallized build, but if you're interested in building your own, you can follow the instructions on the Phoenix page and add the following line of code below line 559 of file mozilla/widget/src/mac/nsMacWindow.cpp:\n\n::ChangeWindowAttributes ( mWindowPtr, kWindowMetalAttribute, kWindowNoAttributes );"
+    },
+    {
+      "id": 3,
+      "author": "Metareye",
+      "url": null,
+      "date": "2003-04-15T16:33:52",
+      "body": "I hope this becomes an option in the future. I think it looks great."
+    },
+    {
+      "id": 4,
+      "author": "gg",
+      "url": null,
+      "date": "2003-04-28T10:30:19",
+      "body": "Ulgh. Someone get the holy water, that needs an exorcism."
+    },
+    {
+      "id": 5,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-04-28T13:56:23",
+      "body": "I tend to agree about the metal interface, gg :)"
+    },
+    {
+      "id": 6,
+      "author": "Steph",
+      "url": null,
+      "date": "2004-11-06T23:31:56",
+      "body": "Was just bored and thought I would post"
+    }
+  ],
+  "trackbacks": []
+}

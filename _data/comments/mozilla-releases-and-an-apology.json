@@ -1,0 +1,194 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jens Langner",
+      "url": null,
+      "date": "2003-10-15T10:20:36",
+      "body": "Please hurry up with creating your pinstripe theme for 1.5 because I can't hold breath that long.. :)\nAnd please take also care that images for additional mozilla modules like EnigMail are present. The current pinestripe for 1.4 doesn't come with images for that component."
+    },
+    {
+      "id": 2,
+      "author": "marioestrada",
+      "url": null,
+      "date": "2003-10-15T12:15:22",
+      "body": "mozilla is not worth opening without your theme :'( it just doesnt feel  right!!"
+    },
+    {
+      "id": 3,
+      "author": "mick",
+      "url": null,
+      "date": "2003-10-15T13:05:51",
+      "body": "I am stuck using Safari because I accidentally dl'ed 1.5 without checking for pinstripe availability!\n\nAs soon as the Firebird mirroring becomes unwedged, I will get that and use your Pinstripe preview and all will be well!"
+    },
+    {
+      "id": 4,
+      "author": "hangnail",
+      "url": null,
+      "date": "2003-10-15T16:59:04",
+      "body": "how about one for 1.4.1.  1.5 has some bugs that make it almost not worth getting.  Firebird .7 cannot save pages or images so its got its problems as well."
+    },
+    {
+      "id": 5,
+      "author": "~bc",
+      "url": null,
+      "date": "2003-10-15T20:16:40",
+      "body": "Sad to see that your pinstripe theme isn't working w/ my copy of FB0.7. Oh, well, I guess I wait on FB! Hey, any thoughts on a non-pinstripe pinstripe for Panther? (you know, replacing the stipes with a tasteful grey gradient sorta like the Final Cut line) Thanks for your work over the months w/ the themes!"
+    },
+    {
+      "id": 6,
+      "author": "harry",
+      "url": null,
+      "date": "2003-10-22T11:34:04",
+      "body": "every couple days i check your web site and hope for the release of pinstripe for mozilla 1.5..."
+    },
+    {
+      "id": 7,
+      "author": "Bryan",
+      "url": null,
+      "date": "2003-10-22T22:55:17",
+      "body": "Have to agree with everyone else.  Without  pinstripe, Mozilla 1.5, even though it is technically better than 1.4, just isn't worth using.\n\nAlso, your beta theme for Firebird looks great."
+    },
+    {
+      "id": 8,
+      "author": "Ken Lin",
+      "url": null,
+      "date": "2003-10-23T03:12:55",
+      "body": "Great work!  Can't wait until your Moz 1.5 theme!"
+    },
+    {
+      "id": 9,
+      "author": "Tunder Freak",
+      "url": null,
+      "date": "2003-10-23T15:51:03",
+      "body": "Will you also work on a Mozilla Thunderbird theame too?"
+    },
+    {
+      "id": 10,
+      "author": "Steven Garrity",
+      "url": null,
+      "date": "2003-10-27T14:47:50",
+      "body": "Nice work. Can you share who the icon designer is that you are working with?"
+    },
+    {
+      "id": 11,
+      "author": "",
+      "url": null,
+      "date": "2003-10-27T15:53:21",
+      "body": "Funny that you are comming out with a pinstripe theme, just as Apple all but kills pinstripes in OSX Panther!!!\n\nI much prefer the more pro looking flat gray of Panther to the pinstripes of 10.1 and 10.2..."
+    },
+    {
+      "id": 12,
+      "author": "pb",
+      "url": null,
+      "date": "2003-10-27T18:20:47",
+      "body": "Pinstripes are so Jaguar! Skip the stripes and move to metal!"
+    },
+    {
+      "id": 13,
+      "author": "",
+      "url": null,
+      "date": "2003-10-27T18:21:20",
+      "body": "To the last poster... Kevin has had the Pinstrip theme for some time... he is getting Pinstrip to work with Mozilla Firebird now...\n\nIn fact the only place I have seen pinstrips in 10.3 this fare is when you have a context menu."
+    },
+    {
+      "id": 14,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-10-27T20:35:17",
+      "body": "True, the Pinstripe theme is almost two years old! The pinstriped background is there in Panther, it's just muted. I'll change the theme to be Panther friendly soon."
+    },
+    {
+      "id": 15,
+      "author": "MordEth",
+      "url": null,
+      "date": "2003-10-28T04:57:48",
+      "body": "it's odd seeing people write about choosing Safari over a Mozilla browser.  only an utter masochist would choose to do such a thing.  *laughs*  seriously...when you can have Tab Browser Extension and AdBlock, and Safari offers basically nothing in the way of preferences, annoyingly opts to use the 4-bit entry for favicons, etc. etc. etc., you'd have to be a crackhead (or be brainwashed by Apple) to choose Safari.  i could list quite a few more flaws with Safari.  about the only positive thing you can say about it is that if you use the de-metal haxie (which DOES work in 10.3, despite Unsanity listing it as still in testing), is that it's better than IE.  being better than IE is hardly ringing praise.\n\nthe graphite screenshots of your theme do look good, and i'd use it/suggest it to other people, provided that you can make it be compatible with TBE.  otherwise, it's just not worth using.  period."
+    },
+    {
+      "id": 16,
+      "author": "Scott Heath",
+      "url": null,
+      "date": "2003-10-30T17:02:22",
+      "body": "I admit I kinda like the aqua-like tabs of the moz-1.4 pinstripe.  Since Apple doesn't seem to be all that consistent about tab appearance anyway, I didn't feel that the tabs in moz-pinstripe were jarring or misplaced at all.  In fact, their nifty aquacised appearance was one of the many reasons I preferred moz to Safari.  Whatever you decide about the tabs, though, I'm looking forward to having a pinstriped mozilla 1.5.\n\nNow if only you could supress those annoying context windows that pop up if you don't click fast enough..."
+    },
+    {
+      "id": 17,
+      "author": "Paul",
+      "url": null,
+      "date": "2003-11-02T18:25:31",
+      "body": "Thank you so much for making a great browser look and feel great. you made my day"
+    },
+    {
+      "id": 18,
+      "author": "MordEth",
+      "url": null,
+      "date": "2003-11-04T02:38:20",
+      "body": "just out of curiousity, when are you going to have a non-beta version of your theme that works with Panther?"
+    },
+    {
+      "id": 19,
+      "author": "Kevin",
+      "url": null,
+      "date": "2003-11-04T12:06:23",
+      "body": "I'm working of Pantherizing Pinstripe right now."
+    },
+    {
+      "id": 20,
+      "author": "rick",
+      "url": null,
+      "date": "2003-11-05T21:06:12",
+      "body": "I'm using Firebird 0.7.1 on Panther and it rocks. Very professional, very nice theme. Thanks!"
+    },
+    {
+      "id": 21,
+      "author": "Randy",
+      "url": null,
+      "date": "2003-11-20T09:55:42",
+      "body": "I am at a loss of where to ask this so I'll try here. Please point me to the right place if need be.\n\nI cannot get Firebird to open on Panther. It's tries to start then quits. If I try and start it from terminal I can see the error.\n\nTiBook:/Applications/Mozilla Firebird.app/Contents/MacOS randy$ ./MozillaFirebird\n./MozillaFirebird-bin: can't map file: /Library/Internet Plug-Ins/Java Applet.plugin ((os/kern) invalid argument)\n\nAny ideas on why Firebird cannot map the Java Applet.plugin? Several google searches have turned up nothing. thanks"
+    },
+    {
+      "id": 22,
+      "author": "L. Daudelin",
+      "url": null,
+      "date": "2003-12-09T13:29:32",
+      "body": "Is Pinstripe development for Mozilla 1.5 still alive? I find hard to believe that it's taking that much time to come up with an artist to design the icons. I mean, it's been a few months now and still nothing in sight.\n\nPlease, let us know if you're not planning to update Pinstripe for Mozilla 1.5. Maybe somebody else will pick it up..."
+    },
+    {
+      "id": 23,
+      "author": "R Hoyer",
+      "url": null,
+      "date": "2003-12-27T23:31:23",
+      "body": "I downloaded the pinstripe theme even though it said it wasn't compatible with Mozilla 1.5b (I'm on 1.5) and several parts of it work great in Panther (though not the buttons). Is development still moving forward on a 1.5 version. I LOVE your theme. Best I've seen. I'm gonna keep running it even though it isn't 100% because it's so much better than the standard ones. Thanks for a great joba and PLEASE keep up work on it!"
+    },
+    {
+      "id": 24,
+      "author": "Jag",
+      "url": null,
+      "date": "2004-02-03T22:20:15",
+      "body": "Why does everyone dislike the Jaguar-style pinstripes?  I love those.  Panther's dimmed pinstripes are an outrage.  Please bring Jaguar pinstripes back!"
+    },
+    {
+      "id": 25,
+      "author": "Jon",
+      "url": null,
+      "date": "2004-02-03T22:21:57",
+      "body": "Hi, could you create a pinstripe theme for the Windows version of Firebird?  Thanks."
+    },
+    {
+      "id": 26,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-04T07:10:14",
+      "body": "Sorry Jon, I have no plans to work on a Windows version of the Pinstripe theme. I have my hands full with the Mac versions of the Firebird theme, the Thunderbird theme, and the upcoming Suite theme."
+    },
+    {
+      "id": 27,
+      "author": "Florida Mortgage",
+      "url": null,
+      "date": "2004-11-07T10:33:07",
+      "body": "<a href=\"http://www.bestlowmortgagerates.com\" rel=\"nofollow ugc\">Florida Mortgage</a>\n<a href=\"http://mortgage-calculator.bestlowmortgagerates.com\" rel=\"nofollow ugc\">Mortgage Calculator</a>\n<a href=\"http://www.bestlowmortgagerates.com/mortgagecalculator/\" rel=\"nofollow ugc\">Mortgage Calculator</a>\n<a href=\"http://www.bestlowmortgagerates.com/debtconsolidation/\" rel=\"nofollow ugc\">Debt Consolidation</a>\n<a href=\"http://www.bestlowmortgagerates.com/loanprograms/\" rel=\"nofollow ugc\">Loan Programs</a>\n<a href=\"http://www.bestlowmortgagerates.com/mortgagerates/\" rel=\"nofollow ugc\">Mortgage Rates</a>\n<a href=\"http://www.bestlowmortgagerates.com/commercialmortgage/\" rel=\"nofollow ugc\">Commercial Mortgage</a>\n<a href=\"http://www.bestlowmortgagerates.com/constructionloans/\" rel=\"nofollow ugc\">Construction Loans</a>\n<a href=\"http://www.bestlowmortgagerates.com/homeequityloans/\" rel=\"nofollow ugc\">Home Equity Loans</a>\n<a href=\"http://www.bestlowmortgagerates.com/homeequitylineofcredit/\" rel=\"nofollow ugc\">Home Equity Line of Credit</a>\n<a href=\"http://www.bestlowmortgagerates.com/floridamortgagecompany/\" rel=\"nofollow ugc\">Mortgage Company</a>\n\nhttp://www.bestlowmortgagerates.com\nhttp://mortgage-calculator.bestlowmortgagerates.com"
+    }
+  ],
+  "trackbacks": []
+}

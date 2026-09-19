@@ -16,8 +16,3 @@ tags:
   - usability
 ---
 [Slashdot](http://www.slashdot.org) has a link to an interesting article about an [effort to design a smarter “temporal” Back button for browsers](http://www.info-arch.org/lists/sigia-l/0102/0396.html). This paper [describes the experiment in detail](http://www.cosc.canterbury.ac.nz/~andy/papers/backEval.pdf), complete with pictures of a prototype “enhanced” Back button. According to the paper’s conclusion, the reimagined button is not less confusing than current implementations and it doesn’t necessarily make users more efficient. While the idea of helping users navigate web page history easily is definately worthy of consideration, web authors should be [building their sites so users don’t need to use the Back button in the first place](http://www.info-arch.org/lists/sigia-l/0102/0396.html).
-
-## Comments
-
-**D Gallagher** on 2003-02-28 17:04:41
-> I don't know. It seems like the "enhanced" back button would weigh heavy on the processor, kind of the way that fruit menu slows to a near-halt when you have icons turned on at all levels and previews enabled. Also, it reminds me of those sidebar/thumnail preview in place of tabs discussions on the Chimera list. I like the Mozilla implementation, where there is a separate small arrow icon so there's no getting the drop down menu when you just wanna go back.

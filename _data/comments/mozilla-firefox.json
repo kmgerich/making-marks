@@ -1,0 +1,255 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "author": "dzd",
+      "url": null,
+      "date": "2004-02-09T10:24:01",
+      "body": "Worst. Name. Ever. Sorry guys."
+    },
+    {
+      "id": 2,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-09T11:10:23",
+      "body": "To be honest, I'm not wild about the name change either, but I don't think it's actually a bad choice. I've certainly seen <a href=\"http://mozillazine.org/poll_results.html?id=2960\" rel=\"nofollow ugc\">worse names suggested</a>. Give it some time to sink in."
+    },
+    {
+      "id": 3,
+      "author": "chris",
+      "url": null,
+      "date": "2004-02-09T14:21:06",
+      "body": "Does this version play nice with the TBE?"
+    },
+    {
+      "id": 4,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-02-09T14:34:52",
+      "body": "Unfortunately it doesn't. See the <a href=\"http://kmgerich.com/archive/000046.html\" rel=\"nofollow ugc\">TBE post and comments</a>."
+    },
+    {
+      "id": 5,
+      "author": "khc",
+      "url": null,
+      "date": "2004-02-09T14:56:37",
+      "body": "Since TBE doesn't work with it, is there a way to make URLs open from other applications open a new tab instead of a new window?"
+    },
+    {
+      "id": 6,
+      "author": "andrew saturn",
+      "url": null,
+      "date": "2004-02-09T17:41:06",
+      "body": "I like the name, it's growing on me. I especially like the new logo - very original and pleasing to the eye. Give it time."
+    },
+    {
+      "id": 7,
+      "author": "Paul",
+      "url": null,
+      "date": "2004-02-09T19:51:38",
+      "body": "Couple of things I thought I'd post here among Mac users as the boards seem to be very PC orientated.\n\n1. I assume all I can do is wait for TBE to be updated for it to work properly again. I tried the fix I found elsewhere here but the tabs get all screwed up. All I really need to do is have other apps open pages in a new tab instead of a new window.\n\n2. How come Apple-M does not work to minimize?\n\n3. Whats with the white box that appears when using Expose?\n\nThanks."
+    },
+    {
+      "id": 8,
+      "author": "Paul",
+      "url": null,
+      "date": "2004-02-09T19:53:41",
+      "body": "Couple of things I thought I'd post here among Mac users as the boards seem to be very PC orientated.\n\n1. I assume all I can do is wait for TBE to be updated for it to work properly again. I tried the fix I found elsewhere here but the tabs get all screwed up. All I really need to do is have other apps open pages in a new tab instead of a new window.\n\n2. How come Apple-M does not work to minimize?\n\n3. Whats with the white box that appears when using Expose?\n\nThanks."
+    },
+    {
+      "id": 9,
+      "author": "EPS",
+      "url": null,
+      "date": "2004-02-09T22:48:52",
+      "body": "The scroll wheel jumps ahead WAY too many lines compared to how it works in all my other applications.  Any suggestions?"
+    },
+    {
+      "id": 10,
+      "author": "Noah",
+      "url": null,
+      "date": "2004-02-10T00:32:24",
+      "body": "That white box has been with us since the earliest of Mozilla... If I remember right, since the Mac is the only platform where all windows run under a single application instance, that control window keeps Firefox running when no browser windows are open, unlike Windows and 'nix, where each window is an application thread. It also keeps the menu bar going since on the other platforms menus are bound to the windows themselves. They got good at hiding that lil' guy (it used to appear in the Dock's window list) but obviously Expose has made it visible once again."
+    },
+    {
+      "id": 11,
+      "author": "Carlo",
+      "url": null,
+      "date": "2004-02-10T08:27:24",
+      "body": "<em>Since TBE doesn't work with it, is there a way to make URLs open from other applications open a new tab instead of a new window?</em>\n\nTry <a href=\"http://www.intraplanar.net/projects/tabprefs/\" rel=\"nofollow ugc\">TabPrefs 0.5</a>. Works fine w/ FF0.8 and comes with less fluff than TBE."
+    },
+    {
+      "id": 12,
+      "author": "Paul",
+      "url": null,
+      "date": "2004-02-10T17:21:53",
+      "body": "Noah - Thanks for the explanation about the white box.\n\nCarlo - I tried TabPrefs but new windows are still created by external apps, not new tabs. I have to use Safari with NetNewsWire for now I guess."
+    },
+    {
+      "id": 13,
+      "author": "Scott Vandehey",
+      "url": null,
+      "date": "2004-02-11T17:27:16",
+      "body": "Am I the only one who is confused about why the pinstripes don't show up in the screenshots of the theme on this site?\n\nI'm running firefox .8 on my 10.2.8 laptop, and the pinstripes display just fine in the title bar, toolbar, bookmark bar, and tab bar... but none of the screenshots on this site show them. What's going on?"
+    },
+    {
+      "id": 14,
+      "author": "phil",
+      "url": null,
+      "date": "2004-02-12T14:01:00",
+      "body": "I think Firefox is a fine name, especially given the  paucity of options.  It has a pretty good pedigree (originally famous for being a bestselling book about a wicked-cool plane of some kind) that was made into a Clint movie.\n\nAnyway, names that are household words now started out sounding dumb or odd: Playstation and Dreamcast for instance, or how about Google as a name for your all-powerful search engine.\n\nThe browser itself isn't bad either..."
+    },
+    {
+      "id": 15,
+      "author": "amake",
+      "url": null,
+      "date": "2004-02-13T02:17:13",
+      "body": "To get Firefox to open external URLs in the current window, go to about:config and set \"browser.always_reuse_window\" to true.\n\nUnfortunately, this doesn't open a new tab.  Maybe you can get your desired effect with a combination of this and TabPrefs."
+    },
+    {
+      "id": 16,
+      "author": "Scott Heath",
+      "url": null,
+      "date": "2004-02-13T12:04:05",
+      "body": "A few surprizes in Firefox .8 on my Jaguar G4:\n\n1-The theme preview in the preferences window showed a very old classic theme when I picked 'default'. Fortunately, the new pinstripe theme actually appeared on the browser.\n\n2-The icon on all alerts is the old phoenix icon!\n\n3-There is no way to launch the venkman extension, and the autoforms extension completely disappeared.\n\nGuess I'll still be using the Mozilla suite, even though I can't get pinstripe for it."
+    },
+    {
+      "id": 17,
+      "author": "Arman",
+      "url": null,
+      "date": "2004-02-13T15:07:55",
+      "body": "I personally LOVE the name, not to mention the logo and the actual browser. ;)"
+    },
+    {
+      "id": 18,
+      "author": "Simon",
+      "url": null,
+      "date": "2004-02-14T17:05:54",
+      "body": "\"Am I the only one who is confused about why the pinstripes don't show up in the screenshots of the theme on this site?\"\n\nPanther doesn't have these stripes does it?"
+    },
+    {
+      "id": 19,
+      "author": "Jafe Mourner",
+      "url": null,
+      "date": "2004-02-15T13:10:48",
+      "body": "This browser is amazing. Great work guys!"
+    },
+    {
+      "id": 20,
+      "author": "Anthony",
+      "url": null,
+      "date": "2004-02-23T14:53:40",
+      "body": "hi, i am looking for a brushed metal theme for Firefox, if anyone knows where i can find one please email me at macrlz9@mac.com THANK YOU SOOO MUCH!!!"
+    },
+    {
+      "id": 21,
+      "author": "Michel",
+      "url": null,
+      "date": "2004-03-03T09:30:34",
+      "body": "Hi Anthony,\n\nAFAIK you could use Unsanity's <a href=\"http://www.unsanity.com/haxies/ape/\" rel=\"nofollow ugc\">Application  Enhancer</a> to toggle the brushed metal appearance on a per-application basis.\n\nNot sure if that would work with Firefox, though since it uses Mac APIs to draw its UI when using the default Pinstripe theme, I reckon it should.\n\nCurrently Macless till September :(\n\n- Michel"
+    },
+    {
+      "id": 22,
+      "author": "monoclast",
+      "url": null,
+      "date": "2004-03-03T11:21:05",
+      "body": "Would you PLEASE do everyone a favor and take the  statement off your page that states you will \"release a Mozilla 1.5/1.6 pinstripe theme soon\"?\n\nI've been checking back with you web site for months and months, and you still haven't relewased anythign new.  So why have that statement there?\n\nI am quite sure the rest of the world's definition of \"soon\" is a lot different than \"six months\"!\n\nThanks.\n\n-mono"
+    },
+    {
+      "id": 23,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-03-03T13:42:55",
+      "body": "A while ago I did <a href=\"http://kmgerich.com/archive/000015.html\" rel=\"nofollow ugc\">an experiment to turn Phoenix metal</a>. It had horrible redraw issues where parts of the interface would just dissapear. I'm sure that if you use a brushed metal OS theme, Firefox will look ugly because while the theme attempts to use the OS theme, in some places I have to cheat because the OS theme doesn't provide things that I'd like to do.\n\nFor instance the API for applying OS theme styles will only give me a darker toolbar background, not the lighter one as seen in Cocoa apps. So I use a semi-transparent white PNG over the OS-drawn toolbar backgroundand they blend to give the desired look. This means that the Firefox toolbar looks like a Cocoa one when you use the default OS theme. But if you switch to a different one, particularly one with a dark toolbar background, you'll see that the Firefox toolbar is slightly lighter than the rest of the theme colors."
+    },
+    {
+      "id": 24,
+      "author": "Kevin",
+      "url": null,
+      "date": "2004-03-03T13:45:34",
+      "body": "monoclast, sorry that it's taking so long. But the Mozilla Suite theme is still in the works, and is in fact closer to being done now that we're almost finished with the Thunderbird theme, so \"soon\" still applies :)"
+    },
+    {
+      "id": 25,
+      "author": "Mano",
+      "url": null,
+      "date": "2004-03-06T18:28:50",
+      "body": "willl it also apply the new 1.7a(and b nightlies?)?"
+    },
+    {
+      "id": 26,
+      "author": "monoclast",
+      "url": null,
+      "date": "2004-03-18T08:06:40",
+      "body": "How about open sourcing the theme theen so that someone else can do it?\n\nIt seems you have other priorities; but Mozilla is in widespread use and deserves to have the pinstripe theme on Mac OS X!\n\n-mono"
+    },
+    {
+      "id": 27,
+      "author": "Fingerprint",
+      "url": null,
+      "date": "2004-04-19T10:29:46",
+      "body": "Your theme is the best of the Firefox themes in da fucking world. Breathtakin'."
+    },
+    {
+      "id": 28,
+      "author": "Fingerprint",
+      "url": null,
+      "date": "2004-04-21T06:27:25",
+      "body": "I use PinStripe theme in Firefox (Win XP default theme) and it looks really good. So. What's the problem about this theme in Windows Mozilla?"
+    },
+    {
+      "id": 29,
+      "author": "",
+      "url": null,
+      "date": "2004-04-22T00:05:36",
+      "body": "Fingerprint, the author states on the homepage that he will not be porting the Pinstripe theme to Windows. there are legal issues that prevent him from doing so.\n\n\"Note: I have no plans to port Pinstripe to Linux or Windows. Here's why.\"\n\ncheck out http://kmgerich.com/pinstripe/about.html for more details.\n\nto the theme's creator: EXCELLENT job. Firefox looks every bit like an OS X app should look."
+    },
+    {
+      "id": 30,
+      "author": "Fingerprint",
+      "url": null,
+      "date": "2004-04-22T09:37:09",
+      "body": "To (Someone): I undersood it. But I'm amazed, because the Pinstripe looks good (excellent) also under WinXP default theme. Without porting."
+    },
+    {
+      "id": 31,
+      "author": "not a fan of that",
+      "url": null,
+      "date": "2004-06-06T14:22:01",
+      "body": "Replace moveable type with other software, or you'll continue to receive crud like the above."
+    }
+  ],
+  "trackbacks": [
+    {
+      "id": 1,
+      "site": "Karmakars.com",
+      "title": "Mozilla Firefox",
+      "url": null,
+      "date": "2004-02-10T03:24:06",
+      "excerpt": "Mozilla FireFox 0.8Mozilla Firebird (ver 0.7) changed its name to Mozilla FireFox with the release of its new version 0.8 today. Infact I am using FireFox to write this entry :-) This latest release features a new download manager, bookmarks..."
+    },
+    {
+      "id": 2,
+      "site": "YZA's Blog",
+      "title": "Firefox 0.8(Mac)とピンストライプTheme",
+      "url": null,
+      "date": "2004-02-11T02:18:26",
+      "excerpt": "Mac 版 Mozilla Firebird にピンストライプ Themeをインストールして使用中の方、 Firefox 0.8 にアップグレードする際はご注意ください。そのままMac 版 Firefox 0.8 をインストールすると、スクロー..."
+    },
+    {
+      "id": 3,
+      "site": "Life as it Comes",
+      "title": "Mac Mozilla Themes",
+      "url": null,
+      "date": "2004-02-17T15:39:52",
+      "excerpt": "Kevin Gerich has delightful screenshots of the new Pinstripe UI for both Firefox and Thunderbird (not yet completed) on his site...."
+    },
+    {
+      "id": 4,
+      "site": "Nilesh's Weblog",
+      "title": "The Fox and the open bag",
+      "url": null,
+      "date": "2004-06-07T02:07:12",
+      "excerpt": "The Firefox visual identity team has decided on changing the default theme of Firefox in preparation of the impending 1.0 release. As often in the open source community, this has caused some furor in the mozilla dev community with people taking sides w..."
+    }
+  ]
+}
