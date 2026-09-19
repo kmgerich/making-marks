@@ -592,35 +592,36 @@ main :first-child {
 	color: var(--graphite);
 }
 
-/* Art gallery grid — stacked (1 col) on narrow/mobile screens, growing to 2 then 3 columns */
+/* Art gallery — masonry via CSS columns: 1 column on mobile, then 2, then 3.
+   Images keep their own aspect ratio (width/height attributes reserve the space),
+   and each card stays whole within its column. */
 .art-grid {
-	display: grid;
-	grid-template-columns: 1fr;
-	gap: 1rem;
+	columns: 1;
+	column-gap: 1.25rem;
 }
 @media (min-width: 480px) {
 	.art-grid {
-		grid-template-columns: repeat(2, 1fr);
-		gap: 1.25rem;
+		columns: 2;
 	}
 }
 @media (min-width: 720px) {
 	.art-grid {
-		grid-template-columns: repeat(3, 1fr);
-		gap: 2rem;
+		columns: 3;
+		column-gap: 1.75rem;
 	}
 }
 .art-grid-item {
 	display: block;
-	min-width: 0; /* let the grid track shrink below the image's intrinsic width */
+	break-inside: avoid;
+	margin-bottom: 1.75rem;
 	text-decoration: none;
 }
 .art-grid-image {
 	width: 100%;
-	aspect-ratio: 1 / 1;
-	object-fit: cover;
+	height: auto;
 	display: block;
 	border: 1px solid var(--rule);
+	border-radius: 15px;
 	background: var(--faint);
 	transition: opacity 0.15s ease;
 }
@@ -631,6 +632,7 @@ main :first-child {
 	display: block;
 	margin-top: 0.5rem;
 	font-size: 0.875rem;
+	line-height: 1.35;
 	color: var(--graphite);
 	overflow: hidden;
 	text-overflow: ellipsis;
