@@ -14,6 +14,19 @@ layout: layouts/base.njk
 	</footer>
 </article>
 
+<script>
+// Images wider than the content well get flagged; on wide screens the CSS
+// (.art-wide) then shows them 75% larger than the well, centered.
+(function () {
+	var content = document.querySelector(".art-piece-content");
+	if (!content) return;
+	var well = content.clientWidth;
+	content.querySelectorAll("img").forEach(function (img) {
+		if (+img.getAttribute("width") > well) img.classList.add("art-wide");
+	});
+})();
+</script>
+
 {%- if collections.art %}
 {%- set previousPiece = collections.art | getPreviousCollectionItem %}
 {%- set nextPiece = collections.art | getNextCollectionItem %}

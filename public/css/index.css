@@ -577,6 +577,18 @@ main :first-child {
 	margin: 0 auto;
 	border: 1px solid var(--rule);
 }
+/* Big images break out of the 740px column: 175% of the well, centered on it.
+   Only where the viewport is wide enough to hold that. */
+@media (min-width: 1280px) {
+	.art-piece-content img.art-wide {
+		position: relative;
+		left: 50%;
+		width: 175%;
+		max-width: 175%;
+		margin: 0;
+		transform: translateX(-50%);
+	}
+}
 .art-piece-content p {
 	font-size: 1.125rem;
 	line-height: 1.6;
