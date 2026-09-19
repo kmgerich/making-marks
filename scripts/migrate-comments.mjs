@@ -17,7 +17,6 @@
 //   - repairs double-encoded UTF-8 (mojibake) in the entry text
 //   - sorts each array ascending by timestamp (stable) and numbers it from 1
 //   - truncates the post body at the heading
-// Entries the trackback heuristic is less sure about go to scripts/review.txt.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -118,7 +117,6 @@ const files = walk(postsDir)
 	.sort();
 
 const seenSlugs = new Map();
-const review = [];
 const totals = { posts: 0, sourceEntries: 0, comments: 0, trackbacks: 0, emptyAuthor: 0 };
 const problems = [];
 
@@ -166,9 +164,6 @@ for (const file of files) {
 			if (cut !== excerpt) truncatedTails++;
 			excerpt = decodeEntities(cut);
 			trackbacks.push({ site: author, title, url: tb[1] ?? null, date, excerpt });
-			if (!/(\.\.\.|…)$/.test(excerpt)) {
-				review.push(`${slug} | ${date} | ${author} | "${title}" | trackback shape, but the excerpt is not truncated with an ellipsis`);
-			}
 		} else {
 			comments.push({ author, url, date, body: fixMojibake(lines.join("\n")) });
 		}
@@ -195,21 +190,10 @@ for (const file of files) {
 	}
 }
 
-if (!dry) {
-	fs.writeFileSync(
-		path.join(root, "scripts/review.txt"),
-		"Trackbacks classified by shape only (no Movable Type export was available).\n" +
-			"These match the shape but are not truncated with an ellipsis like most MT trackbacks;\n" +
-			"check that none is really a comment. slug | date | site | title | reason\n\n" +
-			review.join("\n") + "\n",
-	);
-}
-
 console.log(dry ? "DRY RUN, nothing written" : "written");
 console.log(totals);
 console.log(`mojibake sequences repaired: ${mojibakeFixes}`);
 console.log(`half-characters trimmed from truncated excerpts: ${truncatedTails}`);
-console.log(`trackbacks in review.txt: ${review.length}`);
 if (problems.length) {
 	console.error("PROBLEMS:\n" + problems.join("\n"));
 	process.exit(1);
