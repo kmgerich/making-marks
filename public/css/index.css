@@ -592,7 +592,7 @@ main :first-child {
 	color: var(--graphite);
 }
 
-/* Art gallery — masonry via CSS columns: 1 column on mobile, then 2, then 3.
+/* Art gallery — masonry via CSS columns (fallback): 1 column on mobile, then 2, then 3.
    Images keep their own aspect ratio (width/height attributes reserve the space),
    and each card stays whole within its column. */
 .art-grid {
@@ -616,6 +616,31 @@ main :first-child {
 	margin-bottom: 1.75rem;
 	text-decoration: none;
 }
+
+/* JS-placed masonry (see artgrid.njk): plain flex columns, items already in order. */
+.art-grid.art-grid-js {
+	columns: auto;
+	display: flex;
+	gap: 1.75rem;
+}
+.art-grid-col {
+	flex: 1 1 0;
+	min-width: 0;
+}
+
+/* Native masonry where the browser supports it: unlike columns, items keep
+   left-to-right order and each one lands in the shortest lane. */
+@supports (display: grid-lanes) {
+	.art-grid {
+		display: grid-lanes;
+		columns: auto;
+		grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+		gap: 1.75rem;
+	}
+	.art-grid-item {
+		margin-bottom: 0;
+	}
+}
 .art-grid-image {
 	width: 100%;
 	height: auto;
@@ -624,6 +649,24 @@ main :first-child {
 	border-radius: 15px;
 	background: var(--faint);
 	transition: opacity 0.15s ease;
+}
+.art-grid-frame {
+	position: relative;
+	display: block;
+}
+.art-grid-date {
+	position: absolute;
+	top: 0.6rem;
+	right: 0.6rem;
+	padding: 0.15rem 0.6rem;
+	border-radius: 999px;
+	background: rgb(22 24 29 / 0.72);
+	color: #fff;
+	font-size: 0.75rem;
+	font-weight: 500;
+	line-height: 1.5;
+	backdrop-filter: blur(6px);
+	pointer-events: none;
 }
 .art-grid-item:hover .art-grid-image {
 	opacity: 0.85;

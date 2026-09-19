@@ -4,10 +4,56 @@
 	<a href="{{ piece.url }}" class="art-grid-item">
 		{%- set pieceContent = piece.rawInput %}
 		{%- set imageMatch = pieceContent | regexMatch('!\\[.*?\\]\\((/media/[^)]+)\\)') %}
-		{%- if imageMatch %}
-		<img src="{{ imageMatch[1] }}" alt="{{ piece.data.title }}" class="art-grid-image" loading="lazy" eleventy:widths="400">
-		{%- endif %}
+		<span class="art-grid-frame">
+			{%- if imageMatch %}
+			<img src="{{ imageMatch[1] }}" alt="{{ piece.data.title }}" class="art-grid-image" loading="lazy" eleventy:widths="400">
+			{%- endif %}
+			<time class="art-grid-date" datetime="{{ piece.date | htmlDateString }}">{{ piece.date | readableDate("LLL d, yyyy") }}</time>
+		</span>
 		<span class="art-grid-title">{{ piece.data.title }}</span>
 	</a>
 {%- endfor %}
 </div>
+<script>
+// Left-to-right masonry: each item goes into the currently shortest column.
+// Heights come from the width/height attributes, so nothing waits on image loads.
+// Skipped where native `display: grid-lanes` works; without JS the CSS columns apply.
+(function () {
+	var grid = document.querySelector(".art-grid");
+	if (!grid || (window.CSS && CSS.supports("display", "grid-lanes"))) return;
+	var items = Array.prototype.slice.call(grid.children);
+	var count = 0;
+
+	function ratio(item) {
+		var img = item.querySelector("img");
+		var w = img && +img.getAttribute("width"), h = img && +img.getAttribute("height");
+		return w && h ? h / w : 1;
+	}
+
+	function layout() {
+		var width = grid.clientWidth;
+		var n = width < 440 ? 1 : width < 660 ? 2 : 3;
+		if (n === count) return;
+		count = n;
+		grid.textContent = "";
+		var cols = [], heights = [];
+		for (var i = 0; i < n; i++) {
+			var col = document.createElement("div");
+			col.className = "art-grid-col";
+			grid.appendChild(col);
+			cols.push(col);
+			heights.push(0);
+		}
+		items.forEach(function (item) {
+			var shortest = heights.indexOf(Math.min.apply(null, heights));
+			cols[shortest].appendChild(item);
+			heights[shortest] += ratio(item) + 0.2; // image + caption/gap, in column widths
+		});
+		grid.classList.add("art-grid-js");
+	}
+
+	layout();
+	if (window.ResizeObserver) new ResizeObserver(layout).observe(grid);
+	else window.addEventListener("resize", layout);
+})();
+</script>
