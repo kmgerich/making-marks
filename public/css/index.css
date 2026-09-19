@@ -577,14 +577,14 @@ main :first-child {
 	margin: 0 auto;
 	border: 1px solid var(--rule);
 }
-/* Big images break out of the 740px column: 175% of the well, centered on it.
+/* Big images break out of the 740px column: 150% of the well, centered on it.
    Only where the viewport is wide enough to hold that. */
-@media (min-width: 1280px) {
+@media (min-width: 1100px) {
 	.art-piece-content img.art-wide {
 		position: relative;
 		left: 50%;
-		width: 175%;
-		max-width: 175%;
+		width: 150%;
+		max-width: 150%;
 		margin: 0;
 		transform: translateX(-50%);
 	}
