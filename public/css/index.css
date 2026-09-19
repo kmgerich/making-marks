@@ -89,7 +89,7 @@ body {
 	color: var(--ink);
 	font-family: var(--font-family-sans);
 	font-weight: 400;
-	font-size: 1.0625rem; /* 17px */
+	font-size: 1.3rem;
 	line-height: 1.62;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
