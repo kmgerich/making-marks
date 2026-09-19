@@ -7,6 +7,7 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<meta name="generator" content="{{ eleventy.generator }}">
+		<link rel="preload" href="/fonts/FamiljenGrotesk-Roman-VF.woff2" as="font" type="font/woff2" crossorigin>
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -33,7 +34,7 @@
 
 		<header class="site-header">
 			<div class="site-header-inner">
-				<a href="/" class="site-title"><img src="/img/making-marks-wordmark.svg" alt="{{ metadata.title }}" class="site-wordmark" eleventy:ignore></a>
+				<a href="/" class="site-title" aria-label="{{ metadata.title }}, home"><img src="/img/wordmark.svg" alt="" width="196" height="74" class="site-wordmark" eleventy:ignore></a>
 
 				{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 				<nav class="site-nav">
@@ -60,6 +61,7 @@
 			</ul>
 			<p>© {% currentBuildYear %} {{ metadata.author.name }}</p>
 		</footer>
+
 		{# kmgerich - commenting out for now to prevent Git file changes #}
 		{# <!-- This page `{{ page.url }}` was built on {% currentBuildDate %} --> #}
 	</body>
