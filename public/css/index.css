@@ -370,7 +370,7 @@ main :first-child {
 /* Archive list — compact old-blog index, grouped by year */
 .archive-year {
 	font-size: 1.375rem;
-	margin: 2.5rem 0 0.5rem;
+	margin: 3rem 0 1rem;
 }
 .archive-year:first-child {
 	margin-top: 0;
@@ -379,7 +379,7 @@ main :first-child {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	font-size: 0.9375rem;
+	font-size: 1.2rem;
 }
 .archive-list-item {
 	display: flex;
@@ -388,10 +388,10 @@ main :first-child {
 }
 .archive-list-item time {
 	flex-shrink: 0;
-	width: 3.25rem;
+	width: 4.5rem;
 	color: var(--graphite);
 	font-family: var(--font-family-monospace);
-	font-size: 0.875rem;
+	font-size: 1em;
 	font-variant-numeric: tabular-nums;
 }
 .archive-list-item a {
