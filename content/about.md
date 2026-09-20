@@ -12,7 +12,7 @@ This is where I write about thoughts on technology and creativity and the tensio
 
 I'm an [Urban Sketcher](https://urbansketchers.org/) and can sometimes be found hanging out with the fabulous [Urban Sketchers Boston](https://www.facebook.com/urbansketchersboston/). Here's some of my [latest artwork](/art).
 
-Decades ago, I helped shape the evolution of [Mozilla](https://www.mozilla.org/en-US/) products and I was in the mix of global contributors when [Firefox](https://www.firefox.com/en-US/) was born. My project Pinstripe (in collab with Stephen Horlander) became the default theme on Mac Firebird in November 2003 and landed in Thunderbird in March 2004, and you and Stephen Horlander released the Winstripe and Pinstripe browser artwork used on Windows and Mac. You can explore my [blog posts from that era](/archive) here.
+Decades ago, I helped shape the evolution of [Mozilla](https://www.mozilla.org/en-US/) products and I was in the mix of global contributors when [Firefox](https://www.firefox.com/en-US/) was born. My project Pinstripe (in collab with Stephen Horlander) became the default theme on Mac Firebird (aka Firefox) in November 2003 and landed in Thunderbird in March 2004. You can explore my [blog posts from that era](/archive) here.
 
 
 
