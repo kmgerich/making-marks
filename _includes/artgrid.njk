@@ -10,7 +10,6 @@
 			{%- endif %}
 			<time class="art-grid-date" datetime="{{ piece.date | htmlDateString }}">{{ piece.date | readableDate("LLL d, yyyy") }}</time>
 		</span>
-		<span class="art-grid-title">{{ piece.data.title }}</span>
 	</a>
 {%- endfor %}
 </div>

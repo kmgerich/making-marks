@@ -40,8 +40,12 @@
 				<nav class="site-nav">
 					<h2 class="visually-hidden">Navigation menu</h2>
 					<ul class="nav">
+					{#- Exact match is the current page; a match on the section's path prefix marks a child page. Journal lives at "/", so its posts are matched on /journal/ instead. #}
 					{%- for entry in collections.all | eleventyNavigation %}
-						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+						{%- set prefix = "/journal/" if entry.url == "/" else entry.url %}
+						{%- set isPage = entry.url == page.url %}
+						{%- set isSection = not isPage and page.url.startsWith(prefix) %}
+						<li class="nav-item"><a href="{{ entry.url }}"{% if isPage %} aria-current="page"{% elif isSection %} class="is-section" aria-current="true"{% endif %}>{{ entry.title }}</a></li>
 					{%- endfor %}
 					</ul>
 				</nav>

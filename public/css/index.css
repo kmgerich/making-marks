@@ -273,17 +273,42 @@ code {
 	display: block;
 }
 .nav-item a[href] {
+	position: relative;
 	display: block;
 	font-size: 1rem;
 	font-weight: 500;
 	padding: 4px 0;
 	text-decoration: none;
 }
-.nav a[href][aria-current="page"] {
-	text-decoration: underline;
-	text-decoration-color: var(--red);
-    text-decoration-thickness: 13px;
-    text-underline-offset: 7px;
+
+/* Brush-stroke marker under the current page, or (fainter) under the section
+   the current page belongs to. The stroke is a solid --red block masked by the
+   SVG, so it follows the light and dark palettes. The tile is 60px wide with
+   matching start and end heights so it repeats seamlessly under any word. */
+.nav {
+	--swipe: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='12' viewBox='0 0 60 12'%3E%3Cpath d='M0 4.5C6 2.2 12 5.8 18 3.4c6-2.2 12 2.8 18 .4 6-2 12 1.8 18-.2 3-1 5-.2 6 .9L60 9.2c-3-1-6 1.2-12 .4-6-.8-12 1.2-18-.2-6-1.2-12 1.2-18-.2C6 8 3 9.8 0 9.2Z' fill='%23000'/%3E%3C/svg%3E");
+}
+.nav a[aria-current="page"]::after,
+.nav a.is-section::after {
+	content: "";
+	position: absolute;
+	left: -2px;
+	right: -2px;
+	bottom: -5px;
+	height: 12px;
+	background: var(--red);
+	-webkit-mask-image: var(--swipe);
+	mask-image: var(--swipe);
+	-webkit-mask-repeat: repeat-x;
+	mask-repeat: repeat-x;
+	-webkit-mask-position: left center;
+	mask-position: left center;
+	-webkit-mask-size: auto 12px;
+	mask-size: auto 12px;
+	transform: rotate(-4deg);
+}
+.nav a.is-section::after {
+	opacity: 0.38;
 }
 
 /* Main content */
@@ -697,17 +722,6 @@ main :first-child {
 }
 
 /* Art piece page */
-.art-piece-eyebrow {
-	font-size: 0.9375rem;
-	margin-bottom: 1.5rem;
-}
-.art-piece-eyebrow a {
-	font-weight: 500;
-}
-.art-piece-eyebrow a:hover {
-	text-decoration: underline;
-	text-decoration-color: var(--red);
-}
 .art-piece-content img {
 	display: block;
 	margin: 0 auto;
