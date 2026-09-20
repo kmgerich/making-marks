@@ -6,8 +6,14 @@ const eleventyNavigation = {
 ---
 # About
 
-This is where I write about AI, art, creativity, technology, and the space where all of them meet — plus the occasional detour into whatever I'm making.
+Making Marks is a project of Kevin Gerich. I live in a suburb of Masachusetts. Go [WooSox](https://www.mlb.com/milb/worcester)!
 
-I'm also an [urban sketcher](/art/), usually with watercolor and a fountain pen, mostly around Boston.
+This is where I write about thoughts on technology and creativity and the tensions between them, plus detours into whatever I'm making.
 
-Before this, I spent a while writing about a much narrower kind of technology — Firefox themes, Mozilla builds, that whole era. That's kept in the [archive](/archive/) if you're curious.
+I'm an [Urban Sketcher](https://urbansketchers.org/) and can sometimes be found hanging out with the fabulous [Urban Sketchers Boston](https://www.facebook.com/urbansketchersboston/). Here's some of my [latest artwork](/art).
+
+Decades ago, I helped shape the evolution of [Mozilla](https://www.mozilla.org/en-US/) products and I was in the mix of global contributors when [Firefox](https://www.firefox.com/en-US/) was born. You can explore my [blog posts from that era](/archive) here.
+
+I used to work for publishing companies and helped manage the transition from print-centric publishing to digital first. Now I work for a public university as a director of a small team of developers. I don't take consulting gigs. 
+
+Feel free to get in touch. You can get in touch with me on [Mastadon](https://mastodon.social/@kmgerich) and I unfortunately feel the need to maintain an [Instagram presence](https://www.instagram.com/kmgerich/).
