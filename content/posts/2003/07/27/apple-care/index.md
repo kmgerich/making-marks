@@ -2,7 +2,7 @@
 title: Apple Care
 authors:
   - name: Kevin
-    url: https://www.kmgerich.com
+    url: /
     avatarUrl: >-
       https://secure.gravatar.com/avatar/c8d6c1963572ac9a476fd65f48ea6f3a1741d7ed3b6520563cf90cb984419f86?s=96&d=mm&r=g
 date: 2003-07-28T07:04:54.000Z

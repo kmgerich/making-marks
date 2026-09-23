@@ -2,7 +2,7 @@
 title: Firefox 1.x Classic themes available
 authors:
   - name: Kevin
-    url: https://www.kmgerich.com
+    url: /
     avatarUrl: >-
       https://secure.gravatar.com/avatar/c8d6c1963572ac9a476fd65f48ea6f3a1741d7ed3b6520563cf90cb984419f86?s=96&d=mm&r=g
 date: 2006-08-05T22:10:44.000Z
@@ -30,4 +30,4 @@ These are simply stand-alone versions of the Firefox themes before the [Firefox 
 [Download Pinstripe FF Classic](http://kmgerich.com/downloads/pinstripe_ff_classic_0.9.jar)  
 [Download Winstripe FF Classic](http://kmgerich.com/downloads/winstripe_ff_classic_0.9.jar)
 
-By the way, you can get the [Illustrator and Photoshop files used to make these themes here](http://kmgerich.com/2006/07/11/firefox-browser-ui-artwork-released/).
+By the way, you can get the [Illustrator and Photoshop files used to make these themes here](/2006/07/11/firefox-browser-ui-artwork-released/).

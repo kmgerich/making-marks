@@ -2,7 +2,7 @@
 title: 'The Browser, Redesigned: Take Two (or 0.2)'
 authors:
   - name: stephen
-    url: https://www.kmgerich.com/author/stephen/
+    url: /
     avatarUrl: https://secure.gravatar.com/avatar/?s=96&d=mm&r=g
 date: 2004-06-28T10:33:54.000Z
 metadata:

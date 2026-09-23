@@ -2,7 +2,7 @@
 title: A build of Mozilla Firebird for Mac
 authors:
   - name: Kevin
-    url: https://www.kmgerich.com
+    url: /
     avatarUrl: >-
       https://secure.gravatar.com/avatar/c8d6c1963572ac9a476fd65f48ea6f3a1741d7ed3b6520563cf90cb984419f86?s=96&d=mm&r=g
 date: 2003-08-07T01:00:14.000Z

@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Kevin Gerich",
 		email: "kevin@kmgerich.com",
-		url: "https://kmgerich.com/about/"
+		url: "https://www.makingmarks.net/about/"
 	}
 }
