@@ -15,7 +15,7 @@ metadata:
 tags:
   - pinstripe-theme
 ---
-![throbber.png](throbber-gk1u75pFNj65.png)  
+![The animated loading throbber blending into an Aqua tab](throbber-gk1u75pFNj65.png)  
 Support for the MNG file format was [removed from Mozilla today](http://bugzilla.mozilla.org/show_bug.cgi?id=195280). [Multiple-image Network Graphics](http://www.libpng.org/pub/mng/) is like a GIF animation but with alpha-transparency so it can blend in with images among other neat [features](http://www.libpng.org/pub/mng/#history). Look at the image above with the loading animation blending in with the Aqua tab. This looks pretty awful when in GIF format. The thing is that there is no alternative to MNG in Mozilla, so I will have to go back to GIF animations or find some other way of doing an animated icon with alpha-transparency. Any suggestions?
 
 Update: Please vote for [Bug 18574](http://bugzilla.mozilla.org/show_bug.cgi?id=18574) if you’d like to see MNG support restored to Mozilla. But please don’t use the bug for advocacy – that’s what the [MozillaZine](http://www.mozillazine.org) forums and your blogs are for. Thanks!

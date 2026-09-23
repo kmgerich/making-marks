@@ -17,7 +17,7 @@ tags:
   - pinstripe-theme
   - thunderbird
 ---
-![](junkbar-yHPxSX2OYjA7.png)
+![The Pinstripe theme's junk mail toolbar in Thunderbird](junkbar-yHPxSX2OYjA7.png)
 
 I’m proud to announce that Pinstripe has become the new default theme on the Mac version of [Mozilla Thunderbird](http://www.mozilla.org/projects/thunderbird/). The theme is a collaboration between myself and designer [Stephen Horlander](mailto:stephen@noved.org) that attempts to make Thunderbird feel right at home on the Mac desktop.
 

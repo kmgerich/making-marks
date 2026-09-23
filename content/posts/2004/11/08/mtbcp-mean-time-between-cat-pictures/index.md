@@ -15,6 +15,6 @@ metadata:
 tags:
   - stuff
 ---
-![kittens.jpg](kittens-ugVnmPSTZX51.jpg)
+![Two kittens](kittens-ugVnmPSTZX51.jpg)
 
 It’s just a matter of time before any blog contains pictures of children or kittens. Here are two little ladies that we’ll be adopting after Thanksgiving. Any kitten-raising tips would be appreciated 🙂

@@ -22,6 +22,6 @@ tags:
 ---
 After seeing [Panther’s new tab controls](http://208.189.136.121/PantherPreview/html/PantherPreview13.html), I thought it was time to redesign [Pinstripe’s](http://kmgerich.com/pinstripe/pinstripe.html) browser tabs. I want to make the tabs less visually disturbing than the Aqua tabs while being usable and polished. Here’s what I have so far. Click on the thumbnail below to view the whole image. Please comment on the design and suggest changes. Bonus points if you create a mockup of how you think it should look!
 
-[![](tab_prototype2_thumb-FyJlVygOqRoi.jpg)](http://kmgerich.com/archive/images/tab-prototype21.html)
+[![Thumbnail of the redesigned Pinstripe browser tab prototype; click to view the full image](tab_prototype2_thumb-FyJlVygOqRoi.jpg)](http://kmgerich.com/archive/images/tab-prototype21.html)
 
 P.S.: The screenshot is of the beta of Pinstripe 3 on Mozilla Firebird with the [SmoothStripes](http://homepage.mac.com/max_08/themes/smoothstripes.htm) theme. I don’t use OS themes myself but I plan to make the next version of Pinstripe more theme-friendly.

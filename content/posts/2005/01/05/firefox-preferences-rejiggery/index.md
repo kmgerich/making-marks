@@ -21,4 +21,4 @@ tags:
 
 Someone tell me where I can get the Goats font.
 
-![newpref-general.png](newpref-general-WBSzD1SnYBxK.png)
+![The redesigned Firefox preferences window, General pane](newpref-general-WBSzD1SnYBxK.png)

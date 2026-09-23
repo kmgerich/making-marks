@@ -19,7 +19,7 @@ tags:
   - firefox
   - projects
 ---
-![widgets2.png](widgets2-Fm7SR2Z4gJkn.png)
+![The second version of the pretty-widgets HTML form controls for Mac Firefox](widgets2-Fm7SR2Z4gJkn.png)
 
 Here’s a followup on [my attempt to make the HTML widgets on Mac Firefox presentable](http://kmgerich.com/archive/000069.html). I’ve had to make some compromises here to get the widgets to look nice, for instance I force the background-color and -image on buttons. And text box borders usually use my colors rather than the ones specified by the web page CSS. For these reasons these styles would probably not be acceptable for inclusion in Firefox, but in most cases I’ve found these to be more comfortable than the primitive default widgets.
 

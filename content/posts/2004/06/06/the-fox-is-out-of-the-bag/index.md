@@ -22,4 +22,4 @@ You might have [read](http://forums.mozillazine.org/viewtopic.php?t=82385&postda
 Edit: I appreciate all feedback, negative as well as positive, but please reserve final judgement until you have actually used the theme 🙂
 
 Click on the image to enlarge.  
-[![winstripe_inprogress.png](winstripe_inprogress-thumb-OAyHuLFJyp31.png)](http://kmgerich.com/archive/images/winstripe_inprogress.png)
+[![Thumbnail of the in-progress new default Firefox theme; click to enlarge](winstripe_inprogress-thumb-OAyHuLFJyp31.png)](http://kmgerich.com/archive/images/winstripe_inprogress.png)

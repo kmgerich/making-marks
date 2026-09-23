@@ -19,7 +19,7 @@ tags:
   - firefox
   - usability
 ---
-![findbar-new.png](findbar-new-PUeBsdHetSFL.png)
+![The redesigned Firefox find bar](findbar-new-PUeBsdHetSFL.png)
 
 I have always thought the UI for [Firefox’s Find Toolbar](http://www.squarefree.com/burningedge/archives/000494.html) has room for improvement. Recently the Match Case checkbox was added to the bar, increasing the amount of horizontal space it requires. This becomes a problem when the find bar is used in the Help window, where a portion is clipped off unless you widen the window.
 

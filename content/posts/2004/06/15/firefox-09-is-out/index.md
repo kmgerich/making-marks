@@ -21,4 +21,4 @@ Mac users will allso notice that the default theme also gets a set of Aqua icons
 
 I will create a Graphite version soon. Oh, and before you ask me to put the old icons back, please turn on “small icons” and live with the new ones for a week. Then we’ll talk 🙂
 
-![newnavicons.png](newnavicons-sEPGeITHlC9F.png)
+![The new Aqua-style navigation icons in Firefox 0.9](newnavicons-sEPGeITHlC9F.png)

@@ -17,7 +17,9 @@ tags:
   - gear
   - linux
 ---
-![widgets-three.png](thinkpad-wY5wTZRrVP2r.jpg)A few days ago I took delivery of a brand-spanking-new Thinkpad T42. It’s a beast of a machine with the sex appeal of a brick, but it’ll do.
+![A new Thinkpad T42 laptop](thinkpad-wY5wTZRrVP2r.jpg)
+
+A few days ago I took delivery of a brand-spanking-new Thinkpad T42. It’s a beast of a machine with the sex appeal of a brick, but it’ll do.
 
 Why a Thinkpad? I’d like to be able to build Firefox and Thunderbird on Windows and Linux. I’m very slow in getting to my Windows Firefox bugs because of the lack of a good development machine. Now I have no excuse 🙂 I’d also like to develop themes for GNOME at some point.  
   

@@ -20,7 +20,7 @@ tags:
 ---
 Designer Stephen Horlander and I are pleased to announce the availability of the toolbar and UI artwork seen in Firefox on Windows and Mac OS X.
 
-![](ff-toolbars-b9OOBm6EncG5.png)
+![The Firefox toolbar and UI artwork for Windows and Mac OS X](ff-toolbars-b9OOBm6EncG5.png)
 
 [Winstripe](http://kmgerich.com/2004/06/28/the-browser-redesigned-take-two-or-02/) has been the default theme on the Windows version of Firefox for over two years. Man, how time flies. To explain the odd name, [the Pinstripe project](http://kmgerich.com/projects/pinstripe/) started in 2001 as an attempt to make the appearance of the Mozilla Suite fit in with the Mac OS X desktop. Icon designer Stephen Horlander joined the project and took the icon artwork to a new level of usability and polish. The Windows version of Pinstripe, dubbed “Winstripe”, [became the default look on the Windows version](http://kmgerich.com/2004/06/08/the-browser-redesigned/) of Firefox 0.9.
 

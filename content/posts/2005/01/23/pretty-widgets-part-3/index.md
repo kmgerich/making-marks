@@ -19,7 +19,9 @@ tags:
   - firefox
   - projects
 ---
-![widgets-three.png](widgets-three-fRB2vhIaE54T.png)This is a third try at making Mac Firefox’s primitive-looking HTML widgets work with the design of Pinstripe. This time I took care to make the styles play well with others. For instance these styles won’t override CSS set by a web page in most cases.  
+![The third version of the pretty-widgets HTML form controls for Mac Firefox](widgets-three-fRB2vhIaE54T.png)
+
+This is a third try at making Mac Firefox’s primitive-looking HTML widgets work with the design of Pinstripe. This time I took care to make the styles play well with others. For instance these styles won’t override CSS set by a web page in most cases.  
   
 You’ll note that the styles have moved into forms.css from platform-forms.css. That’s because platform-forms.css doesn’t seem to exist in recent trunk builds of Firefox. If you’ve used a previous version of these widgets, you should remove them before you apply these files or start with a fresh new copy of Firefox.
 

@@ -15,6 +15,6 @@ metadata:
 tags:
   - thunderbird
 ---
-![](thunderbird-toolbar-LNagS15yFCGO.png)
+![First look at the Pinstripe theme's toolbar in Thunderbird](thunderbird-toolbar-LNagS15yFCGO.png)
 
 The Pinstripe Theme is coming soon to Thunderbird (Mac only of course)! Stephen Horlander has created some amazing icons. You’re gonna love it 🙂 Watch this blog for details.

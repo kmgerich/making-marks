@@ -19,4 +19,4 @@ tags:
 ---
 This is a preview of an icon set I’m working on for Chimera. I may expand it into a Mozilla skin at some point.
 
-![toolbarpreview.png](toolbarpreview-6MvybgtKH3vY.png)
+![A preview of the new toolbar icons](toolbarpreview-6MvybgtKH3vY.png)

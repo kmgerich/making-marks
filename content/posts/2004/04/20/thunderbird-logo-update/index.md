@@ -17,7 +17,7 @@ tags:
   - icons
   - thunderbird
 ---
-![](thunderbird-logo-QE8kOt3GPpzD.png)
+![The updated Thunderbird logo](thunderbird-logo-QE8kOt3GPpzD.png)
 
 [Jon Hicks](http://www.hicksdesign.co.uk/journal/2004/04/thunderbird/), with input from the [Mozilla Visual Identity Team](http://www.mozillazine.org/talkback.html?article=4319), has designed a beautiful new logo and icon for [Mozilla Thunderbird](http://www.mozilla.org/projects/thunderbird/). Strong imagery. Great colors.
 

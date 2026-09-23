@@ -21,4 +21,4 @@ Announcing a Very Special Mozilla Theme! This theme is based on Pinstripe and fo
 
 “In order to make toolbar icons easily distinguishable from one another, each icon should be a distinct animal. Use real-world objects (such as a moose) to facilitate quick recognition by users.”
 
-![farm_pinstripe.png](farm_pinstripe-G6Z8xZ3AhGcV.png)
+![A joke mockup of the Pinstripe theme with toolbar icons replaced by farm animals](farm_pinstripe-G6Z8xZ3AhGcV.png)
