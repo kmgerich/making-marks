@@ -311,6 +311,64 @@ code {
 	opacity: 0.38;
 }
 
+/* Site header: index column
+   Wordmark left, links stacked in a left-aligned column at the right.
+   Same layout at every width. */
+.site-header-inner {
+	align-items: center;
+	gap: 0.75rem 1rem;
+	padding: 1rem 1.25rem;
+}
+.site-header .site-title {
+	flex: 0 1 auto;
+	min-width: 0;
+	max-width: 100%;
+}
+.site-header .site-title .site-wordmark {
+	height: 4.5rem;
+	max-width: 100%;
+	object-fit: contain;
+	object-position: left center;
+}
+.nav {
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 0.5rem;
+}
+.nav-item a[href] {
+	padding: 0;
+	line-height: 1.5;
+}
+/* Bigger hit area (32px tall) without changing the layout. */
+.nav-item a[href]::before {
+	content: "";
+	position: absolute;
+	inset: -4px -0.75rem;
+}
+.nav a[aria-current="page"]::after,
+.nav a.is-section::after {
+	bottom: -4px;
+	height: 9px;
+	-webkit-mask-size: auto 9px;
+	mask-size: auto 9px;
+	transform: rotate(-3deg);
+}
+
+@media (min-width: 600px) {
+	.site-header-inner {
+		padding: 1.25rem 1.5rem;
+	}
+	.site-header .site-title .site-wordmark {
+		height: 7rem;
+	}
+	.nav {
+		gap: 0.625rem;
+	}
+	.nav-item a[href] {
+		font-size: 1.0625rem;
+	}
+}
+
 /* Main content */
 main {
 	max-width: 740px;
@@ -870,9 +928,3 @@ main :first-child {
 	margin: 0 0 0.75rem 0;
 }
 
-@media (max-width: 600px) {
-	.site-header-inner {
-		flex-direction: column;
-		align-items: flex-start;
-	}
-}
