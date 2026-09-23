@@ -289,34 +289,38 @@ code {
 	text-decoration: none;
 }
 
-/* Brush-stroke marker under the current page, or (fainter) under the section
-   the current page belongs to. The stroke is a solid --red block masked by the
-   SVG, so it follows the light and dark palettes. The tile is 60px wide with
-   matching start and end heights so it repeats seamlessly under any word. */
-.nav {
-	--swipe: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='12' viewBox='0 0 60 12'%3E%3Cpath d='M0 4.5C6 2.2 12 5.8 18 3.4c6-2.2 12 2.8 18 .4 6-2 12 1.8 18-.2 3-1 5-.2 6 .9L60 9.2c-3-1-6 1.2-12 .4-6-.8-12 1.2-18-.2-6-1.2-12 1.2-18-.2C6 8 3 9.8 0 9.2Z' fill='%23000'/%3E%3C/svg%3E");
-}
-.nav a[aria-current="page"]::after,
-.nav a.is-section::after {
-	content: "";
+/* Ink splotch marking the current page, or (fainter) the section the current
+   page belongs to — a scanned mark instead of a drawn underline. Hangs to
+   the left of the link as an outdent (like a hanging bullet) rather than
+   sitting inline before the text, so every nav item's text still lines up
+   on the same left edge whether or not it carries the mark. Painted as a
+   solid --red block masked by the scan's alpha, the same technique the
+   brush-stroke swipe used, so it follows the light and dark accent color
+   with no separate dark asset. Sized off font-size so it scales with the
+   breakpoint below; aspect-ratio keeps the scan's proportions as it scales. */
+.nav-splotch {
+	display: block;
 	position: absolute;
-	left: -2px;
-	right: -2px;
-	bottom: -5px;
-	height: 12px;
+	top: 50%;
+	right: 100%;
+	margin-right: 0.5em;
+	transform: translateY(-50%);
+	height: 1.65em;
+	width: auto;
+	aspect-ratio: 252 / 214;
 	background: var(--red);
-	-webkit-mask-image: var(--swipe);
-	mask-image: var(--swipe);
-	-webkit-mask-repeat: repeat-x;
-	mask-repeat: repeat-x;
-	-webkit-mask-position: left center;
-	mask-position: left center;
-	-webkit-mask-size: auto 12px;
-	mask-size: auto 12px;
-	transform: rotate(-4deg);
+	-webkit-mask-image: url("/img/nav-splotch.png");
+	mask-image: url("/img/nav-splotch.png");
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-size: contain;
+	mask-size: contain;
+	mask-mode: alpha;
 }
-.nav a.is-section::after {
-	opacity: 0.38;
+.nav a.is-section .nav-splotch {
+	opacity: 0.45;
 }
 
 /* Site header: index column
@@ -352,14 +356,6 @@ code {
 	content: "";
 	position: absolute;
 	inset: -4px -0.75rem;
-}
-.nav a[aria-current="page"]::after,
-.nav a.is-section::after {
-	bottom: -4px;
-	height: 9px;
-	-webkit-mask-size: auto 9px;
-	mask-size: auto 9px;
-	transform: rotate(-3deg);
 }
 
 @media (min-width: 600px) {
